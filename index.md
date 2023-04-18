@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Digital Services Awards 2023
-description: |
-  An Isomer site of the Singapore Government
+description: Digital Services Awards 2023 organised by Whole Of Government
+  Application Analytics (WOGAA)
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
