@@ -1,6 +1,6 @@
 title: Digital Services Awards 2023
 url: https://digitalservicesawards.gov.sg
-favicon: /images/dsa_logo_rgb.png
+favicon: /images/dsa2023_rgb.svg
 colors:
   primary-color: "#b41e8e"
   secondary-color: "#f47920"
@@ -52,7 +52,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dinuub7nyuhl8.amplifyapp.com
 prod: https://master.dinuub7nyuhl8.amplifyapp.com
-shareicon: /images/dsa_logo_rgb.png
+shareicon: /images/dsa2023_rgb.svg
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
