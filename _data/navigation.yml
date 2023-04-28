@@ -1,8 +1,10 @@
 logo: /images/dsa_logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: How to Enter
+    collection: how-to-enter
   - title: Example Folder
     collection: example-folder
+  - title: Contact Us
+    url: /contact-us/
