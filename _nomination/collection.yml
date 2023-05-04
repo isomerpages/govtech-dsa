@@ -1,5 +1,5 @@
 collections:
-  how-to-enter:
+  nomination:
     output: true
     order:
       - Submit Nomination.md
