@@ -1,10 +1,14 @@
 logo: /images/dsa_logo.png
 links:
-  - title: Example Page
-    url: /example-page/
+  - title: About
+    url: /about-digital-services-awards
   - title: Nomination
     collection: nomination
   - title: Judging
     collection: judging
-  - title: Contact Us
-    url: /contact-us/
+  - title: Winners
+    url: /winners
+  - title: Livestream
+    url: /livestream
+  - title: FAQ
+    url: /faq
