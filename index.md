@@ -5,7 +5,7 @@ description: Digital Services Awards 2023 organised by Whole Of Government
   Application Analytics (WOGAA)
 image: /images/dsa2023_rgb.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Hero title
