@@ -1,5 +1,4 @@
 collections:
   judging:
     output: true
-    order:
-      - folder-page.md
+    order: []
