@@ -24,9 +24,19 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Digital Services Awards (DSA)
+      description: This serves to recognise outstanding achievement and commitment to
+        maintaining excellent digital service standards from the Singapore
+        Government.
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: Infobar Title
+      subtitle: Latest News
+      description: Infobar description
+      button: Button Text
 ---
