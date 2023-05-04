@@ -2,5 +2,6 @@ collections:
   nomination:
     output: true
     order:
+      - 2023 Nominees.md
       - Submit Nomination.md
       - Eligibility.md
