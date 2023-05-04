@@ -1,4 +1,5 @@
 collections:
   judging:
     output: true
-    order: []
+    order:
+      - Evaluation Process.md
