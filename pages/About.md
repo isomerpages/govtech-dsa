@@ -11,7 +11,7 @@ description: ""
 <p>_italics_</p>
 <p>~~~strikethrough~~~</p>
 
-[Text to display\](http://www.example.com)
+[text](www.example.com)
 
 * Generic list item
 * Generic list item
