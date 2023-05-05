@@ -7,8 +7,8 @@ description: ""
 ## Medium header
 ### Small header
 <h4 style="color:#B41E8E;">Tiny header</h4>
-\*\***bold**\*\*
-<p>\*_italics_\*</p>
+**bold**
+<p>_italics_</p>
 <p>~~~strikethrough~~~</p>
 
 * Generic list item
