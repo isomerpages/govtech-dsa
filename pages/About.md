@@ -5,8 +5,8 @@ description: ""
 ---
 # Big header
 ## Medium header
-<h3 style="color:#B41E8E;">### Small header</h3>
-#### Tiny header
+### Small header
+<h4 style="color:#B41E8E;">Tiny header</h4>
 \*\***bold**\*\*
 <p>\*_italics_\*</p>
 <p>~~~strikethrough~~~</p>
