@@ -5,7 +5,7 @@ description: ""
 ---
 # Big header
 ## Medium header
-### Small header
+<span style="color:#B41E8E;">### Small header</span>
 #### Tiny header
 \*\***bold**\*\*
 <p>\*_italics_\*</p>
