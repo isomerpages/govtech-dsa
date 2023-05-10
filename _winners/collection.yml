@@ -1,0 +1,4 @@
+collections:
+  winners:
+    output: true
+    order: []
