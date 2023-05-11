@@ -19,7 +19,7 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 		  <input type="checkbox" id="accordion1">
 		  <label for="accordion1">Label 1</label>
 		  <div>
-				Message Hello Content 2
+				Message Hello Content 1
 		  </div>
 	</li>
   <li>
