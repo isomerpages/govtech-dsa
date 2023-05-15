@@ -8,8 +8,8 @@ description: ""
 <hr style="border:1px solid #98A2B3;">
 <h3>Categories</h3>
 <p>The awards categories consist of the following:</p>
-<div class="cat-table">
-	<div class="cat-icon">![](/images/icn_usability.svg)</div>
-	<div class="cat-desciption"><h4>Best Usability</h4>
+<div class="row">
+	<div class="col col-3 mr-3">![](/images/icn_usability.svg)</div>
+	<div class="col col-9"><h4>Best Usability</h4>
 	<p>This award recognises the Government and Industry Informational Service that has the best usability in terms of ease of use, usefulness and satisfaction based on a round of judges’ evaluations and assessment by citizens.</p></div>
 	</div>
