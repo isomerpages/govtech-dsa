@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">h4{color:#B41E8E;}</style>
 <h4>Nominations for the Best Usability and Most Popular Informational Service (industry) awards are now open! Refer to the following information to nominate your website.</h4>
 <p>For government agencies who would like to nominate their websites for the Best Usability award, you may do so by submitting it through the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
-<hr style="border:1px solid #98A2B3;">
+<hr>
 <h3>Eligibility</h3>
 To enter the Best Usability and Most Popular Informational Website awards, the nominated websites will need to adhere to the following criteria:  
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
