@@ -13,8 +13,8 @@ description: ""
 		<div class="row">
 			<div class="col is-full"><a aria-label="View the panel of judges" href="/judging-panel/" class="bp-button is-primary is-medium">View the panel of judges</a></div>
 									</div>
-		<h4>Tier 3: Establishing the Final Winner - Citizen Evaluation</h4>
-		<p>100 citizen evaluators including Persons with Disabilities (PWDs) will assess the top 3 nominees based on the <a aria-label="Link to find out more about System Usability Scale" target="_blank" href="https://www.nngroup.com/videos/system-usability-scale/"><strong>System Usability Scale (SUS)</strong></a>. The nominee that receives the highest combined score from the Judges and Citizen Evaluation will be announced as the winner of Best Usability during the award ceremony.</p>
 	</div>
 	<div class="col is-4">image goes here.</div>
+	<div class="col is-12">		<h4>Tier 3: Establishing the Final Winner - Citizen Evaluation</h4>
+		<p>100 citizen evaluators including Persons with Disabilities (PWDs) will assess the top 3 nominees based on the <a aria-label="Link to find out more about System Usability Scale" target="_blank" href="https://www.nngroup.com/videos/system-usability-scale/"><strong>System Usability Scale (SUS)</strong></a>. The nominee that receives the highest combined score from the Judges and Citizen Evaluation will be announced as the winner of Best Usability during the award ceremony.</p></div>
 	</div>
