@@ -21,3 +21,4 @@ To enter the Best Usability and Most Popular Informational Website awards, the n
 <h3>How to Nominate</h3>
 <p>Submit your nominations through the form by <strong>31 July 2023, 6pm SGT.</strong></p>
 <p>For more details on the evaluation criteria, please go the the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a></p>
+<div class="row is-centered"><a class="bp-button is-primary" href="/submit-nomination/">Submit Nomination</a></div>
