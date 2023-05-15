@@ -11,6 +11,6 @@ description: ""
 	<p>Over the years, several new award categories were introduced to expand the coverage, recognising the wider community for their contributions.</p>
 </div>
 <div class="col col-4">Image goes here.</div></div>
-<hr style="1px solid #F47920;">
+<hr style="border:1px solid #98A2B3;">
 <h3>Organising Team</h3>
 <p>Add here</p>
