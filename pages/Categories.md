@@ -3,6 +3,7 @@ title: Categories
 permalink: /award-categories/
 description: ""
 ---
+<style type="text/css">h4{color:#B41E8E;}</style>
 <p>A majority of the award categories are powered by WOGAA, a Whole-of-Government platform that tracks, monitors and recommends improvements for websites. These awards are more technical in nature. The other award categories have qualitative elements which make it more comprehensive, covering areas where machines cannot evaluate like an actual user’s experience and subjective visual differences.</p>
 <hr style="border:1px solid #98A2B3;">
 <h3>Categories</h3>
