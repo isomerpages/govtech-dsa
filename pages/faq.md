@@ -120,4 +120,4 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 	</li>
 </ul>
 
-If you have any questions about the Digital Services Awards, contact us at support@digitalservicesawards.gov.sg
+If you have any questions about the Digital Services Awards, contact us at <a href="mailto:support@digitalservicesawards.gov.sg">support@digitalservicesawards.gov.sg</a>
