@@ -12,7 +12,7 @@ h4 {
 <hr>
 <h3>Categories</h3>
 <p>The awards categories comprise of the following:</p>
-<div class="row">
+<div class="row is-flex-wrap-wrap">
   <div class="col is-2 mr-4"><img src="/images/icn_usability.svg"></div>
   <div class="col is-10">
     <h4>Best Usability</h4>
