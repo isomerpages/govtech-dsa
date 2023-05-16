@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Meet the winners
-      background: /images/website_herobanner2.jpg
+      background: /images/website_herobanner.jpg
       button: See the list of DSA’22 winners
       url: /winners/
       key_highlights:
@@ -23,10 +23,12 @@ sections:
           description: Be notified about the latest
           url: https://form.gov.sg/6458b1c7d9d70b00124b9d87
   - infobar:
-      title: Digital Services Awards (DSA)
-      description: This serves to recognise outstanding achievement and commitment to
+      title: What is Digital Services Awards (DSA)?
+      description: The awards recognise outstanding achievement and commitment to
         maintaining excellent digital service standards from the Singapore
         Government.
+      button: Read more about us
+      url: /about-digital-services-awards/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
