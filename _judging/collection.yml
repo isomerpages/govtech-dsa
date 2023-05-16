@@ -2,6 +2,6 @@ collections:
   judging:
     output: true
     order:
-      - Judging panel.md
       - Judges.md
       - Evaluation Process.md
+      - Judging panel.md
