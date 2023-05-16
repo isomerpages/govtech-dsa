@@ -1,4 +1,5 @@
 collections:
   winners:
     output: true
-    order: []
+    order:
+      - 2022 Winners.md
