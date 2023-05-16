@@ -15,7 +15,7 @@ h4 {
     <h4>Tier 2: Establishing the Top 3 - Judges Evaluation</h4>
     <p>The panel of judges will evaluate the top 10 nominees based on <a aria-label="Link to read more about NNg's Group 10 Usability Heuristics" target="_blank" href="https://www.nngroup.com/articles/ten-usability-heuristics/"><strong>Nielsen Norman’s Group 10 Usability Heuristics for User Interface Design</strong></a>, <a aria-label="Link to read more on WCAG 2.1 guidelines" target="_blank" href="https://www.w3.org/TR/WCAG21/"><strong>Web Content Accessibility Guidelines (WCAG) 2.1</strong></a>, and their own expert domain knowledge. The top 3 nominees that achieve the best scores will move on to the next round.</p>
     <div class="row">
-      <div class="col is-full"><a aria-label="View the panel of judges" href="/judging-panel/" class="bp-button is-primary is-medium">View the panel of judges</a></div>
+      <!--<div class="col is-full"><a class="bp-button is-primary is-medium" href="/judges/" aria-label="View the panel of judges">View the panel of judges</a></div>//-->
     </div>
   </div>
   <div class="col is-4">image goes here.</div>
