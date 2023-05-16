@@ -41,49 +41,83 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 	</li>
 </ul>
 	
-	### Event
+### Event
 	
-	<ul class="accordion">
+<ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion4">
-		  <label for="accordion4">Event</label>
+		  <label for="accordion4">How do we sign up for the event?</label>
 		  <div>
-				Message Hello Content 4
+				Stay tuned for the registration form that will be released in the upcoming months!
 		  </div>
 	</li>
+</ul>
+
+### Nominations
+
+<ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion5">
-		  <label for="accordion5">Label 5</label>
+		  <label for="accordion5">How do we nominate our websites?</label>
 		  <div>
-				Message Hello Content 5
+				You can submit your nominations in the form here by 31 July 2023, 6pm SGT.
+				<br>
+				For information about the eligibility criteria and evaluation process, head to: <a href="https://wogaa.sg">https://wogaa.sg</a>
 		  </div>
 	</li>
   <li>
 		  <input type="checkbox" id="accordion6">
-		  <label for="accordion6">Label 6</label>
+		  <label for="accordion6">What are the eligibility criteria?</label>
 		  <div>
-				Message Hello Content 6
+				You can head to: <a href="https://wogaa.sg">https://wogaa.sg</a> for the eligibility criteria.
 		  </div>
 	</li>
+</ul>
+
+### Evaluations
+
+<ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion7">
-		  <label for="accordion7">Label 7</label>
+		  <label for="accordion7">Who are the judges for the awards?</label>
 		  <div>
-				Message Hello Content 7
+				Stay tuned for more information about the judging panel in July!
 		  </div>
 	</li>
   <li>
 		  <input type="checkbox" id="accordion8">
-		  <label for="accordion8">Label 8</label>
+		  <label for="accordion8">How are the winners selected?</label>
 		  <div>
-				Message Hello Content 8
+				<p>
+					Depending on the award category, the winners are selected by the highest technical scores, or based on the evaluations by the judging panel and citizen evaluators.
+				</p>
+				<p>
+					The full award categories can be found here: <a href="https://wogaa.sg">https://wogaa.sg</a> and the evaluation process for nominated awards can be found here: <a href="https://wogaa.sg">https://wogaa.sg</a></p>
 		  </div>
 	</li>
   <li>
 		  <input type="checkbox" id="accordion9">
-		  <label for="accordion9">Label 9</label>
+		  <label for="accordion9">What if there is a tie?</label>
 		  <div>
-				Message Hello Content 9
+				In the event of a tie, all agencies who received the top scores or evaluations will be awarded.
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion10">
+		  <label for="accordion10">When is the qualifying period?</label>
+		  <div>
+				<p>The qualifying period for Best Improvement and Best TS CSAT is 1 April 2023 to 31 October 2023.</p>
+				<p>Pages will be scanned on 1 November 2023 for categories that are derived from WOGAA Inspect scores (Best Functionality, Best Improvement, Best SEO and Best Accessibility).</p>
+        <p>To qualify for the Best Usability and Most Popular Informational Website awards, websites will need to be live and available to the public by 31 July 2023.</p>
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion11">
+		  <label for="accordion11">Will I get my results?</label>
+		  <div>
+				For government awards, public officers can head to <a href="https://wogaa.sg">WOGAA</a> to view the agency rankings. For the Best Usability and Most Popular Informational Website awards, the top 10 nominees will be revealed on this website by September 2023.
 		  </div>
 	</li>
 </ul>
+
+If you have any questions about the Digital Services Awards, contact us at support@digitalservicesawards.gov.sg
