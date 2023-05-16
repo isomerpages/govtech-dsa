@@ -17,16 +17,17 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 <ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion1">
-		  <label for="accordion1">Label 1</label>
+		  <label for="accordion1">What is WOGAA?</label>
 		  <div>
-				Message Hello Content 1
+				<p>The Whole-of-Government Application Analytics (WOGAA) monitors real-time performance of government websites and digital services. It presents key information such as website traffic, user feedback, recommendations to improve site performance, as well as benchmarks against Whole-of-Government (WOG) averages in a single dashboard.</p>
+				<p>This tool is also used to track and monitor the performance of government websites for Digital Services Awards categories such as Best Accessibility, Best Search Engine Optimisation, Best Transactional Service Customer Satisfaction Score, Best Functionality and Best Improvement.</p>
 		  </div>
 	</li>
   <li>
 		  <input type="checkbox" id="accordion2">
-		  <label for="accordion2">Label 2</label>
+		  <label for="accordion2">When did the Digital Services Awards first begin?</label>
 		  <div>
-				Message Hello Content 2
+				<p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Throughout the years, additional award categories have been introduced to honor the broader community for their valuable contributions.</p>
 		  </div>
 	</li>
   <li>
@@ -34,6 +35,48 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 		  <label for="accordion3">Label 3</label>
 		  <div>
 				Message Hello Content 3
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion4">
+		  <label for="accordion4">Label 4</label>
+		  <div>
+				Message Hello Content 4
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion5">
+		  <label for="accordion5">Label 5</label>
+		  <div>
+				Message Hello Content 5
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion6">
+		  <label for="accordion6">Label 6</label>
+		  <div>
+				Message Hello Content 6
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion7">
+		  <label for="accordion7">Label 7</label>
+		  <div>
+				Message Hello Content 7
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion8">
+		  <label for="accordion8">Label 8</label>
+		  <div>
+				Message Hello Content 8
+		  </div>
+	</li>
+  <li>
+		  <input type="checkbox" id="accordion9">
+		  <label for="accordion9">Label 9</label>
+		  <div>
+				Message Hello Content 9
 		  </div>
 	</li>
 </ul>
