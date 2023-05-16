@@ -8,11 +8,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Meet the winners
+      background: /images/website_herobanner2.jpg
+      button: See the list of DSA’22 winners
+      url: /winners/
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
