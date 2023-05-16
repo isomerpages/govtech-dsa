@@ -4,7 +4,7 @@ permalink: /winners/2022/
 description: ""
 ---
 <style type="text/css">
-h4 {
+.content h4 {
     color: #B41E8E;
 }
 .winner {
