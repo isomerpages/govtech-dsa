@@ -3,7 +3,7 @@ title: FAQ
 permalink: /faq/
 ---
 <style>
-ul.accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+ul.accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 0px solid rgba(0,0,0,0.25); padding-bottom: 0;}
 ul.accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
 ul.accordion li input {display: none;}
 ul.accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
