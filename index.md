@@ -35,6 +35,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/awards.jpg
   - infobar:
       title: Nominations Now Open
       subtitle: Latest News
