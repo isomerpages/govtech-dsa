@@ -30,12 +30,14 @@ sections:
       button: Read more about us
       url: /about-digital-services-awards/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Award Categories
+      description: The award categories have been thoughtfully crafted to provide
+        holistic recognition by encompassing both technical and qualitative
+        awards.
+      button: See all categories
       alt: Image alt text
       image: /images/awards.jpg
+      url: /award-categories/
   - infobar:
       title: Nominations Now Open
       subtitle: Latest News
