@@ -4,7 +4,7 @@ permalink: /award-categories/
 description: ""
 ---
 <style type="text/css">
-h4 {
+.content h4 {
     color: #B41E8E;
 }
 </style>
