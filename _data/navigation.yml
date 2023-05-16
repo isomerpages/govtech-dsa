@@ -2,6 +2,8 @@ logo: /images/dsa_logo.png
 links:
   - title: About
     url: /about-digital-services-awards
+  - title: Award Categories
+    url: /permalink
   - title: Nominate
     collection: nominate
   - title: Judging
