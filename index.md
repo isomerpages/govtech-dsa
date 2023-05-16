@@ -36,8 +36,9 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: Infobar Title
+      title: Nominations Now Open
       subtitle: Latest News
-      description: Infobar description
-      button: Button Text
+      description: Submit your nominations through the form by 31 July 2023, 6pm SGT.
+      button: Submit Nomination
+      url: /submit-nomination/
 ---
