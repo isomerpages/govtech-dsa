@@ -6,6 +6,7 @@ description: ""
 <style type="text/css">
 .content h4 {
     color: #B41E8E;
+	font-weight:700;
 }
 </style>
 <div class="row">
