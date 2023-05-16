@@ -13,15 +13,15 @@ sections:
       button: See the list of DSA’22 winners
       url: /winners/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Nominate your website
+          description: Find out more on eligibility
+          url: /eligibility/
+        - title: Evaluation Process
+          description: Find out more on our judging
+          url: /evaluation-process/
+        - title: Stay Updated
+          description: Be notified about the latest
+          url: https://form.gov.sg/6458b1c7d9d70b00124b9d87
   - infobar:
       title: Digital Services Awards (DSA)
       description: This serves to recognise outstanding achievement and commitment to
