@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Digital Services Awards Team
+agency_name: the Digital Services Awards team
 contacts:
   - content:
       - phone: ""
