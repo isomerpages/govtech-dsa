@@ -14,6 +14,8 @@ ul.accordion li label::before {content: "+"; font-weight: normal; font-size: 130
 ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 </style>
 
+### General
+
 <ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion1">
@@ -32,14 +34,19 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 	</li>
   <li>
 		  <input type="checkbox" id="accordion3">
-		  <label for="accordion3">Label 3</label>
+		  <label for="accordion3">Who are the organisers of the Digital Services Awards?</label>
 		  <div>
-				Message Hello Content 3
+				<p>The Digital Services Awards organising committee comprises members from the Government Technology Agency, and the Smart Nation Digital Government Office.</p>
 		  </div>
 	</li>
+</ul>
+	
+	### Event
+	
+	<ul class="accordion">
   <li>
 		  <input type="checkbox" id="accordion4">
-		  <label for="accordion4">Label 4</label>
+		  <label for="accordion4">Event</label>
 		  <div>
 				Message Hello Content 4
 		  </div>
