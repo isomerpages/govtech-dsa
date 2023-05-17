@@ -51,7 +51,7 @@ permalink: /faq/
 				You can submit your nominations in the form here by 31 July 2023, 6pm SGT.
 				<br>
 				<p>
-					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility-criteria/">Eligibility Criteria</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process.</a></p>
+					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility/">Eligibility Criteria</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process.</a></p>
 		  </div>
 	</li>
   <li>
