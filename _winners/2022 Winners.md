@@ -17,6 +17,7 @@ description: ""
 .classification {
     font-size: 0.75rem;
     color: #667085;
+	line-height:1.5 !important;
 }
 .grid-container {
   display: grid;
