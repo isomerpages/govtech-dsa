@@ -116,7 +116,7 @@ description: ""
   <div>Flex item</div>
 </div>
 <h4 class="has-text-centered">Best Accessibility</h4>
-<div class="flex-container">
+<div class="grid-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
