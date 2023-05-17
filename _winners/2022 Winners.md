@@ -47,8 +47,21 @@ description: ""
   </div>
 </div>
 <hr>
-<div class="columns is-justify-content-center">
-  <div class="column">
-	  Best Improvement
-  </div>
+<h4 class="has-text-centered">Best Improvement</h4>
+
+<div class="columns">
+	<div class="column">Item 1</div>
+	<div class="column">Item 2</div>
+	<div class="column">Item 3</div>
 </div>
+
+<div class="d-flex justify-content-around bd-highlight">
+  <div class="p-2 bd-highlight">Flex item</div>
+  <div class="p-2 bd-highlight">Flex item</div>
+  <div class="p-2 bd-highlight">Flex item</div>
+</div>
+
+<h4 class="has-text-centered">Best Functionality</h4>
+<h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
+<h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
+<h4 class="has-text-centered">Best Accessibility</h4>
