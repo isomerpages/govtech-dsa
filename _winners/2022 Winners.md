@@ -13,6 +13,7 @@ description: ""
     color: #F47920;
     font-weight: 700;
 	line-height:1.3 !important;
+	margin-top:0;
 }
 .classification {
     font-size: 0.75rem;
@@ -60,48 +61,42 @@ description: ""
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-          <p class="winner">Singapore Land Authority (SLA)</p>
+			<div class="winner">Singapore Land Authority (SLA)</div>
         </div>
       </div>
     </article>
   </div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
-<div class="grid-container">
-  <div>
+<div class="grid-container is-centered">
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-          <p class="winner">Tote Board</p>
-			<p class="classification">Small</p>
+			<div class="winner">Tote Board</div>
+			<div class="classification">Small</div>
         </div>
       </div>
     </article>
-  </div>
-	<div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-          <p class="winner">Public Service Division (PSD)</p>
-			<p class="classification">Medium</p>
+			<div class="winner">Public Service Division (PSD)</div>
+			<div class="classification">Medium</div>
         </div>
       </div>
     </article>
-  </div>
-	<div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-          <p class="winner">National Environment Agency (NEA)</p>
-			<p class="winner">Singapore Land Authority (SLA)</p>
-			<p class="classification">Large</p>
+			<div class="winner">National Environment Agency (NEA)</div>
+			<div class="winner">Singapore Land Authority (SLA)</div>
+			<div class="classification">Large</div>
         </div>
       </div>
     </article>
-  </div>
 </div>
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
 <div class="grid-container">
