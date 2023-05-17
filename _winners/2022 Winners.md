@@ -14,7 +14,7 @@ description: ""
     font-weight: 700;
     line-height: 1.3 !important;
     margin-top: 0;
-	margin-bottom:8px;
+	  margin-bottom:8px;
 }
 .classification {
     font-size: 0.75rem;
