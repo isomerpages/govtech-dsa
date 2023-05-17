@@ -8,6 +8,7 @@ description: ""
     font-weight: 700;
     color: #B41E8E;
 }
+figure.bp-image.is-square{margin-left:0;margin-right:0;}
 </style>
 <h3>Industry Best Usability Awards</h3>
 <p>The panel of expert judges consist of the following:</p>
