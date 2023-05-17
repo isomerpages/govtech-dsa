@@ -23,8 +23,9 @@ description: ""
 .grid-container {
   display: grid;
   gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 25rem));
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 15rem));
 }
+.grid-container figure{margin-left:0;margin-right:1rem;}
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
