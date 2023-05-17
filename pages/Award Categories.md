@@ -49,7 +49,7 @@ description: ""
   <div class="col is-10">
     <h4>Best Functionality*</h4>
     <p>This award recognises the government agencies that achieved the best combination WOGAA Inspect score of Page Load Time, SEO and Accessibility across all their Informational Services.</p>
-    <p>Each component is weighed equally and is scanned on the day after the qualification period. Under each component, each government agency is ranked against all other agencies in the same size classification and is given a ranking score. The addition of the ranking scores makes up the total score, where the lower the score, the better.</p>
+    <p>Each component is weighed equally and scanned on the day after the qualification period. Under each component, each government agency is ranked against all other agencies in the same size classification and is given a ranking score. The addition of the ranking scores makes up the total score, where the lower the score, the better.</p>
   </div>
 	<div class="col is-2"><img src="/images/icn_improvement.svg"></div>
   <div class="col is-10">
