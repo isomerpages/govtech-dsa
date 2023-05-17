@@ -9,7 +9,7 @@ description: ""
     font-weight: 700;
 }
 .winner {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     color: #F47920;
     font-weight: 700;
     line-height: 1.3 !important;
@@ -41,7 +41,7 @@ description: ""
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
   <div class="col is-4">
-    <figure class="image is-5by4"><img src="/images/digitalservicesawards.jpg"></figure>
+    <figure class="image is-5by4 margin--none margin--none"><img src="/images/cpf_website.png"></figure>
   </div>
   <div class="col is-8">
     <h4>Best Usability - Accessibility</h4>
@@ -49,7 +49,7 @@ description: ""
     <p class="margin--top--none"><a target="_blank" href="https://www.cpf.gov.sg/">https://www.cpf.gov.sg/</a></p>
   </div>
   <div class="col is-4">
-    <figure class="image is-5by4"><img src="/images/digitalservicesawards.jpg"></figure>
+    <figure class="image is-5by4 margin--none"><img src="/images/moe_corp.png"></figure>
   </div>
   <div class="col is-8">
     <h4>Best Usability - Citizens’ Choice</h4>
@@ -57,7 +57,7 @@ description: ""
     <p class="margin--top--none"><a target="_blank" href="https://www.moe.gov.sg/">https://www.moe.gov.sg/</a></p>
   </div>
   <div class="col is-4">
-    <figure class="image is-5by4"><img src="/images/digitalservicesawards.jpg"></figure>
+    <figure class="image is-5by4 margin--none"><img src="/images/cpf_website.png"></figure>
   </div>
   <div class="col is-8">
     <h4>Most Popular Informational Service (IS)</h4>
