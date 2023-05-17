@@ -30,9 +30,10 @@ description: ""
 }
 </style>
 
-Submit your nominations through the form by **31 July 2023, 6pm SGT**.
-  
-For information about the eligibility criteria and evaluation process, head to <a href="">Evaluation Process &amp; Criteria</a>.
+<div>
+	<p>Submit your nominations through the form by <strong>31 July 2023, 6pm SGT</strong>.</p>
+  <p>For information about the eligibility criteria and evaluation process, head to <span style="font-size: 1.0rem;" class="winner">Evaluation Process &amp; Criteria</span>.</p>
+</div>
 
 <h4 class="has-text-centered">Best Usability (Industry)</h4>
 <div class="grid-container">
