@@ -58,9 +58,7 @@ description: ""
 <div class="flex-container">
   <article class="media">
   <figure class="media-left">
-    <p class="image is-64x64">
-      <img src="/images/trpohy.svg">
-    </p>
+      <img alt="" src="/images/trpohy.svg">
   </figure>
   <div class="media-content">
     <div class="content">
