@@ -10,7 +10,7 @@ description: ""
 }
 </style>
 <div class="row">
-  <div class="col is-8">
+  <div class="col is-12">
     <h4>Tier 1: Establishing the Top 10 - Pre-screening Evaluation</h4>
     <p>The nominated Informational Services will be pre-screened based on <a target="_blank" href="https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf"><strong>GovTech’s Digital Services Standards: Principles 1 and 2 </strong></a>, to ensure nominees fulfill baseline standards of intuitivity, usability, accessibility and inclusivity. The top 10 nominees that fulfill all or the most standards will proceed to the next round, and be automatically included as a nominee for the Most Popular Informational Service award.</p>
     <h4>Tier 2: Establishing the Top 3 - Judges Evaluation</h4>
@@ -19,7 +19,6 @@ description: ""
       <!--<div class="col is-full"><a class="bp-button is-primary is-medium" href="/judges/" aria-label="View the panel of judges">View the panel of judges</a></div>//-->
     </div>
   </div>
-  <div class="col is-4">image goes here.</div>
 </div>
 <div class="row">
   <div class="col is-12">
