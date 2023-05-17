@@ -24,7 +24,7 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-grid-template-columns: repeat(3, calc((100% - 16px * 2) / 3));
+	grid-template-columns: repeat(auto-fit, minmax(1fr, 3fr));
     justify-content: center;
 }
 .grid-container figure {
