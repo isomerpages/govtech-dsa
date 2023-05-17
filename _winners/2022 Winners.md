@@ -55,27 +55,25 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
-<div class="d-flex justify-content-around">
+<div class="flex-container">
   <div>Flex item</div>
 </div>
 
 <h4 class="has-text-centered">Best Functionality</h4>
-<div class="d-flex justify-content-around">
-  <div>Flex item</div>
+<div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
 </div>
 
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
-<div class="d-flex justify-content-around">
+<div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
 </div>
 
-
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-<div class="d-flex justify-content-around">
+<div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
