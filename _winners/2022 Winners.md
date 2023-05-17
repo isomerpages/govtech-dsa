@@ -9,7 +9,7 @@ description: ""
     font-weight: 700;
 }
 .winner {
-    font-size: 1.125rem;
+    font-size: 1.25rem;
     color: #F47920;
     font-weight: 700;
     line-height: 1.3 !important;
@@ -17,7 +17,7 @@ description: ""
 	  margin-bottom:8px;
 }
 .classification {
-    font-size: 0.75rem;
+    font-size: 1rem;
     color: #667085;
     line-height: 1.5 !important;
 }
