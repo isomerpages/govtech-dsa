@@ -47,6 +47,8 @@ description: ""
   </div>
 </div>
 <hr>
-<div class="row is-multiline">
-	<div class="col is-full is-text-centered"><h4>Best Improvement</h4></div>
+<div class="columns">
+  <div class="column is-justify-content-center">
+	  Best Improvement
+  </div>
 </div>
