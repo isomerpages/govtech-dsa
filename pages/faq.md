@@ -103,7 +103,7 @@ permalink: /faq/
 		  <input type="checkbox" id="accordion11">
 		  <label for="accordion11">Will I get my results?</label>
 		  <div>
-				For government awards, public officers can head to <a href="https://wogaa.sg">WOGAA</a> to view the agency rankings. For the Best Usability and Most Popular Informational Website awards, the top 10 nominees will be revealed on this website by September 2023.
+				For government awards, public officers can head to <a href="https://wogaa.sg">WOGAA</a> to view the agency rankings. For the Best Usability and Most Popular Informational Website awards, the top 10 nominees will be revealed on this website in September 2023.
 		  </div>
 	</li>
 </ul>
