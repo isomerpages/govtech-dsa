@@ -68,6 +68,7 @@ description: ""
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
 <div class="grid-container">
+	<div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
@@ -78,6 +79,7 @@ description: ""
       </div>
     </article>
   </div>
+	<div class="is-hidden-mobile">&nbsp;</div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container">
