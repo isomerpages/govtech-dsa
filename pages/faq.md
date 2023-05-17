@@ -7,7 +7,7 @@ permalink: /faq/
 <ul class="jekyllcodex_accordion">
   <li>
 		  <input type="checkbox" id="accordion1">
-		  <label for="accordion1">What is WOGAA?</label>
+		  <label for="accordion1">What is WOGAA??</label>
 		  <div>
 				<p>The Whole-of-Government Application Analytics (WOGAA) monitors real-time performance of government websites and digital services. It presents key information such as website traffic, user feedback, recommendations to improve site performance, as well as benchmarks against Whole-of-Government (WOG) averages in a single dashboard.</p>
 				<p>This tool is also used to track and monitor the performance of government websites for Digital Services Awards categories such as Best Accessibility, Best Search Engine Optimisation, Best Transactional Service Customer Satisfaction Score, Best Functionality and Best Improvement.</p>
