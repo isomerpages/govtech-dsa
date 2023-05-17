@@ -15,4 +15,4 @@ description: ""
 </div>
 <hr>
 <h3>Organising Team</h3>
-<p>Add here</p>
+<p>The Digital Services Awards organising committee comprises members from the Government Technology Agency, and the Smart Nation Digital Government Office.</p>
