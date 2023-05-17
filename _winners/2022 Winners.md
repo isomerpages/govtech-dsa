@@ -6,7 +6,7 @@ description: ""
 <style type="text/css">
 .content h4 {
     color: #B41E8E;
-	font-weight:700;
+    font-weight: 700;
 }
 .winner {
     font-size: 1.125rem;
@@ -17,14 +17,11 @@ description: ""
     font-size: 0.75rem;
     color: #667085;
 }
-	.url{margin-top}
-	
-.flex-container { 
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-}	
-	
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
@@ -56,38 +53,66 @@ description: ""
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
 <div class="flex-container">
-  <article class="media">
-  <figure class="media-left">
-      <img alt="" src="/images/trpohy.svg">
-  </figure>
-  <div class="media-content">
-    <div class="content">
-      <p class="winner">Singapore Land Authority (SLA)</p>
-    </div>
+  <div>
+    <article class="media">
+      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <div class="media-content">
+        <div class="content">
+          <p class="winner">Singapore Land Authority (SLA)</p>
+        </div>
+      </div>
+    </article>
   </div>
-	</article>
 </div>
-
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="flex-container">
-  <div>Flex item</div>
-  <div>Flex item</div>
+  <div>
+    <article class="media">
+      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <div class="media-content">
+        <div class="content">
+          <p class="winner">Tote Board</p>
+			<p class="classification">Small</p>
+        </div>
+      </div>
+    </article>
+  </div>
+	<div>
+    <article class="media">
+      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <div class="media-content">
+        <div class="content">
+          <p class="winner">Public Service Division (PSD)</p>
+			<p class="classification">Medium</p>
+        </div>
+      </div>
+    </article>
+  </div>
+	<div>
+    <article class="media">
+      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <div class="media-content">
+        <div class="content">
+          <p class="winner">National Environment Agency (NEA)</p>
+			<p class="winner">Singapore Land Authority (SLA)</p>
+			<p class="classification">Large</p>
+        </div>
+      </div>
+    </article>
+  </div>
 </div>
-
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
 <div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
 </div>
-
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
 </div>
-
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="flex-container">
   <div>Flex item</div>
