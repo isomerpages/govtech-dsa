@@ -79,7 +79,7 @@ description: ""
   </div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
-<div class="grid-container is-centered">
+<div class="grid-container">
   <article class="media">
     <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
     <div class="media-content">
@@ -111,19 +111,92 @@ description: ""
 </div>
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
 <div class="grid-container">
-  <div>Flex item</div>
-  <div>Flex item</div>
-  <div>Flex item</div>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Elections Department Singapore (ELD)</div>
+        <div class="classification">Small</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Singapore Customs</div>
+        <div class="classification">Medium</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Ministry of Education (MOE)</div>
+        <div class="classification">Large</div>
+      </div>
+    </div>
+  </article>
 </div>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container">
-  <div>Flex item</div>
-  <div>Flex item</div>
-  <div>Flex item</div>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Tote Board</div>
+        <div class="classification">Small</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Public Utilities Board (PUB)</div>
+        <div class="classification">Medium</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">National Heritage Board (NHB)</div>
+        <div class="classification">Large</div>
+      </div>
+    </div>
+  </article>
 </div>
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="grid-container">
-  <div>Flex item</div>
-  <div>Flex item</div>
-  <div>Flex item</div>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Tote Board</div>
+		  <div class="winner">National Security Coordination Secretariat (NSCS)</div>
+        <div class="classification">Small</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Central Provident Fund Board (CPFB)</div>
+        <div class="classification">Medium</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">National Heritage Board (NHB)</div>
+        <div class="classification">Large</div>
+      </div>
+    </div>
+  </article>
 </div>
