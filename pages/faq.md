@@ -50,14 +50,15 @@ permalink: /faq/
 		  <div>
 				You can submit your nominations in the form here by 31 July 2023, 6pm SGT.
 				<br>
-				For information about the eligibility criteria and evaluation process, head to: <a href="https://wogaa.sg">https://wogaa.sg</a>
+				<p>
+					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility-criteria/">Eligibility Criteria</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process.</a></p>
 		  </div>
 	</li>
   <li>
 		  <input type="checkbox" id="accordion6">
 		  <label for="accordion6">What are the eligibility criteria?</label>
 		  <div>
-				You can head to: <a href="https://wogaa.sg">https://wogaa.sg</a> for the eligibility criteria.
+					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility-criteria/">Eligibility Criteria</a>.
 		  </div>
 	</li>
 </ul>
