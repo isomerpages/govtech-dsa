@@ -2,7 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### General
 
 <ul class="jekyllcodex_accordion">
