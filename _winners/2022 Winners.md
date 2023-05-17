@@ -12,6 +12,7 @@ description: ""
     font-size: 1.125rem;
     color: #F47920;
     font-weight: 700;
+	line-height:1.3 !important;
 }
 .classification {
     font-size: 0.75rem;
