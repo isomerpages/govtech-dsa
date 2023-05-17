@@ -47,8 +47,8 @@ description: ""
   </div>
 </div>
 <hr>
-<div class="columns">
-  <div class="column is-justify-content-center">
+<div class="columns is-justify-content-center">
+  <div class="column">
 	  Best Improvement
   </div>
 </div>
