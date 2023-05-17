@@ -18,6 +18,13 @@ description: ""
     color: #667085;
 }
 	.url{margin-top}
+	
+.flex-container { 
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}	
+	
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
@@ -75,7 +82,7 @@ description: ""
 </div>
 
 <h4 class="has-text-centered">Best Accessibility</h4>
-<div class="d-flex justify-content-around">
+<div class="flex-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
