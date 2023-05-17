@@ -57,5 +57,5 @@ description: ""
     <p>This award recognises the government agency with the highest overall improvement in Functionality components from the start to the end of the qualification period. The score is calculated as the average percentage improvement for each of the 3 components.</p>
   </div>
 </div>
-<h3>*Agency Size Classification</h3>
+<h3>Agency Size Classification</h3>
 <p>To ensure government agencies are better represented and grouped by their digital maturity and resources owned, three agency size classifications have been developed: Large, Medium, Small, based on the number of Informational Services sites owned. The top agency of each size class will receive the award.</p>
