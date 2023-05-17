@@ -23,7 +23,7 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-grid-template-columns: repeat(3, calc((100% - 24px * 2) / 3));
+grid-template-columns: repeat(3, calc((100% - 16px * 2) / 3));
     justify-content: center;
 }
 .grid-container figure {
