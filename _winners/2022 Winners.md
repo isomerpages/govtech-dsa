@@ -17,10 +17,10 @@ description: ""
     font-size: 0.75rem;
     color: #667085;
 }
-.flex-container {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+.grid-container {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 25rem));
 }
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
@@ -52,7 +52,7 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
-<div class="flex-container">
+<div class="grid-container">
   <div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
@@ -65,7 +65,7 @@ description: ""
   </div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
-<div class="flex-container">
+<div class="grid-container">
   <div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
@@ -102,13 +102,13 @@ description: ""
   </div>
 </div>
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
-<div class="flex-container">
+<div class="grid-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
 </div>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-<div class="flex-container">
+<div class="grid-container">
   <div>Flex item</div>
   <div>Flex item</div>
   <div>Flex item</div>
