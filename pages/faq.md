@@ -92,7 +92,7 @@ ul.accordion li input:checked + label::before {transform: rotate(-45deg);}
 					Depending on the award category, the winners are selected by the highest technical scores, or based on the evaluations by the judging panel and citizen evaluators.
 				</p>
 				<p>
-					The full award categories can be found here: <a href="https://wogaa.sg">https://wogaa.sg</a> and the evaluation process for nominated awards can be found here: <a href="https://wogaa.sg">https://wogaa.sg</a></p>
+					For more details on the award categories, please go to the page on <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a></p>
 		  </div>
 	</li>
   <li>
