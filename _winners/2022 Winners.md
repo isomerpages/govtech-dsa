@@ -12,20 +12,29 @@ description: ""
     font-size: 1.125rem;
     color: #F47920;
     font-weight: 700;
-	line-height:1.3 !important;
-	margin-top:0;
+    line-height: 1.3 !important;
+    margin-top: 0;
 }
 .classification {
     font-size: 0.75rem;
     color: #667085;
-	line-height:1.5 !important;
+    line-height: 1.5 !important;
 }
 .grid-container {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(10rem, 15rem));
+    display: grid;
+    gap: 1rem;
+grid-template-columns: repeat(3, calc((100% - 24px * 2) / 3));
+    justify-content: center;
 }
-.grid-container figure{margin-left:0;margin-right:1rem;}
+.grid-container figure {
+    margin-left: 0;
+    margin-right: 1rem;
+}
+.grid-container .media + .media {
+    border: 0 none;
+    margin-top: 0;
+    padding: 0;
+}
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
@@ -62,7 +71,7 @@ description: ""
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-			<div class="winner">Singapore Land Authority (SLA)</div>
+          <div class="winner">Singapore Land Authority (SLA)</div>
         </div>
       </div>
     </article>
@@ -70,34 +79,34 @@ description: ""
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container is-centered">
-    <article class="media">
-      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
-      <div class="media-content">
-        <div class="content">
-			<div class="winner">Tote Board</div>
-			<div class="classification">Small</div>
-        </div>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Tote Board</div>
+        <div class="classification">Small</div>
       </div>
-    </article>
-    <article class="media">
-      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
-      <div class="media-content">
-        <div class="content">
-			<div class="winner">Public Service Division (PSD)</div>
-			<div class="classification">Medium</div>
-        </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Public Service Division (PSD)</div>
+        <div class="classification">Medium</div>
       </div>
-    </article>
-    <article class="media">
-      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
-      <div class="media-content">
-        <div class="content">
-			<div class="winner">National Environment Agency (NEA)</div>
-			<div class="winner">Singapore Land Authority (SLA)</div>
-			<div class="classification">Large</div>
-        </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">National Environment Agency (NEA)</div>
+        <div class="winner">Singapore Land Authority (SLA)</div>
+        <div class="classification">Large</div>
       </div>
-    </article>
+    </div>
+  </article>
 </div>
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
 <div class="grid-container">
