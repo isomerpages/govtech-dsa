@@ -54,7 +54,7 @@ description: ""
 <div class="grid-container">
   <div>
     <article class="media">
-      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
       <div class="media-content">
         <div class="content">
           <div class="winner">Early Childhood Development Agency (ECDA)</div>
@@ -66,7 +66,7 @@ description: ""
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Tote Board</div>
@@ -75,7 +75,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Public Utilities Board (PUB)</div>
@@ -84,7 +84,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">National Heritage Board (NHB)</div>
@@ -96,7 +96,7 @@ description: ""
 <h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Land Transport Authority (LTA)</div>
@@ -105,7 +105,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Singapore Customs</div>
@@ -114,7 +114,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Ministry of Health (MOH)</div>
@@ -126,7 +126,7 @@ description: ""
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Tote Board</div>
@@ -135,7 +135,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Public Utilities Board (PUB)</div>
@@ -144,7 +144,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">National Heritage Board (NHB)</div>
@@ -156,7 +156,7 @@ description: ""
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Defence Science and Technology Agency (DSTA)</div>
@@ -165,7 +165,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Civil Aviation Authority of Singapore (CAAS)</div>
@@ -174,7 +174,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">National Heritage Board (NHB)</div>
