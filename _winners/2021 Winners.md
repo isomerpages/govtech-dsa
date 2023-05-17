@@ -41,7 +41,7 @@ description: ""
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="row is-multiline">
   <div class="col is-4">
-    <figure class="image is-5by4"><img src="/images/digitalservicesawards.jpg"></figure>
+    <figure class="image is-5by4 margin--none"><img src="/images/mnh_hdb.png"></figure>
   </div>
   <div class="col is-8">
     <h4>Best Usability</h4>
