@@ -56,7 +56,18 @@ description: ""
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
 <div class="flex-container">
-  <div>Flex item</div>
+  <article class="media">
+  <figure class="media-left">
+    <p class="image is-64x64">
+      <img src="/images/trpohy.svg">
+    </p>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+      <p class="winner">Singapore Land Authority (SLA)</p>
+    </div>
+  </div>
+	</article>
 </div>
 
 <h4 class="has-text-centered">Best Functionality</h4>
