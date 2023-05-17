@@ -58,7 +58,7 @@ permalink: /faq/
 		  <input type="checkbox" id="accordion6">
 		  <label for="accordion6">What are the eligibility criteria?</label>
 		  <div>
-					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility-criteria/">Eligibility Criteria</a>.
+					For more details on the eligibility criteria and evaluation process, please go to the page on <a aria-label="Link to Eligibility Criteria" href="/eligibility/">Eligibility Criteria</a>.
 		  </div>
 	</li>
 </ul>
