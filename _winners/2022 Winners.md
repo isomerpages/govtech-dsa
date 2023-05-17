@@ -31,10 +31,10 @@ grid-template-columns: repeat(3, calc((100% - 16px * 2) / 3));
     margin-left: 0;
     margin-right: 1rem;
 }
-.grid-container .media + .media {
-    border: 0 none;
-    margin-top: 0;
-    padding: 0;
+.grid-container .media+.media {
+    border: 0 none !important;
+    margin-top: 0 !important;
+    padding: 0 !important;
 }
 </style>
 <p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
