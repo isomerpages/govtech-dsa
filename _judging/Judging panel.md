@@ -13,27 +13,27 @@ description: ""
 <p>The panel of expert judges consist of the following:</p>
 <div class="row">
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
@@ -43,27 +43,27 @@ description: ""
 <p>The panel of expert judges consist of the following:</p>
 <div class="row">
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
@@ -73,27 +73,27 @@ description: ""
 <p>The panel of expert judges consist of the following:</p>
 <div class="row">
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
   <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="xxx"></figure>
+    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
     <div class="jname">Judge Name</div>
     <small>Job Title<br>
     Organisation</small></div>
