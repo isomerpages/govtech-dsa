@@ -26,10 +26,11 @@ description: ""
     gap: 1rem;
 	grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
     justify-content: center;
+	padding-top:12px;
 }
 .grid-container figure {
     margin-left: 0;
-    margin-right: 1rem;
+    margin-right: 16px;
 }
 .grid-container .media+.media {
     border: 0 none !important;
