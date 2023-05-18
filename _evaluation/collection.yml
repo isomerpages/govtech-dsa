@@ -1,0 +1,6 @@
+collections:
+  evaluation:
+    output: true
+    order:
+      - Evaluation Process.md
+      - Judges.md

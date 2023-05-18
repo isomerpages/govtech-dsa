@@ -1,0 +1,6 @@
+collections:
+  winners:
+    output: true
+    order:
+      - 2022 Winners.md
+      - 2021 Winners.md

@@ -2,31 +2,19 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: the Digital Services Awards team
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: support@digitalservicesawards.gov.sg
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: ho_binjin@tech.gov.sg
+      - other: <a href="mailto:lee_zhengyi@tech.gov.sg;"
+          class="margin--bottom--sm"><u>lee_zhengyi@tech.gov.sg</u></a><br>To
+          request for more information or press credentials to cover the Digital
+          Services Awards ceremony, please contact the email addresses above.
+    title: Press & Media Queries
 ---
