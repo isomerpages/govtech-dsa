@@ -14,14 +14,14 @@ sections:
       url: /winners/
       key_highlights:
         - title: Nominate your website
-          description: Find out more on eligibility
+          description: Industry & Government Awards
           url: /eligibility/
         - title: Evaluation Process
-          description: Find out more on our judging
+          description: Selection criteria & judging
           url: /evaluation-process/
         - title: Stay Updated
-          description: Be notified about the latest
-          url: https://form.gov.sg/6458b1c7d9d70b00124b9d87
+          description: Get the latest news
+          url: https://form.gov.sg/6465e27fb5606700123920d6
   - infobar:
       title: What is Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievement and commitment to
