@@ -25,7 +25,8 @@ sections:
   - infobar:
       title: What is Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievement and commitment to
-        maintaining excellent digital service standards members of the public.
+        maintaining excellent digital service standards for members of the
+        public.
       button: Read more about us
       url: /about-digital-services-awards/
   - infopic:
