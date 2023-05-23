@@ -14,7 +14,7 @@ description: ""
     font-weight: 700;
     line-height: 1.3 !important;
     margin-top: 0;
-	margin-bottom:8px;
+    margin-bottom: 8px;
 }
 .classification {
     font-size: 1rem;
@@ -24,9 +24,9 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-	grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
     justify-content: center;
-	padding-top:12px;
+    padding-top: 12px;
 }
 .grid-container figure {
     margin-left: 0;
@@ -52,7 +52,7 @@ description: ""
 <hr>
 <h4 class="has-text-centered">Best Improvement</h4>
 <div class="grid-container">
-	<div class="is-hidden-mobile">&nbsp;</div>
+  <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
       <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
@@ -63,7 +63,7 @@ description: ""
       </div>
     </article>
   </div>
-	<div class="is-hidden-mobile">&nbsp;</div>
+  <div class="is-hidden-mobile">&nbsp;</div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container">
@@ -71,8 +71,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Tote Board</div>
         <div class="classification">Small</div>
+        <div class="winner">Tote Board</div>
       </div>
     </div>
   </article>
@@ -80,8 +80,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Public Utilities Board (PUB)</div>
         <div class="classification">Medium</div>
+        <div class="winner">Public Utilities Board (PUB)</div>
       </div>
     </div>
   </article>
@@ -89,20 +89,20 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">National Heritage Board (NHB)</div>
         <div class="classification">Large</div>
+        <div class="winner">National Heritage Board (NHB)</div>
       </div>
     </div>
   </article>
 </div>
-<h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
+<h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services (TS CSAT)</h4>
 <div class="grid-container">
   <article class="media">
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Land Transport Authority (LTA)</div>
         <div class="classification">Small</div>
+        <div class="winner">Land Transport Authority (LTA)</div>
       </div>
     </div>
   </article>
@@ -110,8 +110,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Singapore Customs</div>
         <div class="classification">Medium</div>
+        <div class="winner">Singapore Customs</div>
       </div>
     </div>
   </article>
@@ -119,8 +119,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Ministry of Health (MOH)</div>
         <div class="classification">Large</div>
+        <div class="winner">Ministry of Health (MOH)</div>
       </div>
     </div>
   </article>
@@ -131,8 +131,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Tote Board</div>
         <div class="classification">Small</div>
+        <div class="winner">Tote Board</div>
       </div>
     </div>
   </article>
@@ -140,8 +140,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Public Utilities Board (PUB)</div>
         <div class="classification">Medium</div>
+        <div class="winner">Public Utilities Board (PUB)</div>
       </div>
     </div>
   </article>
@@ -149,8 +149,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">National Heritage Board (NHB)</div>
         <div class="classification">Large</div>
+        <div class="winner">National Heritage Board (NHB)</div>
       </div>
     </div>
   </article>
@@ -161,8 +161,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Defence Science and Technology Agency (DSTA)</div>
         <div class="classification">Small</div>
+        <div class="winner">Defence Science and Technology Agency (DSTA)</div>
       </div>
     </div>
   </article>
@@ -170,8 +170,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Civil Aviation Authority of Singapore (CAAS)</div>
         <div class="classification">Medium</div>
+        <div class="winner">Civil Aviation Authority of Singapore (CAAS)</div>
       </div>
     </div>
   </article>
@@ -179,8 +179,8 @@ description: ""
     <figure class="media-left"> <img alt="" src="/images/trophy2.svg"> </figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">National Heritage Board (NHB)</div>
         <div class="classification">Large</div>
+        <div class="winner">National Heritage Board (NHB)</div>
       </div>
     </div>
   </article>
