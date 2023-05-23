@@ -42,7 +42,7 @@ description: ""
   </div>
   <div class="col is-2"><img src="/images/icn_csat.svg"></div>
   <div class="col is-10">
-    <h4>Best Customer Satisfaction for Transactional Services (CSAT)*</h4>
+    <h4>Best Customer Satisfaction for Transactional Services (TS CSAT)*</h4>
     <p>This award recognises government agencies who have the highest Customer Satisfaction score based on the WOGAA Sentiments ratings collected.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_functionality.svg"></div>
