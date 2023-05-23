@@ -15,8 +15,8 @@ table#award_cat th {
     <input type="checkbox" id="accordion1">
     <label for="accordion1">What is the Digital Services Awards?</label>
     <div>
-      <p>The Digital Services Awards is an annual event honouring public sector agencies that have demonstrated excellent digital service standards in delivering public websites.</p>
-     <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg"><strong>Whole-of-Government Application Analytics </strong></a>(WOGAA) platform. </p>
+      <p>The Digital Services Awards is an annual event honouring government agencies and private sector websites that have demonstrated excellent digital service standards in delivering websites for the public.</p>
+     <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg">Whole-of-Government Application Analytics (WOGAA)</a> platform. </p>
       <p>Developed by the Government Technology Agency of Singapore (GovTech), WOGAA monitors real-time performance of government websites and digital services. It presents key information such as website traffic, user feedback, recommendations to improve site performance, as well as benchmarks against Whole-of-Government (WOG) averages in a single dashboard.</p>
       <p>Depending on the award category, winners are selected based on technical scores or evaluations by judging panels comprising private and public sector tech experts, and citizen evaluators.&nbsp;For example, shortlisted entries for “Best Usability” will be further assessed by up to 100 citizen evaluators, while the “Most Popular Informational Website” will be awarded based on live attendee votes during the award ceremony.</p>
     </div>
