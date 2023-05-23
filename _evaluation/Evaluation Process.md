@@ -37,9 +37,9 @@ description: ""
 		<h4> Tier 2: Establishing the Top 3 - Judges Evaluation (Sep-Oct 2023) </h4>
 		<p> The panel of judges will evaluate the nominees to select the top 3 nominations based on a matrix consisting of several criteria like impact, scale, participation, and contribution. </p> 
 		<h4> Tech Kaki </h4>
-		<p> Top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan - Sep 2023 will be selected as the winner. </p>
+		<p> The top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan - Sep 2023 will be selected as the winner. </p>
 		<h4> CrowdTaskSG </h4>
-		<p> Top 3 most active CrowdTaskSG users </p>
+		<p> The top 3 most active CrowdTaskSG users will be selected as the winner.</p>
 		
   </div>
 </div>
