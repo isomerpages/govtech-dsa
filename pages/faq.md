@@ -124,7 +124,5 @@ table#award_cat th {
       <p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a target="_blank" aria-label="Link to WOGAA FAQ page" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
     </div>
   </li>
-  <li>
-    <p>If you have any questions about the Digital Services Awards, contact us at <a href="mailto:support@digitalservicesawards.gov.sg">support@digitalservicesawards.gov.sg</a>.</p>
-  </li>
 </ul>
+<p>If you have any questions about the Digital Services Awards, contact us at <a href="mailto:support@digitalservicesawards.gov.sg">support@digitalservicesawards.gov.sg</a>.</p>
