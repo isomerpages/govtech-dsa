@@ -11,7 +11,7 @@ sections:
       title: Meet the winners
       background: /images/website_herobanner.jpg
       button: See the list of DSA’22 winners
-      url: /winners/
+      url: /Winners/
       key_highlights:
         - title: Nominate your website
           description: View eligibility criteria
