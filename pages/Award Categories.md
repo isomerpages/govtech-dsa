@@ -28,7 +28,7 @@ description: ""
   <div class="col is-2"><img src="/images/icn_citizen.svg"></div>
   <div class="col is-10">
     <h4>Outstanding Citizen Contributor</h4>
-    <p>This award recognises citizens who have contributed extensively to the improvement of Government Digital Services through Government Agencies, the CrowdTaskSG platform and Tech Kaki Community.</p>
+    <p>This award recognises citizens who have contributed extensively to the improvement of Government Digital Services through government agencies, the CrowdTaskSG platform and Tech Kaki Community.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_seo.svg"></div>
   <div class="col is-10">
