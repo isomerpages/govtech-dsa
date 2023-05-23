@@ -12,7 +12,7 @@ description: ""
 <div class="row">
   <div class="col is-12">
 		<h3> Evaluation Process for Best Usability (Industry) Award </h3>
-		<h4>Tier 1: Establishing the Top 10 - Pre-screening Evaluation (Aug-Sep 2023)</h4>
+		<h4>Tier 1: Establishing the Top 10 - Pre-screening Evaluation (Aug to Sep 2023)</h4>
     <p>After nominations close on 31 July, the nominated Informational Websites will be pre-screened based on <a target="_blank" href="https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf"><strong>GovTech’s Digital Services Standards: Principles 1 and 2 </strong></a>, to ensure nominees fulfill baseline standards of intuitivity, usability, accessibility and inclusivity. The top 10 nominees that fulfill all or the most standards will proceed to the next round.</p>
 		<p>The top 10 nominees will be revealed on this website in September 2023.</p>
     <h4>Tier 2: Establishing the Top 3 - Judges Evaluation (Sep-Oct 2023)</h4>
