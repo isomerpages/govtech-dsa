@@ -112,7 +112,7 @@ description: ""
     </div>
   </article>
 </div>
-<h4 class="has-text-centered">Best Customer Satisfaction (CSAT) for Transactional Services</h4>
+<h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
 <div class="grid-container">
   <article class="media">
     <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
