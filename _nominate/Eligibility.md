@@ -10,7 +10,7 @@ description: ""
 }
 </style>
 <h4>Nominations for the Best Usability (Industry) and Most Popular Informational Website (Industry) awards are now open! Refer to the following information to nominate your website.</h4>
-<p>For government agencies who would like to nominate their websites for the Best Usability (Government) award, you may do so by submitting it through the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
+<p>For government agencies who would like to nominate their websites for the Best Usability (Government) and Most Popular Informational Website (Government) awards, you may submit the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
 <hr>
 <h3>Eligibility</h3>
 To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
