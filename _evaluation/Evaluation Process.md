@@ -32,11 +32,14 @@ description: ""
 		<h4>Tier 2: Live voting during event (Nov 2023)</h4>
 		<p> Only registered event attendees will be able to vote for the Most Popular Information Website during the event. Results will be revealed during the live event. </p>
 		<h3>Evaluation Process for Outstanding Citizen Contributor category</h3>
-	<h4>	Tier 1: Pre-screening of nominations (Aug-Sep 2023) </h4>
+	<h4> Whole-of-Government - Tier 1: Pre-screening of nominations (Aug-Sep 2023) </h4>
     <p>After nominations close on 31 July, the team will do an internal pre-screening to sieve out nominations that do not meet the criteria. </p>
 		<h4> Tier 2: Establishing the Top 3 - Judges Evaluation (Sep-Oct 2023) </h4>
-		<p> The panel of judges will evaluate the nominees to select the top 3 nominations. </p> 
-			
+		<p> The panel of judges will evaluate the nominees to select the top 3 nominations based on a matrix consisting of several criteria like impact, scale, participation, and contribution. </p> 
+		<h4> Tech Kaki </h4>
+		<p> Top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan - Sep 2023 will be selected as the winner. </p>
+		<h4> CrowdTaskSG </h4>
+		<p> Top 3 most active CrowdTaskSG users </p>
 		
   </div>
 </div>
