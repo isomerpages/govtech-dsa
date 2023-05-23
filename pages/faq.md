@@ -2,10 +2,13 @@
 title: FAQ
 permalink: /faq/
 ---
+<style>
+  td {
+	  vertical-align: middle;
+	}
+</style>
+
 ### General
-
-
-
 
 <ul class="jekyllcodex_accordion">
   <li>
