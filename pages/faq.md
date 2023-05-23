@@ -2,14 +2,6 @@
 title: FAQ
 permalink: /faq/
 ---
-<style>
-	table.tablel23 {
-	  td {
-	    vertical-align: middle;
-	  }
-	}
-</style>
-
 ### General
 
 <ul class="jekyllcodex_accordion">
@@ -92,7 +84,7 @@ permalink: /faq/
 		  <label for="accordion8">When is the qualifying period?</label>
 		  <div>
 				<p>
-				<table class="tablel23">
+				<table>
 					<tbody><tr>
 						<th>Award Category</th>
 						<th>Type of Award</th>
