@@ -70,29 +70,22 @@ permalink: /faq/
 				</p>
 				<p>
 					For more details on the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a></p>
-		  </div>
-	</li>
-  <li>
-		  <input type="checkbox" id="accordion9">
-		  <label for="accordion9">What if there is a tie?</label>
+				
+
+  </div></li><li>
+		  <input type="checkbox" id="accordion7">
+		  <label for="accordion7">What if there is a tie?</label>
 		  <div>
 				In the event of a tie, all agencies who received the top scores or evaluations will receive the award.
 		  </div>
 	</li>
   <li>
-		  <input type="checkbox" id="accordion10">
-		  <label for="accordion10">When is the qualifying period?</label>
+		  <input type="checkbox" id="accordion9">
+		  <label for="accordion9">When is the qualifying period?</label>
 		  <div>
 				<p>The qualifying period for Best Improvement and Best TS CSAT is 1 April 2023 to 31 October 2023.</p>
 				<p>Pages will be scanned on 1 November 2023 for categories that are derived from WOGAA Inspect scores (Best Functionality, Best Improvement, Best SEO and Best Accessibility).</p>
         <p>To qualify for the Best Usability and Most Popular Informational Website awards, websites will need to be live and available to the public by 31 July 2023.</p>
-		  </div>
-	</li>
-  <li>
-		  <input type="checkbox" id="accordion11">
-		  <label for="accordion11">Will I get my results?</label>
-		  <div>
-				For government awards, public officers can head to <a href="https://wogaa.sg">WOGAA</a> to view the agency rankings. For the Best Usability and Most Popular Informational Website awards, the top 10 nominees will be revealed on this website in September 2023.
 		  </div>
 	</li>
 </ul>
