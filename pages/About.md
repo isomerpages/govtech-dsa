@@ -6,7 +6,7 @@ description: ""
 <div class="row is-multiline">
   <div class="col is-8">
     <h3>Introduction</h3>
-    <p>Held annually since 2021, the Digital Services Awards were first introduced by the government to recognise outstanding achievements and excellence in delivering digital services to the public. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions.</p>
+    <p>Held annually since 2021, the Digital Services Awards was first introduced by the government to recognise outstanding achievements and excellence in delivering digital services to the public. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions.</p>
     <p>To ensure only the best digital services are recognised, nominees and entries undergo a rigorous assessment process spanning four months. This process consists of multiple stages involving technical scoring using widely recognised evaluation criteria and powered by the <a target="_blank" aria-label="WOGAA" href="https://wogaa.sg/">Whole-of-Government Application Analytics (WOGAA)</a> tool, expert judging panels, and qualitative feedback from citizens and users with different abilities.</p>
   </div>
   <div class="col is-4"><img alt="Screen with DSA logo and trophies" src="/images/dsa_about.jpg"></div>
