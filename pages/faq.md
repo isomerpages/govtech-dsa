@@ -94,13 +94,13 @@ permalink: /faq/
 						<th>Qualifying Period</th>
 					</tr>
 				  <tr>
-					  <td>Best Usability</td>
-					  <td>Industry &amp; Government</td>
-					  <td rowspan="2">Must be live and available to the public by 31 July 2023</td>
+					  <td valign="middle">Best Usability</td>
+					  <td valign="middle">Industry &amp; Government</td>
+					  <td rowspan="2" valign="middle">Must be live and available to the public by 31 July 2023</td>
 					</tr>
 				  <tr>
-					  <td>Most Popular Informational Website</td>
-					  <td>Industry &amp; Government</td>
+					  <td valign="middle">Most Popular Informational Website</td>
+					  <td valign="middle">Industry &amp; Government</td>
 					</tr>
 					<tr>
 						<td>Outstanding Citizen Contributor</td>
