@@ -80,16 +80,24 @@ permalink: /faq/
 		  </div>
 	</li>
   <li>
-		  <input type="checkbox" id="accordion9">
-		  <label for="accordion9">When is the qualifying period?</label>
+		  <input type="checkbox" id="accordion8">
+		  <label for="accordion8">When is the qualifying period?</label>
 		  <div>
-				<p>The qualifying period for Best Improvement and Best TS CSAT is 1 April 2023 to 31 October 2023.</p>
-				<p>Pages will be scanned on 1 November 2023 for categories that are derived from WOGAA Inspect scores (Best Functionality, Best Improvement, Best SEO and Best Accessibility).</p>
-        <p>To qualify for the Best Usability and Most Popular Informational Website awards, websites will need to be live and available to the public by 31 July 2023.</p>
-		  </div>
-	</li>
-</ul>
+				
 
+| Award Category | Type of Award | Qualifying Period |
+| -------- | -------- | -------- |
+| Best Usability     | Industry &amp; Government     | Must be live and available to the public by 31 July 2023     |
+| Most Popular Informational Website     | Industry &amp; Government     | Must be live and available to the public by 31 July 2023     |
+| Outstanding Citizen Contributor     | Citizen     | Qualifying period to be released in June 2023. Stay tuned!     |
+| Best Customer Satisfaction for Transactional Services (TS CSAT)     | Government     | 1 April 2023 to 1 November 2023     |
+| Best Search Engine Optimisation (SEO)     | Government     | Pages will be scanned by WOGAA Inspect on 1 November 2023     |
+| Best Accessibility     | Government     | Pages will be scanned by WOGAA Inspect on 1 November 2023     |
+| Best Functionality     | Government     | Pages will be scanned by WOGAA Inspect on 1 November 2023     |
+| Best Improvement     | Government     | Snapshots of pages on 1 April 2023 and 1 November 2023 will be scanned by WOGAA      |
+					
+<p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a aria-label="Link to Evaluation Process and Criteria" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
 
-
-If you have any questions about the Digital Services Awards, contact us at <a href="mailto:support@digitalservicesawards.gov.sg">support@digitalservicesawards.gov.sg</a>.
+</div></li>
+		
+<p>If you have any questions about the Digital Services Awards, contact us at <a href="mailto:support@digitalservicesawards.gov.sg">support@digitalservicesawards.gov.sg</a>.</p></ul>
