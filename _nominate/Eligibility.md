@@ -9,11 +9,11 @@ description: ""
     font-weight: 700;
 }
 </style>
-<h4>Nominations for the Best Usability and Most Popular Informational Website (industry) awards are now open! Refer to the following information to nominate your website.</h4>
-<p>For government agencies who would like to nominate their websites for the Best Usability award, you may do so by submitting it through the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
+<h4>Nominations for the Best Usability (Industry) and Most Popular Informational Website (Industry) awards are now open! Refer to the following information to nominate your website.</h4>
+<p>For government agencies who would like to nominate their websites for the Best Usability (Government) award, you may do so by submitting it through the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
 <hr>
 <h3>Eligibility</h3>
-To enter the Best Usability and Most Popular Informational Website awards, the nominated websites will need to adhere to the following criteria:
+To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
   Only websites that end with .sg domain (including redirected sites) qualify. </p>
 <p><strong style="color:#B41E8E;">Public Access</strong><br>
@@ -25,7 +25,7 @@ To enter the Best Usability and Most Popular Informational Website awards, the n
   <li>Ecommerce, Social Media, Service/Event/Job/Gaming portals do not qualify </li>
 </ul>
 <p><strong style="color:#B41E8E;">Non-government</strong><br>
-  The website should not end with gov.sg domain. Government agencies can nominate their websites through the Government nomination form sent via email from GovTech DigitalGov. </p>
+  The website should not end with gov.sg domain.</p>
 <p><strong style="color:#B41E8E;">Minimum Web Traffic </strong><br>
   The website has to have a minimum of 3,000 visits/sessions per month. </p>
 <p><strong style="color:#B41E8E;">Safety</strong><br>
