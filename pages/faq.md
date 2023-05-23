@@ -86,7 +86,53 @@ permalink: /faq/
 		  <input type="checkbox" id="accordion8">
 		  <label for="accordion8">When is the qualifying period?</label>
 		  <div>
-				<p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a aria-label="Link to Evaluation Process and Criteria" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
+				<p>
+				<table>
+					<tbody><tr>
+						<th>Award Category</th>
+						<th>Type of Award</th>
+						<th>Qualifying Period</th>
+					</tr>
+				  <tr>
+					  <td>Best Usability</td>
+					  <td>Industry &amp; Government</td>
+					  <td rowspan="2">Must be live and available to the public by 31 July 2023</td>
+					</tr>
+				  <tr>
+					  <td>Most Popular Informational Website</td>
+					  <td>Industry &amp; Government</td>
+					</tr>
+					<tr>
+						<td>Outstanding Citizen Contributor</td>
+						<td>Citizen</td>
+						<td>Qualifying period to be released in June 2023. Stay tuned!</td>
+					</tr>
+					<tr>
+						<td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
+						<td>Government</td>
+						<td>1 April 2023 to 1 November 2023</td>
+					</tr>
+					<tr>
+						<td>Best Search Engine Optimisation (SEO)</td>
+						<td>Government</td>
+						<td rowspan="3">Pages will be scanned by WOGAA Inspect on 1 November 2023</td>
+					</tr>
+					<tr>
+						<td>Best Accessibility</td>
+						<td>Government</td>
+					</tr>
+					<tr>
+						<td>Best Functionality</td>
+						<td>Government</td>
+					</tr>
+					<tr>
+						<td>Best Improvement</td>
+						<td>Government</td>
+						<td>Snapshots of pages on 1 April 2023 and 1 November 2023 will be scanned by WOGAA</td>
+					</tr>
+				</tbody></table>
+				</p>
+<p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a aria-label="Link to Evaluation Process and Criteria" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
 
 </div></li>
 		
