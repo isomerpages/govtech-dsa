@@ -23,7 +23,7 @@ sections:
           description: Get the latest DSA news
           url: https://form.gov.sg/6465e27fb5606700123920d6
   - infobar:
-      title: What are the Digital Services Awards (DSA)?
+      title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
         delivering digital services through websites for the public.
       button: Read more about us
