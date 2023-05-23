@@ -38,9 +38,9 @@ description: ""
 		<h5> Tier 2: Establishing the Top 3 - Judges Evaluation (Sep to Oct 2023) </h5>
 		<p> The panel of judges will evaluate the nominees to select the top 3 nominations based on a matrix consisting of several criteria like impact, scale, participation, and contribution. </p> 
 		<h4> Tech Kaki </h4>
-		<p> The top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan - Sep 2023 will be selected as the winner. </p>
+		<p> The top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan to Sep 2023 will be selected as the winner. </p>
 		<h4> CrowdTaskSG </h4>
-		<p> The top 3 most active CrowdTaskSG users during the period of Jan - Sep 2023 will be selected as the winner. </p>
+		<p> The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 will be selected as the winner. </p>
 	<h3>	Evaluation Process for Remaining Categories</h3>
 		<p>		Winners for the following categories will be selected based on technical scores. </p>
 <p>		The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg"><strong>Whole-of-Government Application Analytics </strong></a>(WOGAA) platform. </p>
