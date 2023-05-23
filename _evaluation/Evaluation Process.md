@@ -40,7 +40,7 @@ description: ""
 		<h4> Tech Kaki </h4>
 		<p> The top 3 Tech Kaki Community members with the highest participation rate in Tech Kaki engagements during the period of Jan - Sep 2023 will be selected as the winner. </p>
 		<h4> CrowdTaskSG </h4>
-		<p> The top 3 most active CrowdTaskSG users will be selected as the winner.</p>
+		<p> The top 3 most active CrowdTaskSG users during the period of Jan - Sep 2023 will be selected as the winner. </p>
 	<h3>	Evaluation Process for Remaining Categories</h3>
 		<p>		Winners for the following categories will be selected based on technical scores. </p>
 <p>		The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg"><strong>Whole-of-Government Application Analytics </strong></a>(WOGAA) platform. </p>
