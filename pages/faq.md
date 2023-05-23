@@ -129,7 +129,7 @@ permalink: /faq/
 					</tr>
 				</tbody></table>
 				</p>
-<p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a aria-label="Link to Evaluation Process and Criteria" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
+<p>For more eligibility information about the Government agency awards across all categories, public officers can also visit <a aria-label="Link to WOGAA FAQ page" href="https://wogaa.sg/faq">WOGAA's Digital Services Awards FAQ page</a>.</p>
 
 </div></li>
 <li>		
