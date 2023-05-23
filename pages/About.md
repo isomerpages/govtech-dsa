@@ -5,12 +5,11 @@ description: ""
 ---
 <div class="row">
   <div class="col is-8">
-    <h3>Purpose</h3>
-    <p>The Digital Services Awards is a government led annual event that serves to recognise outstanding achievement and commitment to maintaining digital service standards of the highest order for the members of the public with its vigorous processes and user-centric focus.</p>
-    <h3>History</h3>
-    <p>The first Digital Services Awards was held in 2021 within the government sector to recognise government agencies and public officers for their excellence in upholding and improving government digital service standards.</p>
-			<p> To ensure only the best digital services are recognised, nominees and entries are put through a vigorous assessment process. This assessment process consist of multiple stages involving widely recognised evaluation criteria, expert judging panels, actual citizens, and people with varying level of abilities.
-    </p><p>Throughout the years, additional award categories have been introduced to honor the broader community for their valuable contributions. </p>
+    <h3>Introduction</h3>
+    <p>Held annually since 2021, the Digital Services Awards were first introduced by the government to recognise outstanding achievements and excellence in delivering digital services to the public. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions.</p>
+		    <p>To ensure only the best digital services are recognised, nominees and entries undergo a rigorous assessment process spanning four months. This process consists of multiple stages involving technical scoring using widely recognised evaluation criteria and powered by the [Whole-of-government Application Analytics](https://wogaa.sg/) (WOGAA) tool, expert judging panels, and qualitative feedback from citizens and users with different abilities.</p>
+    <h3>NEW in 2023</h3>
+    <p>This year, a new award category recognising citizens – “Outstanding Citizen Contributor” – will be introduced, while the categories of “Best Usability” and “Most Popular Informational Website” will be open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
   </div>
   <div class="col is-4"><img alt="Screen with DSA logo and trophies" src="/images/dsa_about.jpg"></div>
 </div>
