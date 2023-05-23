@@ -3,8 +3,10 @@ title: FAQ
 permalink: /faq/
 ---
 <style>
-  td {
-	  vertical-align: middle;
+	table.tablel23 {
+	  td {
+	    vertical-align: middle;
+	  }
 	}
 </style>
 
@@ -90,20 +92,20 @@ permalink: /faq/
 		  <label for="accordion8">When is the qualifying period?</label>
 		  <div>
 				<p>
-				<table>
+				<table class="tablel23">
 					<tbody><tr>
 						<th>Award Category</th>
 						<th>Type of Award</th>
 						<th>Qualifying Period</th>
 					</tr>
 				  <tr>
-					  <td valign="middle">Best Usability</td>
-					  <td valign="middle">Industry &amp; Government</td>
-					  <td rowspan="2" valign="middle">Must be live and available to the public by 31 July 2023</td>
+					  <td>Best Usability</td>
+					  <td>Industry &amp; Government</td>
+					  <td rowspan="2">Must be live and available to the public by 31 July 2023</td>
 					</tr>
 				  <tr>
-					  <td valign="middle">Most Popular Informational Website</td>
-					  <td valign="middle">Industry &amp; Government</td>
+					  <td>Most Popular Informational Website</td>
+					  <td>Industry &amp; Government</td>
 					</tr>
 					<tr>
 						<td>Outstanding Citizen Contributor</td>
