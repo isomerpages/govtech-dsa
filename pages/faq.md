@@ -3,16 +3,11 @@ title: FAQ
 permalink: /faq/
 ---
 <style type="text/css">
-	table#award_cat th{
-	background:#78145F;
-	color:#fff;
-		font-weight:700;
-	}
-	
-	table#award_cat td.even{
-	background:#ededed;
-	}
-	
+table#award_cat th {
+    background: #78145F;
+    color: #fff;
+    font-weight: 700;
+}
 </style>
 <h3>General</h3>
 <ul class="jekyllcodex_accordion">
@@ -84,8 +79,8 @@ permalink: /faq/
             <th>Type of Award</th>
             <th>Qualifying Period</th>
           </tr>
-		</thead>
-		<tbody>
+        </thead>
+        <tbody>
           <tr>
             <td>Best Usability</td>
             <td>Industry &amp; Government</td>
@@ -96,9 +91,9 @@ permalink: /faq/
             <td>Industry &amp; Government</td>
           </tr>
           <tr>
-            <td class="even">Outstanding Citizen Contributor</td>
-            <td class="even">Citizen</td>
-            <td class="even">Qualifying period to be released in June 2023. Stay tuned!</td>
+            <td>Outstanding Citizen Contributor</td>
+            <td>Citizen</td>
+            <td>Qualifying period to be released in June 2023. Stay tuned!</td>
           </tr>
           <tr>
             <td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
@@ -106,17 +101,17 @@ permalink: /faq/
             <td>1 April 2023 to 1 November 2023</td>
           </tr>
           <tr>
-            <td class="even">Best Search Engine Optimisation (SEO)</td>
-            <td class="even">Government</td>
-            <td class="even" rowspan="3">Pages will be scanned by WOGAA Inspect on 1 November 2023</td>
+            <td>Best Search Engine Optimisation (SEO)</td>
+            <td>Government</td>
+            <td rowspan="3">Pages will be scanned by WOGAA Inspect on 1 November 2023</td>
           </tr>
           <tr>
-            <td class="even">Best Accessibility</td>
-            <td class="even">Government</td>
+            <td>Best Accessibility</td>
+            <td>Government</td>
           </tr>
           <tr>
-            <td class="even">Best Functionality</td>
-            <td class="even">Government</td>
+            <td>Best Functionality</td>
+            <td>Government</td>
           </tr>
           <tr>
             <td>Best Improvement</td>
