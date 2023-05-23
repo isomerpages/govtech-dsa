@@ -69,7 +69,7 @@ permalink: /faq/
 					Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators.
 				</p>
 				<p>
-					For more details on the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
+					For more details about the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
 				
 
   </div></li><li>
