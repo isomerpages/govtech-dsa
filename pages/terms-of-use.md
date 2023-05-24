@@ -2,6 +2,9 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
+<style type="text/css">
+	.content ol[type="a"]{list-style: lower-alpha;}
+</style>
 <h3>General</h3>
 <ol>
   <li>Thank you for visiting this website (“Website”) which is owned and operated by the Government Technology Agency (“GovTech”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.</li>
