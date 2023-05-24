@@ -39,7 +39,7 @@ The panel of judges will evaluate the top 10 nominees based on <a aria-label="Li
     Only registered event attendees will be able to vote for the Most Popular Information Website during the event. Results will be revealed during the live event. </p>
     <h3>Evaluation Process for Outstanding Citizen Contributor award</h3>
     <h4> Whole-of-Government</h4>
-    <p><strong style="color:#B41E8E;">Tier 1: Pre-screening of nominations (Aug to Sep 2023) </strong><br>
+    <p><strong style="color:#B41E8E;">Tier 1: Pre-screening of Nominations (Aug to Sep 2023) </strong><br>
     After nominations close on 31 July, the team will do an internal pre-screening to sieve out nominations that do not meet the criteria. </p>
     <p><strong style="color:#B41E8E;">Tier 2: Establishing the Top 3 - Judges Evaluation (Sep to Oct 2023) </strong><br>
     The panel of judges will evaluate the nominees to select the top 3 nominations based on a matrix consisting of several criteria like impact, scale, participation, and contribution. </p>
