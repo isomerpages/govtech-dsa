@@ -2,6 +2,9 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
+<style type="text/css">
+	.content ol[type="a"]{list-style: lower-alpha;}
+</style>
 <h3>Government Agency Privacy Statement</h3>
 <ol>
   <li>This is a Government Agency digital service.</li>
