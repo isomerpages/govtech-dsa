@@ -2,62 +2,19 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<h3>General</h3>
+<h3>Government Agency Privacy Statement</h3>
 <ol>
-  <li>Thank you for visiting this website (“Website”) which is owned and operated by the Government Technology Agency (“GovTech”). By accessing and using this Website, you unconditionally accept and agree to be bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.</li>
-  <li>GovTech reserves the right to change these Terms of Use from time to time. All changes will be posted on this page, and your use of this Website after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes.</li>
-</ol>
-<h3>Proprietary Rights</h3>
-<ol start="3">
-  <li>This Website and the materials made available on or through this Website (“Contents”), are protected by copyright, trademark, and other forms of intellectual property rights. All rights in this Website and the Contents are owned by, licensed to, managed or controlled by GovTech.</li>
-</ol>
-<h3>Restrictions on use of Contents</h3>
-<ol start="4">
-  <li>You may access and use this Website and the Contents in the manner permitted in these Terms of Use only.</li>
-  <li>You may view, download and print the Contents for your personal, internal and non-commercial use, provided that you keep intact all accompanying copyright and other proprietary notices.</li>
-  <li>You shall not make any deletions, additions, adjustments, alterations, adaptations or modifications to this Website or any of the Contents. You acknowledge and agree that any deletion, addition, adjustment, alteration, adaptation or modification of this Website or any of the Contents is a violation of intellectual property rights subsisting therein.</li>
-  <li>Except as expressly permitted by these Terms of Use, you shall not reproduce, publish, upload, post, display, transmit or otherwise distribute this Website or any of the Contents in any manner or in any form, without the prior written permission of GovTech. You acknowledge and agree that any use of the Contents otherwise than in accordance with these Terms of Use is a violation of intellectual property rights subsisting therein.</li>
-</ol>
-<h3>Disclaimers against Warranties, Representations and Liability</h3>
-<ol start="8">
-  <li>This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, GovTech does not make any representations or warranties whatsoever and hereby disclaims all express, implied and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:&nbsp;
-    <ol type="a">
-      <li>any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality or fitness for any particular purpose of the Contents of this Website; and&nbsp; </li>
-      <li>any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents and the hosting servers are and will be free of all viruses and other harmful elements.</li>
+  <li>This is a Government Agency digital service.</li>
+  <li>We may use “cookies”, where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.</li>
+  <li>You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.</li>
+  <li>If you provide us with personally identifiable data:
+    <ol>
+      <li start="a">We may share necessary data with other Government agencies, so as to serve you in the most efficient and effective way unless such sharing is prohibited by law.</li>
+      <li>We will NOT share your Personal Data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</li>
+      <li>For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.</li>
     </ol>
   </li>
-  <li>GovTech shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special or consequential damages, loss of income, revenue or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:
-    <ol type="a">
-      <li>your access to or use of this Website;</li>
-      <li>any loss of access to or use of this Website, howsoever caused;&nbsp;</li>
-      <li>any inaccuracy or incompleteness in, or errors or omissions in the transmission of, the Contents</li>
-      <li>any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise; or&nbsp;</li>
-      <li>any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether GovTech has been advised of the possibility of such damage or loss.</li>
-    </ol>
-  </li>
-  <li>You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against GovTech, whether procedural or substantive in nature, in respect of any action that GovTech may or may not take in the exercise of its discretion, or in connection with GovTech’s roles as a statutory agency.</li>
-</ol>
-<h3>Indemnity</h3>
-<ol start="11">
-  <li>You hereby agree to indemnify GovTech and hold GovTech harmless from and against any and all claims, losses, liabilities, costs and expenses (including but not limited to legal costs and expenses on a full indemnity basis) made against or suffered or incurred by GovTech arising directly or indirectly out of:&nbsp;
-    <ol type="a">
-      <li>your access to or use of this Website; or&nbsp;</li>
-      <li>your breach of any of these Terms of Use.</li>
-    </ol>
-  </li>
-</ol>
-<h3>Availability, Right of Access, Changes to Website and Contents</h3>
-<ol start="12">
-  <li>GovTech may at any time suspend the operation of this Website or all or any of the Contents for any period of time without any prior notice, whether for the purposes of Website updating and upgrading or system maintenance or otherwise.</li>
-  <li>GovTech reserves all rights to deny or restrict access to this Website by any person, or to block access from a particular internet address to this Website, at any time without prior notice and without ascribing any reason whatsoever.</li>
-  <li>This Website and the Contents may be changed, modified, edited, removed or withdrawn by GovTech at its absolute discretion and at any time without prior notice.</li>
-  <li>You shall obtain your own professional and/or legal advice relevant to your particular circumstances and conduct all necessary due diligence, including but not limited to making such investigations or seeking clarifications as may be appropriate, as regards any decision or action that you intend to take in relation to any matter concerning the Contents of this Website. This Website may not cover all information available on a particular issue.</li>
-</ol>
-<h3>Hyperlinks from this Website to other websites</h3>
-<ol start="16">
-  <li>This Website may contain hyperlinks to websites which are not maintained by GovTech. GovTech is not responsible for the contents or reliability of those Websites and does not necessarily endorse the views expressed in them. GovTech has no control over and cannot guarantee the accessibility or proper functioning of those websites. Further, GovTech shall not be liable to you or any third party for any damage or loss whatsoever arising from your access to those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.</li>
-</ol>
-<h3>Governing Law</h3>
-<ol start="17">
-  <li>These Terms of Use shall be governed and construed in accordance with laws of the Republic of Singapore.</li>
+  <li>To safeguard your Personal Data, all electronic storage and transmission of Personal Data is secured with appropriate security technologies.</li>
+  <li>The Website may contain links to external sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</li>
+  <li>We reserve the right to change, modify or supplement the Privacy Statement at our discretion at any time, by posting the change, modified or supplemented Privacy Statement on or through the website, or through such other means as we may deem appropriate. Your continued use of the Website following the posting of any change, modification or supplement will constitute your acceptance of such change, modification or supplement to the Privacy Statement. If you do not agree to any of the terms in the Privacy Statement, or any change, modification or supplement to the Privacy Statement, please do not use the Website.</li>
 </ol>
