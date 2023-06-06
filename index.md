@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       title: Meet the winners
-      background: /images/website_herobanner_v2.jpg
+      background: /images/website_herobanner_v3.jpg
       button: See the list of DSA’22 winners
       url: /winners/2022/
       key_highlights:
