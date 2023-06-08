@@ -18,12 +18,12 @@ description: ""
   <div class="col is-2"><img alt="" src="/images/icn_usability.svg"></div>
   <div class="col is-10">
     <h4>Best Usability</h4>
-    <p>This award recognises the Government and Industry Informational Website that has the best usability in terms of ease of use, usefulness and satisfaction based on a round of judges’ evaluations and assessment by citizens.</p>
+    <p>This award recognises the Government Informational Website and Industry Informational Website that has the best usability in terms of ease of use, usefulness and satisfaction based on a round of judges’ evaluations and assessment by citizens.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_popularis.svg"></div>
   <div class="col is-10">
     <h4>Most Popular Informational Website</h4>
-    <p>This award recognises the Government and Industry Informational Website that garners the highest number of live attendee votes during the award ceremony.</p>
+    <p>This award recognises the Government Informational Website and Industry Informational Website that garners the highest number of live attendee votes during the award ceremony.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_citizen.svg"></div>
   <div class="col is-10">
