@@ -15,7 +15,7 @@ description: ""
 <h3>Eligibility</h3>
 To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
-  Only websites that end with .sg domain (including redirected sites) qualify. </p>
+  Only websites that end with .sg domain (including redirected sites) or intended to serve a Singapore-based audience. </p>
 <p><strong style="color:#B41E8E;">Public Access</strong><br>
   The website has to be fully accessible by the public. </p>
 <p><strong style="color:#B41E8E;">Informational</strong><br>
