@@ -62,7 +62,7 @@ figure.bp-image.is-square {
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Chong Kwek Bin" src="/images/industry_kwekbin.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Alister Ong" src="/images/gov_alistar.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Alister Ong<br>
@@ -71,7 +71,7 @@ figure.bp-image.is-square {
     <p>Apart from his day-to-day role, Alister has also been speaking in global organisations such as J.P Morgan, Bloomberg, LinkedIn, and Uber, with the objective of making a positive growth by providing a robust Diversity and Inclusion Strategy through thought leadership and change management.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
+    <figure class="bp-image is-square"><img alt="Amanda Mace" src="/images/gov_amanda"></figure>
   </div>
   <div class="col is-10">
     <h4>Amanda Mace<br>
@@ -80,7 +80,7 @@ figure.bp-image.is-square {
     <p>Amanda is certified by the Australian Computer Society (ACS) as a Certified Professional. Before joining Team AbleDocs, Amanda was the General Manager of Web Key IT. In addition, she co-authored a book chapter for the textbook, 'Web Accessibility A Foundation for Research' as well as the white paper entitled, 'Digital Accessibility: Perceptions, Expectations and Reality'.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Julie Schiller" src="/images/industry_julie.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Dominic Chan" src="/images/gov_dominic.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Dominic Chan<br>
@@ -88,13 +88,22 @@ figure.bp-image.is-square {
     <p>As Assistant Chief Executive at the Government Technology Agency of Singapore (GovTech), Dominic Chan leads the Product Management function of National Digital Identity (NDI), Moments of Life (MOL) and Digital Work Place (DWP). He holds a concurrent position of Senior Director, NDI, directly overseeing the development and implementation of programmes such as Singpass, Myinfo and various identity and access management related products. In his prior role in GovTech as Director, MOL, he was also responsible for products such as LifeSG, GoBusiness and Virtual intelligent Chat Assistant (VICA).</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Maria Rosala" src="/images/industry_maria.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Jason Goh" src="/images/gov_jason.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Jason Goh<br>
       <span class="jname">EXCO Member, DBCS and Design Director, Dell Technologies, Design Business Chamber Singapore</span></h4>
     <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.    </p>
     <p>Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
+  </div>
+	 <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Verdayne Nunis" src="/images/gov_verdayne.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Verdayne Nunis<br>
+      <span class="jname">Senior Director, Experience Center Asia, Microsoft</span></h4>
+    <p>Leading the Customer Experience Team at the Microsoft Experience Center in Asia, Verdayne Nunis works in partnership with leaders across Asia to enable Microsoft’s mission to empower our customers and partners to reimagine our future. She is passionate about breaking down barriers for collaboration so that everyone can act as one team to achieve a higher purpose - successful transformation for customers in Asia.    </p>
+    <p>She has spent the last 14 years at Microsoft, working closely with sales and marketing teams on the transformation from traditional software to a cloud business. She has contributed in various roles in Asia including Chief of Staff, led Commercial Communications covering 14 countries, orchestrated the launch of major business solutions, drove insight-based regional campaigns such as digital transformation, IOT, workplace 2020 and data culture. She also spent 5 years as the CMO for Microsoft Singapore and led a team on marketing communications, community affairs and corporate reputation management across all customer segments and NGOs.</p>
   </div>
 </div>
 <hr>
