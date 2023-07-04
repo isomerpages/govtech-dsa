@@ -10,7 +10,7 @@ description: ""
 }
 h4>.jname {
     font-size: 1.25rem;
-    color: #323232;
+    color: #f47920;
 }
 figure.bp-image.is-square {
     margin-left: 0;
