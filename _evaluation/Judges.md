@@ -107,32 +107,27 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Citizen Contributor Awards</h3>
+<h3>Outstanding Citizen Contributor</h3>
 <p>The panel of expert judges consist of the following:</p>
-<div class="row">
-  <div class="col is-one-fifth">
+<div class="row is-multiline">
+  <div class="col is-2">
     <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
-    <div class="jname">Judge Name</div>
-    <small>Job Title<br>
-    Organisation</small></div>
-  <div class="col is-one-fifth">
+  </div>
+  <div class="col is-10">
+    <h4>Chiang Lihui<br>
+      <span class="jname">Deputy Director, Adoption and Engagement, SNDGO</span></h4>
+    <p>Li Hui leads the Adoption and engagement team in Smart Nation Digital Government Office, Prime Minister’s Office. She conceptualise and organise engagements with citizens, businesses and the wider civil service to suss out tech adoption pain points, outcomes of user-testing and prototyping. We develop strategies and implement plans to increase adoption of specific technology platforms across the Singapore population and civil service; working with relevant technologists and government agencies to develop content to support the above objectives. </p>
+    <p>She started her career in the Singapore Airforce as a Air Warfare officer, where she ensures 24/7 all-round Air Surveillance and control operations to safeguard Singapore's airspace. She was also Assistant Director for Strategy at the Future Systems and Technology Directorate, she master-planned the R&amp;D investments, having to balance between whitespace and fiscal responsibility, to deliver on game-changing concepts to realise cutting edge capabilities for the SAF. She was given opportunities to work with the inter-ministry Futures community and overseas think tanks. Her last tour was as a flight commander, where she was entrusted to lead a 40men team, managing assets and radar systems upwards of $100millions. This honed her resilience, leadership and critical thinking skills. </p>
+    <p>She also had experience in the tech sector in Grab where she experienced #TechforGood and honed her skills for product management, Design thinking and UX/UI research. She also has a Masters in Public Health from University of Michigan, Ann Arbor and has worked in Health Promotion Board as the Deputy Director for Strategic Planning and International Relations.    </p>
+    <p>#TLDR Positive, analytical and resourceful officer with experience in the government, health and technology sector.</p>
+  </div>
+  <div class="col is-2">
     <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
-    <div class="jname">Judge Name</div>
-    <small>Job Title<br>
-    Organisation</small></div>
-  <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
-    <div class="jname">Judge Name</div>
-    <small>Job Title<br>
-    Organisation</small></div>
-  <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
-    <div class="jname">Judge Name</div>
-    <small>Job Title<br>
-    Organisation</small></div>
-  <div class="col is-one-fifth">
-    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
-    <div class="jname">Judge Name</div>
-    <small>Job Title<br>
-    Organisation</small></div>
+  </div>
+  <div class="col is-10">
+    <h4>Boh Boon Hou<br>
+      <span class="jname">Principle Consultant, Social Tech, Empact</span></h4>
+    <p>Julie Schiller has worked in UX at Google for 5 years. With 20 years of experience in software, web, mobile, and cars she likes to have opinions about user research. Julie has worked at Facebook, Autodesk, Wells Fargo, the BBC and with a variety of challenging stakeholders. </p>
+    <p>Julie also holds masters degrees in both Human-computer Interaction (HCI) and Human Factors from the University of Michigan and University College London. She has led teams of various sizes, focusing on strengths based leadership, and also treasures doing research with qualitative and quantitative methods.</p>
+  </div>
 </div>
