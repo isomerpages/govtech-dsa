@@ -18,7 +18,7 @@ figure.bp-image.is-square {
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
 <div class="col is-2">
-  <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
+  <figure class="bp-image is-square"><img alt="Chong Kwek Bin" src="/images/industry_kwekbin.jpg"></figure>
 </div>
 <div class="col is-10">
   <h4 class="jname">Chong Kwek Bin<br>
@@ -36,7 +36,7 @@ figure.bp-image.is-square {
   <p>He was a Smart Nation Fellow in design from 2021-2022, and currently works with the Singapore government to develop design capabilities for the whole of government to help bring benefit to the citizens and residents of Singapore. He is a firm believer of the value design brings to organisations and is agnostic in his use of technologies to solve problems.</p>
 </div>
 	<div class="col is-2">
-  <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
+  <figure class="bp-image is-square"><img alt="Julie Schiller" src="/images/industry_julie.jpg"></figure>
 </div>
 <div class="col is-10">
   <h4 class="jname">Julie Schiller<br>
@@ -45,7 +45,7 @@ figure.bp-image.is-square {
   <p>Julie also holds masters degrees in both Human-computer Interaction (HCI) and Human Factors from the University of Michigan and University College London. She has led teams of various sizes, focusing on strengths based leadership, and also treasures doing research with qualitative and quantitative methods.</p>
 </div>
 	<div class="col is-2">
-  <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
+  <figure class="bp-image is-square"><img alt="Maria Rosala" src="/images/industry_maria.jpg"></figure>
 </div>
 <div class="col is-10">
   <h4 class="jname">Maria Rosala<br>
