@@ -4,9 +4,10 @@ permalink: /judges/
 description: ""
 ---
 <style type="text/css">
-.jname {
+.content h4.jname {
     font-weight: 700;
     color: #B41E8E;
+	font-size:1.125rem;
 }
 figure.bp-image.is-square {
     margin-left: 0;
