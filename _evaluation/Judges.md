@@ -71,7 +71,7 @@ figure.bp-image.is-square {
     <p>Apart from his day-to-day role, Alister has also been speaking in global organisations such as J.P Morgan, Bloomberg, LinkedIn, and Uber, with the objective of making a positive growth by providing a robust Diversity and Inclusion Strategy through thought leadership and change management.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Amanda Mace" src="/images/gov_amanda"></figure>
+    <figure class="bp-image is-square"><img alt="Amanda Mace" src="/images/gov_amanda.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Amanda Mace<br>
