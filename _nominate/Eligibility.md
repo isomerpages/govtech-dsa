@@ -28,7 +28,7 @@ To enter the Best Usability (Industry) and Most Popular Informational Website (I
   The website should not end with gov.sg domain.</p>
 <p><strong style="color:#B41E8E;">Minimum Web Traffic </strong><br>
   The website has to have a minimum of 3,000 visits/sessions per month. </p>
-<p><strong style="color:#B41E8E;">Language</strong><br>The website should be in English to ensure alignment with the predominant language for business in Singapore, and facilitate effective communication with our diverse citizen assessors and judges.</p>
+<p><strong style="color:#B41E8E;">Language</strong><br>The website should be in English or have an English language option, as it is the predominant language of business in Singapore.</p>
 <p><strong style="color:#B41E8E;">Safety</strong><br>
   No obscene, illegal, socially harmful websites will be entertained.</p>
 <h3>How to Nominate</h3>
