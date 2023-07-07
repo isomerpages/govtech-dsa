@@ -47,29 +47,37 @@ table#award_cat th {
     </div>
   </li>
 </ul>
-<h3>Evaluations</h3>
+<h3>Eligibility</h3>
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Who are the judges for the awards?</label>
+    <label for="accordion5">Why does a website have to be in English or have an English language option to be eligible?</label>
+    <div>The website should be in English or have an English language option to ensure alignment with the predominant language for business in Singapore, and facilitate effective communication with our diverse assessors.</div>
+  </li>
+</ul>
+<h3>Evaluations</h3>
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Who are the judges for the awards?</label>
     <div> The judging panels will be announced in July. Stay tuned for more information! </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">How are the winners selected?</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">How are the winners selected?</label>
     <div>
       <p> Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators. </p>
       <p> For more details about the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">What if there is a tie?</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">What if there is a tie?</label>
     <div> In the event of a tie, all agencies who received the top scores or evaluations will receive the award. </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">When is the qualifying period?</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">When is the qualifying period?</label>
     <div>
       <p>
       <table id="award_cat">
