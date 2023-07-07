@@ -51,7 +51,7 @@ table#award_cat th {
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion5">
-    <label for="accordion5">Why must the website be in English or have an English language option?</label>
+    <label for="accordion5">Why does a website have to be in English or have an English language option to be eligible?</label>
     <div>The website should be in English or have an English language option to ensure alignment with the predominant language for business in Singapore, and facilitate effective communication with our diverse assessors.</div>
   </li>
 </ul>
