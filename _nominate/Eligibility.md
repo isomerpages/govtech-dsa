@@ -30,6 +30,7 @@ To enter the Best Usability (Industry) and Most Popular Informational Website (I
   The website has to have a minimum of 3,000 visits/sessions per month. </p>
 <p><strong style="color:#B41E8E;">Safety</strong><br>
   No obscene, illegal, socially harmful websites will be entertained.</p>
+	<p><strong style="color:#B41E8E;">Language</strong><br> The website should be in English to ensure alignment with the predominant language for business in Singapore, and facilitate effective communication with our diverse assessors.</p>
 <h3>How to Nominate</h3>
 <p>Submit your nominations through the form by <strong>31 July 2023, 6pm SGT.</strong></p>
 <p>For more details about the evaluation criteria, please visit the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</p>
