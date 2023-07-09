@@ -17,7 +17,7 @@ figure.bp-image.is-square {
     margin-right: 0;
 }
 </style>
-<h3>Best Usability Awards - Industry</h3>
+<h3>Best Usability Awards (Industry)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -58,7 +58,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Best Usability Awards - Government</h3>
+<h3>Best Usability Awards (Government)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -107,7 +107,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Outstanding Citizen Contributor</h3>
+<h3>Outstanding Citizen Contributor (Whole-of-Government)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
