@@ -40,9 +40,9 @@ sections:
   - infobar:
       title: Judging Panel Unveiled
       subtitle: Latest News
-      description: Check out our panel of expert judges consist of subject matter
-        experts on accessibility and usability from both the public and private
-        sector.
+      description: Check out our panel of judges who are subject matter experts on
+        usability, accessibility and social impact from both the public and
+        private sector.
       button: See list of judges
       url: /judges/
 ---
