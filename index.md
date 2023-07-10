@@ -38,11 +38,9 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Judging Panel Unveiled
+      title: Nominations Now Open
       subtitle: Latest News
-      description: Check out our panel of judges who are subject matter experts on
-        usability, accessibility and social impact from both the public and
-        private sector.
-      button: See list of judges
-      url: /judges/
+      description: Submit your nominations through the form by 31 July 2023, 6pm SGT.
+      button: Submit Nomination
+      url: /submit-nomination/
 ---
