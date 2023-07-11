@@ -15,6 +15,7 @@ h4>.jname {
 figure.bp-image.is-square {
     margin-left: 0;
     margin-right: 0;
+	border:1px solid #dedede;
 }
 </style>
 <!--<p>The panel of expert judges consist of subject matter experts on accessibility and usability from both the public and private sector.  </p>
@@ -43,7 +44,7 @@ figure.bp-image.is-square {
     <p>Throughout his career, he has also advised and coordinated feedback to various parties on digital accessibility. Kwek Bin is currently a Technology Analyst at SG Enable, Singapore’s focal agency for disability and inclusion, where he is working on assistive technology and e-accessibility initiatives. </p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="xxx" src="/images/placeholder_img.png"></figure>
+    <figure class="bp-image is-square"><img alt="Cyprian Wong" src="/images/industry_cyprian.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Cyprian Wong<br>
