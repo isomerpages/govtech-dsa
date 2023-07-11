@@ -151,8 +151,8 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Jin Wang<br>
       <span class="jname">Co-Founder, BYTE</span></h4>
-    <p>Boon Hou is an accomplished Principal Consultant with a deep focus on social tech and a strong commitment to leveraging technology for positive social impact. With a career spanning over two decades, Boon Hou has successfully implemented IT solutions and led transformative initiatives in both the commercial and the social service sector.</p>
-    <p>At Empact, Boon Hou plays a pivotal role in driving social tech initiatives. He combines his extensive knowledge of technology with his understanding of social issues to design and propose IT solutions for the social service sector in Singapore. His strategic thinking and innovative approach have streamlined operations and enhanced collaboration, ultimately improving the delivery of social services.</p>
+    <p>Jin enjoys helping others appreciate and learn about how technology can enhance their everyday lives. She aspires to empower those in the community to explore the unlimited possibilities of technology and instill confidence through hands-on learning from programs that Byte offer. With the Byte team, Jin hopes to bring together passionate individuals and groups to make a difference by bridging the technology divide.</p>
+    <p>In her day job as a management consultant, Jin has worked with both public and private sector clients to reimagine their future, curate meaningful user/customer experiences, embrace change and drive effective change management strategies.</p>
   </div>
 	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Evelyn Lam" src="/images/cc_evelyn.jpg"></figure>
