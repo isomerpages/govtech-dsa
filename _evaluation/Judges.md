@@ -123,7 +123,15 @@ figure.bp-image.is-square {
 <hr>
 <h3>Outstanding Citizen Contributor (Whole-of-Government)</h3>
 <p>The panel of expert judges consist of the following:</p>
-<div class="row is-multiline">
+<div class="row is-multiline"><div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Boh Boon Hou" src="/images/cc_boonhou.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Boh Boon Hou<br>
+      <span class="jname">Principle Consultant, Social Tech, Empact</span></h4>
+    <p>Boon Hou is an accomplished Principal Consultant with a deep focus on social tech and a strong commitment to leveraging technology for positive social impact. With a career spanning over two decades, Boon Hou has successfully implemented IT solutions and led transformative initiatives in both the commercial and the social service sector.</p>
+    <p>At Empact, Boon Hou plays a pivotal role in driving social tech initiatives. He combines his extensive knowledge of technology with his understanding of social issues to design and propose IT solutions for the social service sector in Singapore. His strategic thinking and innovative approach have streamlined operations and enhanced collaboration, ultimately improving the delivery of social services.</p>
+  </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Chiang Lihui" src="/images/cc_lihui.jpg"></figure>
   </div>
@@ -135,15 +143,22 @@ figure.bp-image.is-square {
       She started her career in the Singapore Airforce as a Air Warfare officer, where she ensures 24/7 all-round Air Surveillance and control operations to safeguard Singapore's airspace. She was also Assistant Director for Strategy at the Future Systems and Technology Directorate. There, she master-planned the R&amp;D investments, balancing between whitespace and fiscal responsibility, to deliver game-changing concepts to realise cutting edge capabilities for the SAF.<br>
       <br>
     She also had experience in the tech sector in Grab where she experienced #TechforGood and honed her skills for product management, Design thinking and UX/UI research. She also has a Masters in Public Health from University of Michigan, Ann Arbor and has worked in Health Promotion Board as the Deputy Director for Strategic Planning and International Relations.</p>
-  </div>
-  <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Boh Boon Hou" src="/images/cc_boonhou.jpg"></figure>
+  </div><div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Evelyn Lam" src="/images/cc_evelyn.jpg"></figure>
   </div>
   <div class="col is-10">
-    <h4>Boh Boon Hou<br>
-      <span class="jname">Principle Consultant, Social Tech, Empact</span></h4>
-    <p>Boon Hou is an accomplished Principal Consultant with a deep focus on social tech and a strong commitment to leveraging technology for positive social impact. With a career spanning over two decades, Boon Hou has successfully implemented IT solutions and led transformative initiatives in both the commercial and the social service sector.</p>
-    <p>At Empact, Boon Hou plays a pivotal role in driving social tech initiatives. He combines his extensive knowledge of technology with his understanding of social issues to design and propose IT solutions for the social service sector in Singapore. His strategic thinking and innovative approach have streamlined operations and enhanced collaboration, ultimately improving the delivery of social services.</p>
+    <h4>Evelyn Lam<br>
+      <span class="jname">News Presenter, Team Lead &amp; Editor for Technology and Data Analytics, Channel 8 News</span></h4>
+    <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
+    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best New Story at the Star Awards for consecutive three years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
+    <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
+  </div><div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Irene Tham" src="/images/cc_irene.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Irene Tham<br>
+      <span class="jname">Technology Editor, The Straits Times</span></h4>
+    <p>Irene Tham is Technology Editor at The Straits Times and has more than two decades of experience covering a wide range of technology issues from cyber security and data privacy to smart cities, artificial intelligence and blockchain. She began her career in 1999 reporting on technology developments in Asia at CNET and joined The Straits Times in 2007 as a technology reporter. Irene won the Singapore Press Holdings English/Malay/Tamil Media group Story of the Year award for her work “Public servants’ computers to have no net access” published in The Straits Times on 8 June 2016.</p>
   </div>
 	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Jin Wang" src="/images/cc_jinwang.jpg"></figure>
@@ -153,23 +168,5 @@ figure.bp-image.is-square {
       <span class="jname">Co-Founder, BYTE</span></h4>
     <p>Jin enjoys helping others appreciate and learn about how technology can enhance their everyday lives. She aspires to empower those in the community to explore the unlimited possibilities of technology and instill confidence through hands-on learning from programs that Byte offer. With the Byte team, Jin hopes to bring together passionate individuals and groups to make a difference by bridging the technology divide.</p>
     <p>In her day job as a management consultant, Jin has worked with both public and private sector clients to reimagine their future, curate meaningful user/customer experiences, embrace change and drive effective change management strategies.</p>
-  </div>
-	<div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Evelyn Lam" src="/images/cc_evelyn.jpg"></figure>
-  </div>
-  <div class="col is-10">
-    <h4>Evelyn Lam<br>
-      <span class="jname">News Presenter, Team Lead &amp; Editor for Technology and Data Analytics, Channel 8 News</span></h4>
-    <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
-    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best New Story at the Star Awards for consecutive three years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
-    <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
-  </div>
-	<div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Irene Tham" src="/images/cc_irene.jpg"></figure>
-  </div>
-  <div class="col is-10">
-    <h4>Irene Tham<br>
-      <span class="jname">Technology Editor, The Straits Times</span></h4>
-    <p>Irene Tham is Technology Editor at The Straits Times and has more than two decades of experience covering a wide range of technology issues from cyber security and data privacy to smart cities, artificial intelligence and blockchain. She began her career in 1999 reporting on technology developments in Asia at CNET and joined The Straits Times in 2007 as a technology reporter. Irene won the Singapore Press Holdings English/Malay/Tamil Media group Story of the Year award for her work “Public servants’ computers to have no net access” published in The Straits Times on 8 June 2016.</p>
   </div>
 </div>
