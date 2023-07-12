@@ -21,7 +21,7 @@ figure.bp-image.is-square {
 <!--<p>The panel of expert judges consist of subject matter experts on accessibility and usability from both the public and private sector.  </p>
  <p><strong>The full list will be released in mid July. Stay tuned! </strong></p>
 <p>Apart from the judges evaluations, the top 3 nominees will proceed to Tier 3 for judging by citizens.</p>//-->
-<h3>Best Usability Awards (Industry)</h3>
+<h3>Best Usability (Industry) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
 	<div class="col is-2">
@@ -72,7 +72,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Best Usability Awards (Government)</h3>
+<h3>Best Usability (Government) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -121,7 +121,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Outstanding Citizen Contributor (Whole-of-Government)</h3>
+<h3>Outstanding Citizen Contributor (Whole-of-Government) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline"><div class="col is-2">
     <figure class="bp-image is-square"><img alt="Boh Boon Hou" src="/images/cc_boonhou.jpg"></figure>
