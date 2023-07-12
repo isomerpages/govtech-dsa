@@ -38,9 +38,11 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Nominations Now Open
+      title: Judging Panel Unveiled
       subtitle: Latest News
-      description: Submit your nominations through the form by 31 July 2023, 6pm SGT.
-      button: Submit Nomination
-      url: /submit-nomination/
+      description: "The panel of judges exhibit mastery in a wide ride range of
+        domains across user experience, product management, software engineering
+        and social impact. "
+      button: Check out list of judges
+      url: /judges/
 ---
