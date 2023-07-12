@@ -38,10 +38,11 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Judging Panel Released
+      title: Judging Panel Unveiled
       subtitle: Latest News
-      description: The panel of expert judges consist of subject matter experts on
-        accessibility and usability from both the public and private sector.
+      description: "The panel of judges exhibit mastery in a wide ride range of
+        domains across user experience, product management, software engineering
+        and social impact. "
       button: Check out list of judges
       url: /judges/
 ---
