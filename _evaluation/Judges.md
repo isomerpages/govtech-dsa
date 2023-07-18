@@ -18,9 +18,6 @@ figure.bp-image.is-square {
 	border:1px solid #dedede;
 }
 </style>
-<!--<p>The panel of expert judges consist of subject matter experts on accessibility and usability from both the public and private sector.  </p>
- <p><strong>The full list will be released in mid July. Stay tuned! </strong></p>
-<p>Apart from the judges evaluations, the top 3 nominees will proceed to Tier 3 for judging by citizens.</p>//-->
 <h3>Best Usability (Industry) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
@@ -39,7 +36,7 @@ figure.bp-image.is-square {
   </div>
   <div class="col is-10">
     <h4>Chong Kwek Bin<br>
-      <span class="jname">Technology Analyst, SGEnable</span></h4>
+      <span class="jname">Technology Analyst, SG Enable</span></h4>
     <p>An adept user of assistive technology, and a former IT trainer for fellow persons with visual impairment, Kwek Bin has extensive experience in the field of digital accessibility. He served on the Steering Committees of the Enabling Masterplan 3 (2017 - 2021) and Enabling Masterplan 2030, national roadmaps guiding Singapore's disability inclusion efforts. </p>
     <p>Throughout his career, he has also advised and coordinated feedback to various parties on digital accessibility. Kwek Bin is currently a Technology Analyst at SG Enable, Singapore’s focal agency for disability and inclusion, where he is working on assistive technology and e-accessibility initiatives. </p>
   </div>
