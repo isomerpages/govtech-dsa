@@ -101,7 +101,9 @@ table#award_cat th {
           <tr>
             <td>Outstanding Citizen Contributor</td>
             <td>Citizen</td>
-            <td>Qualifying period to be released in June 2023. Stay tuned!</td>
+            <td>Whole-of-Government nominated: 1 August 2022 to 31 July 2023
+
+Tech Kaki and CrowdTaskSG: 1 January 2023 to 30 September 2023</td>
           </tr>
           <tr>
             <td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
