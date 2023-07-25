@@ -20,7 +20,7 @@ sections:
           description: Selection & judging
           url: /evaluation-process/
         - title: Judging Panel
-          description: Check out the list of judges
+          description: View our esteemed judges
           url: /judges/
   - infobar:
       title: What is the Digital Services Awards (DSA)?
