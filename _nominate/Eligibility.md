@@ -9,8 +9,7 @@ description: ""
     font-weight: 700;
 }
 </style>
-<h4>Nominations for the Best Usability (Industry) and Most Popular Informational Website (Industry) awards has closed.</h4>
-<p>For government agencies who would like to nominate their websites for the Best Usability (Government) and Most Popular Informational Website (Government) awards, you may submit the <strong>Government nomination form sent via GovTech DigitalGov.</strong></p>
+<h4>Nominations for the Best Usability and Most Popular Informational Website awards are now closed. Stay tuned for more information about the finalists in September 2023!</h4>
 <hr>
 <h3>Eligibility</h3>
 To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
