@@ -32,4 +32,4 @@ To enter the Best Usability (Industry) and Most Popular Informational Website (I
   No obscene, illegal, socially harmful websites will be entertained.</p>
 	<p><strong>For more details about the evaluation criteria, please visit the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>
 <!--<h3>How to Nominate</h3>
-<p>Nominations for Best Usability <strong>closed</strong>.</p><div class="row is-centered"><a href="/submit-nomination/" class="bp-button is-primary is-medium is-text">Submit Nomination</a></div>//-->
+<p>Nominations for Best Usability <strong>closed</strong>.</p><div class="row is-centered"><a href="/submit-nomination/" class="bp-button is-primary is-medium is-text">Submit Nomination</a></div>-->
