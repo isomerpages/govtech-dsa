@@ -9,7 +9,7 @@ description: ""
     font-weight: 700;
 }
 </style>
-<h4>Nominations for the Best Usability and Most Popular Informational Website awards are now closed. Stay tuned for more information about the finalists in September 2023!</h4>
+<h4><p>Nominations for the Best Usability and Most Popular Informational Website awards are now closed. </p><p>Nominations will open again in mid-2024. Stay tuned!</p></h4>
 <hr>
 <h3>Eligibility</h3>
 To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
