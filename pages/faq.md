@@ -42,7 +42,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">How do we nominate our websites?</label>
-    <div>Nominations for the Best Usability and Most Popular Informational Website awards have closed on 31 July, 6pm. Stay tuned for more information about the finalists in September 2023. <br>
+    <div>Nominations for the Best Usability and Most Popular Informational Website awards have closed on 31 July, 6pm. Nominations will open again in mid-2024. Stay tuned!<br>
       <p> For information about the eligibility criteria and evaluation process, please visit <a aria-label="Link to Eligibility Criteria" href="/eligibility/">Eligibility Criteria</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a>.</p>
     </div>
   </li>
