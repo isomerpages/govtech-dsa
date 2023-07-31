@@ -13,15 +13,15 @@ sections:
       button: See the list of DSA’22 winners
       url: /winners/2022/
       key_highlights:
-        - title: Nominate your website
-          description: View eligibility criteria
-          url: /eligibility/
-        - title: Evaluation Process
-          description: Selection & judging
-          url: /evaluation-process/
         - title: Stay Updated
           description: Get the latest DSA news
           url: https://form.gov.sg/6465e27fb5606700123920d6
+        - title: Evaluation Process
+          description: Selection & judging
+          url: /evaluation-process/
+        - title: Judging Panel
+          description: View our esteemed judges
+          url: /judges/
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
@@ -40,9 +40,9 @@ sections:
   - infobar:
       title: Judging Panel Unveiled
       subtitle: Latest News
-      description: "The panel of judges exhibit mastery in a wide ride range of
-        domains across user experience, product management, software engineering
-        and social impact. "
+      description: The panel of judges exhibit mastery in a wide ride range of domains
+        across user experience, product management, software engineering and
+        social impact.
       button: Check out list of judges
       url: /judges/
 ---
