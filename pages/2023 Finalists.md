@@ -89,7 +89,7 @@ description: ""
 	</div>
 </div>
 <hr>
-<h4 class="has-text-centered">Best Usability (Government) + Most Pop</h4>
+<h4 class="has-text-centered">Best Usability (Government)</h4>
 <div class="grid-container">
 	<div class="content">
 		<div><img alt="" src="/images/gov_cpf.png"></div>
