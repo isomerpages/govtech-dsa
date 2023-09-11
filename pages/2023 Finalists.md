@@ -24,14 +24,13 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-	  grid-template-columns: repeat(auto-fit, minmax(10rem, 4fr));
+	  grid-template-columns: repeat(auto-fit, minmax(15rem, 4fr));
     justify-content: center;
 	padding-top:12px;
 }
 </style>
 
 <div>
-	<p>Submit your nominations through the form by <strong>31 July 2023, 6pm SGT</strong>.</p>
   <p>For information about the eligibility criteria and evaluation process, head to our page on <a aria-label="Link to Eligibility" href="/eligibility/"><strong>Eligibility</strong></a>.</p>
 </div>
 
