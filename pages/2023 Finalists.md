@@ -24,7 +24,7 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-	  grid-template-columns: repeat(auto-fit, minmax(11rem, 4fr));
+	  grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
     justify-content: center;
 	padding-top:12px;
 }
@@ -35,7 +35,7 @@ description: ""
 </div>
 
 <h4 class="has-text-centered">Best Usability (Industry)</h4>
-<div class="grid-container multiline">
+<div class="grid-container">
 	<div class="content">
 		<div><img alt="" src="/images/industry_dbs.png"></div>
 		<div class="winner">DBS Website</div>
@@ -56,10 +56,40 @@ description: ""
 		<div class="winner">Mindline Website</div>
 		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
 	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability (Government) + Most Pop</h4>
-<div class="grid-container multiline">
+<div class="grid-container">
 	<div class="content">
 		<div><img alt="" src="/images/industry_dbs.png"></div>
 		<div class="winner">DBS Website</div>
@@ -74,6 +104,36 @@ description: ""
 		<div><img alt="" src="/images/industry_dbs.png"></div>
 		<div class="winner">Guide Dogs Website</div>
 		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg/">https://guidedogs.org.sg/</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/industry_dbs.png"></div>
