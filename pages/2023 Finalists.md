@@ -92,53 +92,54 @@ description: ""
 <h4 class="has-text-centered">Best Usability (Government) + Most Pop</h4>
 <div class="grid-container">
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">DBS Website</div>
-		<div class="classification"><a target="_blank" href="https://dbs.com/default.page">https://dbs.com/default.page</a></div>
+		<div><img alt="" src="/images/gov_cpf.png"></div>
+		<div class="winner">CPF Website</div>
+		<div class="classification"><a target="_blank" href="https://cpf.gov.sg">https://cpf.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_gbtb.png"></div>
-		<div class="winner">Gardens By The Bay Website</div>
-		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+		<div><img alt="" src="/images/gov_ema.png"></div>
+		<div class="winner">EMA Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://ema.gov.sg">https://ema.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Guide Dogs Website</div>
-		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg/">https://guidedogs.org.sg/</a></div>
+		<div><img alt="" src="/images/gov_gra.png"></div>
+		<div class="winner">GRA Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://gra.gov.sg">https://gra.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_ica.png"></div>
+		<div class="winner">ICA Corporate Website</div>
+		<div class="classification"><a target="_blank" href="http://ica.gov.sg">http://ica.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_imda.png"></div>
+		<div class="winner">IMDA Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://imda.gov.sg">https://imda.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_iras.png"></div>
+		<div class="winner">Integrated Regulatory Information System</div>
+		<div class="classification"><a target="_blank" href="https://iris.imda.gov.sg">https://iris.imda.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_iris.png"></div>
+		<div class="winner">IRAS Website</div>
+		<div class="classification"><a target="_blank" href="https://iras.gov.sg">https://iras.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_moe.png"></div>
+		<div class="winner">MOE Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_mycareers.png"></div>
+		<div class="winner">MyCareersFuture.sg Portal</div>
+		<div class="classification"><a target="_blank" href="https://mycareersfuture.gov.sg">https://mycareersfuture.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/gov_seab.png"></div>
+		<div class="winner">SEAB Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://seab.gov.sg">https://seab.gov.sg
+</a></div>
 	</div>
 </div>
