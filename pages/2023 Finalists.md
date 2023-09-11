@@ -28,6 +28,7 @@ description: ""
     justify-content: center;
 	padding-top:12px;
 }
+	.grid-container .content{text-align:center;}
 </style>
 
 <div>
@@ -47,44 +48,44 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div><img alt="" src="/images/industry_gds.png"></div>
 		<div class="winner">Guide Dogs Website</div>
-		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg/">https://guidedogs.org.sg/</a></div>
+		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg">https://guidedogs.org.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div><img alt="" src="/images/industry_mindline.png"></div>
 		<div class="winner">Mindline Website</div>
 		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_ncs.png"></div>
+		<div class="winner">NCS Website</div>
+		<div class="classification"><a target="_blank" href="https://ncs.co/en-sg/">https://ncs.co/en-sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_pathlight.png"></div>
+		<div class="winner">Pathlight Website</div>
+		<div class="classification"><a target="_blank" href="https://pathlight.org.sg">https://pathlight.org.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_seedly.png"></div>
+		<div class="winner">Seedly Website</div>
+		<div class="classification"><a target="_blank" href="https://seedly.sg">https://seedly.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_sifa.png"></div>
+		<div class="winner">SIFA Website</div>
+		<div class="classification"><a target="_blank" href="https://sifa.sg">https://sifa.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_smartlocal.png"></div>
+		<div class="winner">SMU Website</div>
+		<div class="classification"><a target="_blank" href="https://smu.edu.sg">https://smu.edu.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_dbs.png"></div>
-		<div class="winner">Mindline Website</div>
-		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+		<div><img alt="" src="/images/industry_smu.png"></div>
+		<div class="winner">The Smart Local Website</div>
+		<div class="classification"><a target="_blank" href="https://thesmartlocal.com">https://thesmartlocal.com</a></div>
 	</div>
 </div>
 <hr>
