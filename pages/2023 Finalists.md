@@ -24,7 +24,7 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-	  grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+	  grid-template-columns: repeat(auto-fit, minmax(10rem, 4fr));
     justify-content: center;
 	padding-top:12px;
 }
@@ -36,58 +36,49 @@ description: ""
 </div>
 
 <h4 class="has-text-centered">Best Usability (Industry)</h4>
-<div class="grid-container">
+<div class="grid-container multiline">
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">DBS Website</div>
+		<div class="classification"><a target="_blank" href="https://dbs.com/default.page">https://dbs.com/default.page</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_gbtb.png"></div>
+		<div class="winner">Gardens By The Bay Website</div>
+		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
-	</div>		
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Guide Dogs Website</div>
+		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg/">https://guidedogs.org.sg/</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
+	</div>
 </div>
-
+<hr>
 <h4 class="has-text-centered">Best Usability (Government) + Most Pop</h4>
-<div class="grid-container">
+<div class="grid-container multiline">
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">DBS Website</div>
+		<div class="classification"><a target="_blank" href="https://dbs.com/default.page">https://dbs.com/default.page</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_gbtb.png"></div>
+		<div class="winner">Gardens By The Bay Website</div>
+		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
-	</div>		
-</div>
-
-<h4 class="has-text-centered">Citizen (Top 10 nominated)</h4>
-<div class="grid-container">
-	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Guide Dogs Website</div>
+		<div class="classification"><a target="_blank" href="https://guidedogs.org.sg/">https://guidedogs.org.sg/</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
+		<div><img alt="" src="/images/industry_dbs.png"></div>
+		<div class="winner">Mindline Website</div>
+		<div class="classification"><a target="_blank" href="https://mindline.sg">https://mindline.sg</a></div>
 	</div>
-	<div class="content">
-		<div><img alt="" src="/images/digitalservicesawards.jpg"></div>
-		<div class="winner">## Nominee Name ##</div>
-		<div class="classification">## Website URL ##</div>
-	</div>		
 </div>
