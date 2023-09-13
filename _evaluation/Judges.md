@@ -18,6 +18,9 @@ figure.bp-image.is-square {
 	border:1px solid #dedede;
 }
 </style>
+<p>The judges exhibit mastery in a wide range of domains across user experience, product management, software engineering and social impact.
+
+Find out more about them below.</p>
 <h3>Best Usability (Industry) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
