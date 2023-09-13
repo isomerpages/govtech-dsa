@@ -46,7 +46,7 @@ sections:
       url: /2023-finalists
   - infopic:
       title: Our Industry Partners
-      image: /images/partner logo.png
+      image: /images/partner logos - 3 by 3.png
       alt: Our Industry Partners Logos
       description: Meet our valued partners supporting the Digital Services Awards.
 ---
