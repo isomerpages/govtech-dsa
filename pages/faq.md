@@ -60,7 +60,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion6">
     <label for="accordion6">Who are the judges for the awards?</label>
-    <div> The judging panels will be announced in July. Stay tuned for more information! </div>
+    <div> You can view the panel of judges by visiting the <a aria-label="Link to Judges" href="/judges/"><strong>Judges</strong></a> page.</div>
   </li>
   <li>
     <input type="checkbox" id="accordion7">
