@@ -20,7 +20,7 @@ description: ""
     <h3> Evaluation Process for Best Usability (Industry) Award </h3>
     <p><strong style="color:#B41E8E;">Tier 1: Establishing the Top 10 - Pre-screening Evaluation (Aug to Sep 2023)</strong><br>
     After nominations close on 31 July, the nominated Informational Websites will be pre-screened based on <a target="_blank" href="https://www.tech.gov.sg/files/digital-transformation/DSS%20for%20Public%202020.pdf">GovTech’s Digital Services Standards: Principles 1 and 2</a>, to ensure nominees fulfil baseline standards of intuitivity, usability, accessibility and inclusivity. The top 10 nominees that fulfil all or the most standards will proceed to the next round.</p>
-    <p>The top 10 nominees have been revealed on the Finalists page.</p>
+    <p>The top 10 nominees have been revealed on the <a aria-label="Link to Finalists" href="/2023-finalists/"><strong>Finalists</strong></a> page.</p>
     <p><strong style="color:#B41E8E;">Tier 2: Establishing the Top 3 - Judges Evaluation (Sep to Oct 2023)</strong><br>
 The panel of judges will evaluate the top 10 nominees based on <a aria-label="Link to read more about NNg's Group 10 Usability Heuristics" target="_blank" href="https://www.nngroup.com/articles/ten-usability-heuristics/">Nielsen Norman’s Group 10 Usability Heuristics for User Interface Design</a>, <a aria-label="Link to read more on WCAG 2.1 guidelines" target="_blank" href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines (WCAG) 2.1</a>, and their own expert domain knowledge. The top 3 nominees that achieve the best scores will move on to the next round.</p>
     <div class="row"> 
