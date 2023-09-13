@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Eligibility.md
-      - Submit Nomination.md
       - Evaluation Process.md
       - Judges.md
+      - Submit Nomination.md
