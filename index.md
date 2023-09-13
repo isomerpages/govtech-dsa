@@ -46,8 +46,7 @@ sections:
       url: /2023-finalists
   - infopic:
       title: Our Industry Partners
-      image: /images/partners logo.png
+      image: /images/partner logo.png
       alt: Our Industry Partners Logos
-      description: "Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's "
+      description: Meet our valued partners supporting the Digital Services Awards.
 ---
