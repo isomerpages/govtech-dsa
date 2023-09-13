@@ -1,6 +1,4 @@
 collections:
   nominate:
     output: true
-    order:
-      - Eligibility.md
-      - Submit Nomination.md
+    order: []

@@ -38,11 +38,15 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Judging Panel Unveiled
+      title: Top 10 Announced
       subtitle: Latest News
-      description: The panel of judges exhibit mastery in a wide ride range of domains
-        across user experience, product management, software engineering and
-        social impact.
-      button: Check out list of judges
-      url: /judges/
+      description: The Top 10 nominees for Best Usability (Industry) and Best
+        Usability (Government) have been released!
+      button: Find out who they are
+      url: /2023-finalists
+  - infopic:
+      title: Our Industry Partners
+      image: /images/partner logos - 3 by 3.png
+      alt: Our Industry Partners Logos
+      description: Meet our valued partners supporting the Digital Services Awards.
 ---

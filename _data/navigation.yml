@@ -4,10 +4,10 @@ links:
     url: /about-digital-services-awards
   - title: Award Categories
     url: /award-categories/
-  - title: Nominate
-    collection: nominate
   - title: Evaluation
     collection: evaluation
+  - title: Finalists
+    url: /2023-finalists/
   - title: Winners
     collection: winners
   - title: Livestream
