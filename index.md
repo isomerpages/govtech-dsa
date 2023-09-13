@@ -46,6 +46,6 @@ sections:
       url: /2023-finalists
   - infopic:
       title: Our Industry Partners
-      image: /images/partners logo.png
+      image: /images/partner logos.png
       alt: Our Industry Partners Logos
 ---
