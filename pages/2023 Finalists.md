@@ -32,10 +32,15 @@ description: ""
 </style>
 
 <div>
-  <p>For information about the eligibility criteria and evaluation process, head to our page on <a aria-label="Link to Eligibility" href="/eligibility/"><strong>Eligibility</strong></a>.</p>
+	<p>Congratulations to the <strong>Top 10 Best Usability nominees</strong> from the public and private sector! 
+		
+The <a aria-label="Link to Judges" href="/judges/"><strong>panel of judges</strong></a> will evaluate the Top 10 nominations to determine the Top 3, who will be assessed by members of the public from all walks of life. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/"><strong>Eligibility</strong></a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/"><strong>Evaluation Process</strong></a> pages.
+
+<strong>All Top 10 nominees will automatically be entered into the running for Most Popular Informational Website (Industry/Government), where the winner will be determined through live voting during the Awards ceremony, happening on 24 November 2023. Stay tuned for the event registration and voting details!</strong>
+</p>
 </div>
 
-<h4 class="has-text-centered">Best Usability (Industry)</h4>
+<h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
 <div class="grid-container">
 	<div class="content">
 		<div><img alt="" src="/images/industry_dbs.png"></div>
@@ -89,7 +94,7 @@ description: ""
 	</div>
 </div>
 <hr>
-<h4 class="has-text-centered">Best Usability (Government)</h4>
+<h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Government)</h4>
 <div class="grid-container">
 	<div class="content">
 		<div><img alt="" src="/images/gov_cpf.png"></div>
