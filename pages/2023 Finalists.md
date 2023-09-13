@@ -34,7 +34,7 @@ description: ""
 <div>
 	<p>Congratulations to the <strong>Top 10 Best Usability nominees</strong> from the public and private sector!</p>
 		
-<p>The <a aria-label="Link to Judges" href="/judges/">panel of judges</a> will evaluate the Top 10 nominations to determine the Top 3, who will be assessed by members of the public from all walks of life. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/"><strong>Eligibility</strong></a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/"><strong>Evaluation Process</strong></a> pages.</p>
+<p>The <a aria-label="Link to Judges" href="/judges/">panel of judges</a> will evaluate the Top 10 nominations to determine the Top 3, who will be assessed by members of the public from all walks of life. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
 
 <p><strong>All Top 10 nominees will automatically be entered into the running for Most Popular Informational Website (Industry/Government), where the winner will be determined through live voting during the Awards ceremony on 24 November 2023. Stay tuned for the event registration and voting details!</strong>
 </p>
