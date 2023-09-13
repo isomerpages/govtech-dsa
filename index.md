@@ -44,4 +44,8 @@ sections:
         Usability (Government) have been released!
       button: Find out who they are
       url: /2023-finalists
+  - infopic:
+      title: Our Industry Partners
+      image: /images/partners logos.png
+      alt: Our Industry Partners Logos
 ---
