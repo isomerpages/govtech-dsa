@@ -46,6 +46,8 @@ sections:
       url: /2023-finalists
   - infopic:
       title: Our Industry Partners
-      image: /images/partner logos - 3 by 3.png
+      image: /images/partners logo.png
       alt: Our Industry Partners Logos
+      description: "Lorem Ipsum is simply dummy text of the printing and typesetting
+        industry. Lorem Ipsum has been the industry's "
 ---
