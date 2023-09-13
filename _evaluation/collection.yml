@@ -2,5 +2,6 @@ collections:
   evaluation:
     output: true
     order:
+      - Submit Nomination.md
       - Evaluation Process.md
       - Judges.md
