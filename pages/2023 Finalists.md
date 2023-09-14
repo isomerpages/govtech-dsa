@@ -83,12 +83,12 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://sifa.sg">https://sifa.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_smartlocal.png"></div>
+		<div><img alt="" src="/images/industry_smu.png"></div>
 		<div class="winner">SMU Website</div>
 		<div class="classification"><a target="_blank" href="https://smu.edu.sg">https://smu.edu.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/industry_smu.png"></div>
+		<div><img alt="" src="/images/industry_smartlocal.png"></div>
 		<div class="winner">The Smart Local Website</div>
 		<div class="classification"><a target="_blank" href="https://thesmartlocal.com">https://thesmartlocal.com</a></div>
 	</div>
