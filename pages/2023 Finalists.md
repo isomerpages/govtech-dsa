@@ -122,12 +122,12 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://imda.gov.sg">https://imda.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_iras.png"></div>
+		<div><img alt="" src="/images/gov_iris.png"></div>
 		<div class="winner">Integrated Regulatory Information System</div>
 		<div class="classification"><a target="_blank" href="https://iris.imda.gov.sg">https://iris.imda.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_iris.png"></div>
+		<div><img alt="" src="/images/gov_iras.png"></div>
 		<div class="winner">IRAS Website</div>
 		<div class="classification"><a target="_blank" href="https://iras.gov.sg">https://iras.gov.sg</a></div>
 	</div>
