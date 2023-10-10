@@ -41,7 +41,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When and where will this year's event be held? How can we sign up?</label>
-    <div> The event will be held in late November 2023. Details will be announced in July. Stay tuned for more information! </div>
+    <div> The event will be held on 24 November 2023. Registration details will be announced soon. Stay tuned for more information! </div>
   </li>
 </ul>
 <h3>Nominations</h3>
