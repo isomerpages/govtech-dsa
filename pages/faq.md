@@ -28,20 +28,27 @@ table#award_cat th {
       <p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions. This year, a new award category recognising citizens – “Outstanding Citizen Contributor” – will be introduced, while the categories of “Best Usability” and “Most Popular Informational Website” will be open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">What is the theme for Digital Services Awards 2023?</label>
+    <div>
+      <p>This year's theme,&nbsp;Empathy at the Heart of Tech, underscores the significance of co-creating digital services with users and serving their needs with ease and delight.</p>
+    </div>
+  </li>
 </ul>
 <h3>Event</h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion3">
-    <label for="accordion3">When and where will this year's event be held? How can we sign up?</label>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">When and where will this year's event be held? How can we sign up?</label>
     <div> The event will be held in late November 2023. Details will be announced in July. Stay tuned for more information! </div>
   </li>
 </ul>
 <h3>Nominations</h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion4">
-    <label for="accordion4">How do we nominate our websites?</label>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">How do we nominate our websites?</label>
     <div>Nominations for the Best Usability and Most Popular Informational Website awards have closed on 31 July, 6pm. Nominations will open again in mid-2024. Stay tuned!<br>
       <p> For information about the eligibility criteria and evaluation process, please visit <a aria-label="Link to Eligibility Criteria" href="/eligibility/">Eligibility Criteria</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a>.</p>
     </div>
@@ -50,34 +57,34 @@ table#award_cat th {
 <h3>Eligibility</h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion5">
-    <label for="accordion5">Why does a website have to be in English or have an English language option to be eligible?</label>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Why does a website have to be in English or have an English language option to be eligible?</label>
     <div>The website should be in English or have an English language option to ensure alignment with the predominant language for business in Singapore, and facilitate effective communication with our diverse assessors.</div>
   </li>
 </ul>
 <h3>Evaluations</h3>
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion6">
-    <label for="accordion6">Who are the judges for the awards?</label>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7">Who are the judges for the awards?</label>
     <div> You can view the panel of judges by visiting the <a aria-label="Link to Judges" href="/judges/"><strong>Judges</strong></a> page.</div>
   </li>
   <li>
-    <input type="checkbox" id="accordion7">
-    <label for="accordion7">How are the winners selected?</label>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8">How are the winners selected?</label>
     <div>
       <p> Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators. </p>
       <p> For more details about the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
     </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion8">
-    <label for="accordion8">What if there is a tie?</label>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9">What if there is a tie?</label>
     <div> In the event of a tie, all agencies who received the top scores or evaluations will receive the award. </div>
   </li>
   <li>
-    <input type="checkbox" id="accordion9">
-    <label for="accordion9">When is the qualifying period?</label>
+    <input type="checkbox" id="accordion10">
+    <label for="accordion10">When is the qualifying period?</label>
     <div>
       <p>
       <table id="award_cat">
