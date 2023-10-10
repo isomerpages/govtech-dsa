@@ -14,7 +14,7 @@ description: ""
     <h3>NEW in 2023</h3>
 		<p>This year's theme, <strong>Empathy at the Heart of Tech</strong>, underscores the significance of co-creating digital services with users and serving their needs with ease and delight.
 			
-In line with the theme, a new award category - "Outstanding Citizen Contributor" has been introduced to recognised citizens, while the categories of “Best Usability” and “Most Popular Informational Website” have been open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
+In line with the theme, a new award category - "Outstanding Citizen Contributor" has been introduced to recognise citizens, while the categories of “Best Usability” and “Most Popular Informational Website” have been open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
   </div>
 </div>
 <hr>
