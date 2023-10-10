@@ -28,6 +28,13 @@ table#award_cat th {
       <p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions. This year, a new award category recognising citizens – “Outstanding Citizen Contributor” – will be introduced, while the categories of “Best Usability” and “Most Popular Informational Website” will be open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
     </div>
   </li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">What is the theme for Digital Services Awards 2023?</label>
+    <div>
+      <p>This year's theme,&nbsp;Empathy at the Heart of Tech, underscores the significance of co-creating digital services with users and serving their needs with ease and delight.</p>
+    </div>
+  </li>
 </ul>
 <h3>Event</h3>
 <ul class="jekyllcodex_accordion">
