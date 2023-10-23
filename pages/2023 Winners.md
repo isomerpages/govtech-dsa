@@ -52,7 +52,7 @@ description: ""
     <figure class="image is-5by4 margin--none"><img src="/images/moe_corp.png"></figure>
   </div>
   <div class="col is-8">
-    <h4>Best Usability - Governemtn</h4>
+    <h4>Best Usability - Government</h4>
     <div class="winner">XXXXXXXXXX</div>
     <p class="margin--top--none"><a target="_blank" href="https://www.moe.gov.sg/">https://www.moe.gov.sg/</a></p>
   </div>
@@ -82,7 +82,7 @@ description: ""
       <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
       <div class="media-content">
         <div class="content">
-          <div class="winner">Singapore Land Authority (SLA)</div>
+          <div class="winner">XXXXXXX</div>
         </div>
       </div>
     </article>
@@ -96,7 +96,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
-        <div class="winner">Tote Board</div>
+        <div class="winner">XXXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -105,7 +105,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
-        <div class="winner">Public Service Division (PSD)</div>
+        <div class="winner">XXXXXXX</div>
       </div>
     </div>
   </article>
@@ -114,8 +114,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
-        <div class="winner">National Environment Agency (NEA)</div>
-        <div class="winner">Singapore Land Authority (SLA)</div>
+        <div class="winner">XXXXXXX</div>
       </div>
     </div>
   </article>
@@ -127,7 +126,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
-        <div class="winner">Elections Department Singapore (ELD)</div>
+        <div class="winner">XXXXXXX</div>
       </div>
     </div>
   </article>
@@ -136,7 +135,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
-        <div class="winner">Singapore Customs</div>
+        <div class="winner">XXXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -145,7 +144,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
-        <div class="winner">Ministry of Education (MOE)</div>
+        <div class="winner">XXXXXXX</div>
       </div>
     </div>
   </article>
@@ -157,7 +156,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
-        <div class="winner">Tote Board</div>
+        <div class="winner">XXXXXXX</div>
       </div>
     </div>
   </article>
@@ -166,7 +165,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
-        <div class="winner">Public Utilities Board (PUB)</div>
+        <div class="winner">XXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -175,7 +174,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
-        <div class="winner">National Heritage Board (NHB)</div>
+        <div class="winner">XXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -187,8 +186,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
-        <div class="winner">Tote Board</div>
-        <div class="winner">National Security Coordination Secretariat (NSCS)</div>
+        <div class="winner">XXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -197,7 +195,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
-        <div class="winner">Central Provident Fund Board (CPFB)</div>
+        <div class="winner">XXXXXXXX</div>
       </div>
     </div>
   </article>
@@ -206,7 +204,7 @@ description: ""
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
-        <div class="winner">National Heritage Board (NHB)</div>
+        <div class="winner">XXXXXXXX</div>
       </div>
     </div>
   </article>
