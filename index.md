@@ -8,7 +8,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Meet the winners
       background: /images/dsa2023_gtbanner2 (1).png
       button: SIGN UP HERE
       url: https://go.gov.sg/dsa2023-reggss
