@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/dsa2023_webbanner.jpg
       button: SIGN UP NOW
-      url: https://go.gov.sg/dsa2023-reggss
+      url: https://go.gov.sg/dsa2023-reg
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
