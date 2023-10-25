@@ -9,9 +9,9 @@ notification: ""
 sections:
   - hero:
       title: Meet the winners
-      background: /images/website_herobanner_v3.jpg
-      button: See the list of DSA’22 winners
-      url: /winners/2022/
+      background: /images/dsa2023_gtbanner2 (1).png
+      button: SIGN UP HERE
+      url: https://go.gov.sg/dsa2023-reggss
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -19,9 +19,10 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: Judging Panel
-          description: View our esteemed judges
-          url: /judges/
+        - title: View Finalists
+          description: Best Usability Top 10 Websites
+          url: /2023-finalists/
+      variant: image
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
