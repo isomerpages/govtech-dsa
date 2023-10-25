@@ -40,8 +40,8 @@ table#award_cat th {
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">When and where will this year's event be held? How can we sign up?</label>
-    <div> The event will be held on 24 November 2023. Registration details will be announced soon. Stay tuned for more information! </div>
+    <label for="accordion4">When will this year's event be held? How can we sign up?</label>
+    <div> The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</div>
   </li>
 </ul>
 <h3>Nominations</h3>
