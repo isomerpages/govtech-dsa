@@ -22,7 +22,7 @@ sections:
           description: Best Usability Top 10 Websites
           url: /2023-finalists/
       variant: floating
-      title: Celebrate, Vote and Win Prizes on 24 Nov!
+      title: Celebrate, Vote & Win Prizes on 24 Nov!
       backgroundColor: gray
       alignment: right
       size: sm
