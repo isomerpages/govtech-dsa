@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dsa2023_webbanner2.jpg
+      background: /images/dsa2023_webbanner2_2.jpg
       button: SIGN UP NOW
       url: https://go.gov.sg/dsa2023-reg
       key_highlights:
