@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/dsa2023_webbanner.jpg
+      background: /images/dsa2023_webbanner2_2.jpg
       button: SIGN UP NOW
       url: https://go.gov.sg/dsa2023-reg
       key_highlights:
@@ -21,7 +21,7 @@ sections:
         - title: View Finalists
           description: Best Usability Top 10 Websites
           url: /2023-finalists/
-      variant: floating
+      variant: center
       title: Celebrate, Vote & Win Prizes on 24 Nov!
       backgroundColor: gray
       alignment: right
