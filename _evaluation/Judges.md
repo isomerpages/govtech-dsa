@@ -150,7 +150,7 @@ Find out more about them below.</p>
     <h4>Evelyn Lam<br>
       <span class="jname">News Presenter, Team Lead &amp; Editor for Technology and Data Analytics, Channel 8 News</span></h4>
     <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
-    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best New Story at the Star Awards for consecutive three years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
+    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best News Story at the Star Awards for consecutive three years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
     <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
   </div><div class="col is-2">
     <figure class="bp-image is-square"><img alt="Irene Tham" src="/images/cc_irene.jpg"></figure>
