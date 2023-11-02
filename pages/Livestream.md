@@ -9,7 +9,7 @@ description: ""
     color: #B41E8E;
     font-weight: 700;
 }
-	a.bp-button{text-decoration: none;font-weight:500;}
+	a.bp-button{text-decoration: none;font-weight:600;}
 	a.bp-button:hover{text-decoration: underline;}
 </style>
 <div class="col has-text-centered">
