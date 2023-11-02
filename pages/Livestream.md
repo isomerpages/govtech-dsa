@@ -10,7 +10,7 @@ description: ""
     font-weight: 700;
 }
 	
-	a.bp-button{text-decoration: none;}
+	a.bp-button{text-decoration: none;font-weight:500;}
 	a.bp-button:hover{text-decoration: underline;}
 </style>
 <div class="col has-text-centered">
