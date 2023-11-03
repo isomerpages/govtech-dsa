@@ -37,8 +37,8 @@ variant: markdown
 		
 <p>The <a aria-label="Link to Judges" href="/judges/">panel of judges</a> will evaluate the Top 10 nominations to determine the Top 3. The Top 3 will also be assessed by 100 members of the public from all walks of life, to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
 
-<p><strong>All Top 10 nominees will automatically be entered into the running for Most Popular Informational Website (Industry/Government), where the winner will be determined through live voting during the Awards ceremony on 24 November 2023. <a target="_blank" aria-label="Link to event registration form" href="https://go.gov.sg/dsa2023-reg">Register now</a> to ensure you are eligible to vote for the Most Popular Informational Website award during the event day</strong>
-</p>
+<p><strong>All Top 10 nominees will automatically be entered into the running for Most Popular Informational Website (Industry/Government), where the winner will be determined through live voting during the Awards ceremony on 24 November 2023. </strong></p>
+<p><strong><a target="_blank" aria-label="Link to event registration form" href="https://go.gov.sg/dsa2023-reg">Register now</a> to ensure you are eligible to vote for the Most Popular Informational Website award during the event day</strong>.</p>
 </div>
 
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
