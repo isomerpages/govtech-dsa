@@ -24,7 +24,9 @@ table#award_cat th {
     <p>If you have not signed up for the livestream yet, you may do so below.</p>
     <a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa2023-reg">Sign Up Now</a> 
     <!-- FOR LIVESTREAM YOUTUBE EMBED <div style="width:100%; min-height:475px"><iframe width="845" height="475" src="https://www.youtube-nocookie.com/embed/AEKtQW93OVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>//--></div>
-    <div class="col is-12"><hr>
+</div>
+<div class="row">
+    <div class="col is-12">
     <h4><strong>Programme</strong></h4>
     <table id="award_cat" cellspacing="0" cellpadding="0" border="0" width="100%">
       <tbody><tr>
