@@ -17,7 +17,7 @@ variant: markdown
   <div class="content">
     <h4><strong>The livestream will be available on 24 November 2023 at 9am. </strong></h4>
     <p><strong>Programme</strong></p>
-      <table cellspacing="0" cellpadding="0" border="0" width="100%">
+      <table id="award_cat" cellspacing="0" cellpadding="0" border="0" width="100%">
     <tbody><tr>
         <th nowrap="nowrap">Time</th>
         <th>Item</th>
