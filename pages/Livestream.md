@@ -15,8 +15,58 @@ variant: markdown
 </style>
 <div class="col has-text-centered">
   <div class="content">
-    <h4><strong>The livestream will be available on 24 November 2023 at 9am. <br>
-      Stay tuned! </strong></h4>
+    <h4><strong>The livestream will be available on 24 November 2023 at 9am. </strong></h4>
+    <p><strong>Programme</strong></p>
+      <table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody><tr>
+        <th nowrap="nowrap">Time</th>
+        <th>Item</th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">8.55 am</td>
+        <td>Live stream begins</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">9 am</td>
+        <td>Introduction to Digital Services Awards and Commencement of Most Popular Informational Website Live Voting</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">9.20 am</td>
+        <td>Best practices in Usability - Maria Rosala, Senior UX Specialist, Nielsen Norman Group</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">9.35 am</td>
+        <td>The Singapore Police Force’s Journey Towards Usability Improvements - Ambrose Goh, Head, Digital Services (HTX) and Azlina Aziz, Service Quality Officer, Service Delivery Department (SPF)</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">9.50 am</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">10.05 am</td>
+        <td>Agency Champions of WOGAA Superstar Champion Certificate presentation</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">10.15 am</td>
+        <td>Guest of Honour speech by Dr. Janil Puthucheary</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">10.25 am</td>
+        <td>Awards presentation</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">11.00 am</td>
+        <td>Quiz</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">11.15 am</td>
+        <td>Digital Services and Products sharing by Government agencies</td>
+    </tr>
+    <tr>
+        <td nowrap="nowrap">12.00 pm</td>
+        <td>End</td>
+    </tr>
+</tbody></table>
     <hr>
     <p>If you have not signed up for the livestream yet, you may do so below.</p>
     <a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa2023-reg">Sign Up Now</a> 
