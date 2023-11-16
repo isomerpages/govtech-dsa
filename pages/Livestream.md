@@ -9,10 +9,16 @@ variant: markdown
 .content h4 {
     color: #B41E8E;
     font-weight: 700;
+
+table#award_cat th {
+    background: #78145F;
+    color: #fff;
+    font-weight: 700;
 }
+</style>
 	a.bp-button{text-decoration: none;font-weight:600;}
 	a.bp-button:hover{text-decoration: underline;}
-</style>
+
 <div class="col has-text-centered">
   <div class="content">
     <h4><strong>The livestream will be available on 24 November 2023 at 9am. </strong></h4>
