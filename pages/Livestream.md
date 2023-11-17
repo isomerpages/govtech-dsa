@@ -38,7 +38,7 @@ table#award_cat th {
         <td>Live stream begins</td>
       </tr>
       <tr>
-        <td nowrap="nowrap"><strong>9 am</strong></td>
+        <td nowrap="nowrap"><strong>9:00 am</strong></td>
         <td>Introduction to Digital Services Awards and Commencement of Most Popular Informational Website Live Voting</td>
       </tr>
       <tr>
