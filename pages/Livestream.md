@@ -35,19 +35,21 @@ table#award_cat th {
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>8.55 am</strong></td>
-        <td>Live stream begins</td>
+        <td>Livestream begins</td>
       </tr>
       <tr>
-        <td nowrap="nowrap"><strong>9:00 am</strong></td>
+        <td nowrap="nowrap"><strong>9.00 am</strong></td>
         <td>Introduction to Digital Services Awards and Commencement of Most Popular Informational Website Live Voting</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.20 am</strong></td>
-        <td>Best practices in Usability - Maria Rosala, Senior UX Specialist, Nielsen Norman Group</td>
+        <td>Best practices in Usability <br>
+          - Maria Rosala, Senior UX Specialist, Nielsen Norman Group</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.35 am</strong></td>
-        <td>The Singapore Police Force’s Journey Towards Usability Improvements - Ambrose Goh, Head, Digital Services (HTX) and Azlina Aziz, Service Quality Officer, Service Delivery Department (SPF)</td>
+        <td>The Singapore Police Force’s Journey Towards Usability Improvements <br>
+          - Ambrose Goh, Head, Digital Services (HTX) and Azlina Aziz, Service Quality Officer, Service Delivery Department (SPF)</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.50 am</strong></td>
