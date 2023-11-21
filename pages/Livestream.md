@@ -44,7 +44,7 @@ table#award_cat th {
       <tr>
         <td nowrap="nowrap"><strong>9.20 am</strong></td>
         <td>Best Practices in Usability <br>
-          by Maria Rosala, Senior UX Specialist, Nielsen Norman Group </td>
+          - Maria Rosala, Senior UX Specialist, Nielsen Norman Group </td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.35 am</strong></td>
