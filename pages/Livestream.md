@@ -61,7 +61,7 @@ table#award_cat th {
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>10.15 am</strong></td>
-        <td>Guest of Honour Speech by Dr Janil Puthucheary, Senior Minister of State at Ministry of Communications and Information, Minister-in-charge of GovTech</td>
+        <td>Guest of Honour Speech by Dr Janil Puthucheary, Senior Minister of State at Ministry of Communications and Information, and Minister-in-charge of GovTech</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>10.25 am</strong></td>
