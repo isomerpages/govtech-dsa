@@ -43,8 +43,8 @@ table#award_cat th {
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.20 am</strong></td>
-        <td>Best practices in Usability <br>
-          - Maria Rosala, Senior UX Specialist, Nielsen Norman Group</td>
+        <td>Best Practices in Usability <br>
+          by Maria Rosala, Senior UX Specialist, Nielsen Norman Group </td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>9.35 am</strong></td>
@@ -57,15 +57,15 @@ table#award_cat th {
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>10.05 am</strong></td>
-        <td>Agency Champions of WOGAA Superstar Champion Certificate presentation</td>
+        <td>Agency Champions of WOGAA Superstar Champion Certificate Presentation</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>10.15 am</strong></td>
-        <td>Guest of Honour speech by Dr. Janil Puthucheary</td>
+        <td>Guest of Honour Speech by Senior Minister of State, Ministry of Communications and Information, Dr. Janil Puthucheary</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>10.25 am</strong></td>
-        <td>Awards presentation</td>
+        <td>Awards Presentation</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>11.00 am</strong></td>
@@ -73,7 +73,7 @@ table#award_cat th {
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>11.15 am</strong></td>
-        <td>Digital Services and Products sharing by Government agencies</td>
+        <td>Digital Services and Products Sharing by Government Agencies</td>
       </tr>
       <tr>
         <td nowrap="nowrap"><strong>12.00 pm</strong></td>
