@@ -2,6 +2,7 @@
 title: 2023 Winners
 permalink: /2023/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .content h4 {
@@ -15,11 +16,13 @@ description: ""
     line-height: 1.3 !important;
     margin-top: 0;
     margin-bottom: 8px;
+	text-align:center;
 }
 .classification {
     font-size: 1rem;
     color: #667085;
     line-height: 1.5 !important;
+	text-align:center;
 }
 .grid-container {
     display: grid;
@@ -38,15 +41,30 @@ description: ""
     padding: 0 !important;
 }
 </style>
-<p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
-<div class="row is-multiline">
+<h3>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</h3>
+<div class="grid-container">
+	<div class="content">
+		<h4 class="has-text-centered">Best Usability (Industry)</h4>
+        <div><img alt="" src="/images/industry_gbtb.png"></div>
+		<div class="winner">Gardens By The Bay Website</div>
+		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+	</div>
+	<div class="content">
+        <h4 class="has-text-centered">Best Usability (Government)</h4>
+		<div><img alt="" src="/images/gov_moe.png"></div>
+		<div class="winner">MOE Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
+	</div>
+</div>
+
+<!-- <div class="row is-multiline">
   <div class="col is-4">
     <figure class="image is-5by4 margin--none margin--none"><img src="/images/cpf_website.png"></figure>
   </div>
   <div class="col is-8">
     <h4>Best Usability - Industry</h4>
     <div class="winner">XXXXXXXX</div>
-    <p class="margin--top--none"><a target="_blank" href="https://www.cpf.gov.sg/">https://www.cpf.gov.sg/</a></p>
+    <p class="margin--top--none"><a href="https://www.cpf.gov.sg/" target="_blank">https://www.cpf.gov.sg/</a></p>
   </div>
   <div class="col is-4">
     <figure class="image is-5by4 margin--none"><img src="/images/moe_corp.png"></figure>
@@ -54,7 +72,7 @@ description: ""
   <div class="col is-8">
     <h4>Best Usability - Government</h4>
     <div class="winner">XXXXXXXXXX</div>
-    <p class="margin--top--none"><a target="_blank" href="https://www.moe.gov.sg/">https://www.moe.gov.sg/</a></p>
+    <p class="margin--top--none"><a href="https://www.moe.gov.sg/" target="_blank">https://www.moe.gov.sg/</a></p>
   </div>
   <div class="col is-4">
     <figure class="image is-5by4 margin--none"><img src="/images/cpf_website.png"></figure>
@@ -62,7 +80,7 @@ description: ""
   <div class="col is-8">
     <h4>Most Popular Informational Service (IS) - Industry</h4>
     <div class="winner">XXXXX</div>
-    <p class="margin--top--none"><a target="_blank" href="https://www.cpf.gov.sg/">https://www.cpf.gov.sg/</a></p>
+    <p class="margin--top--none"><a href="https://www.cpf.gov.sg/" target="_blank">https://www.cpf.gov.sg/</a></p>
   </div>
 	<div class="col is-4">
     <figure class="image is-5by4 margin--none"><img src="/images/cpf_website.png"></figure>
@@ -70,7 +88,7 @@ description: ""
   <div class="col is-8">
     <h4>Most Popular Informational Service (IS) - Government</h4>
     <div class="winner">XXXXXX</div>
-    <p class="margin--top--none"><a target="_blank" href="https://www.cpf.gov.sg/">https://www.cpf.gov.sg/</a></p>
+    <p class="margin--top--none"><a href="https://www.cpf.gov.sg/" target="_blank">https://www.cpf.gov.sg/</a></p>
   </div>
 </div>
 <hr>
@@ -79,7 +97,7 @@ description: ""
   <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
-      <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+      <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
       <div class="media-content">
         <div class="content">
           <div class="winner">XXXXXXX</div>
@@ -92,7 +110,7 @@ description: ""
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
@@ -101,7 +119,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
@@ -110,7 +128,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
@@ -122,7 +140,7 @@ description: ""
 <h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
@@ -131,7 +149,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
@@ -140,7 +158,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
@@ -152,7 +170,7 @@ description: ""
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
@@ -161,7 +179,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
@@ -170,7 +188,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
@@ -182,7 +200,7 @@ description: ""
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Small</div>
@@ -191,7 +209,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Medium</div>
@@ -200,7 +218,7 @@ description: ""
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img alt="" src="/images/trophy.svg"> </figure>
+    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Large</div>
@@ -208,5 +226,5 @@ description: ""
       </div>
     </div>
   </article>
-</div>
+</div>//-->
 <p>For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
