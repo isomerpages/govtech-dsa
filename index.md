@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/dsa2023_webbanner2_2.jpg
-      button: SIGN UP NOW
-      url: https://go.gov.sg/dsa2023-reg
+      button: Watch Livestream
+      url: /livestream/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
