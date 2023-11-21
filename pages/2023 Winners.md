@@ -2,7 +2,7 @@
 title: 2023 Winners
 permalink: /2023/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <style type="text/css">
 .content h4 {
@@ -39,7 +39,22 @@ variant: tiptap
     padding: 0 !important;
 }
 </style>
-<p>Thank you to our past panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
+<h3>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</h3>
+<div class="grid-container">
+	<div class="content">
+		<h4 class="has-text-centered">Best Usability (Industry)</h4>
+        <div><img alt="" src="/images/industry_gbtb.png"></div>
+		<div class="winner">Gardens By The Bay Website</div>
+		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+	</div>
+	<div class="content">
+        <h4 class="has-text-centered">Best Usability (Government)</h4>
+		<div><img alt="" src="/images/gov_moe.png"></div>
+		<div class="winner">MOE Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
+	</div>
+</div>
+
 <div class="row is-multiline">
   <div class="col is-4">
     <figure class="image is-5by4 margin--none margin--none"><img src="/images/cpf_website.png"></figure>
