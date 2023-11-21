@@ -41,7 +41,7 @@ variant: markdown
     padding: 0 !important;
 }
 </style>
-<h3>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</h3>
+<p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="grid-container">
 	<div class="content">
 		<h4 class="has-text-centered">Best Usability (Industry)</h4>
