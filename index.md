@@ -22,11 +22,10 @@ sections:
           description: Best Usability Top 10 Websites
           url: /2023-finalists/
       variant: center
-      title: Celebrate, Vote & Win Prizes on 24 Nov!
+      title: Celebrate, Vote & Win Prizes!
       backgroundColor: gray
       alignment: right
       size: sm
-      subtitle: "Deadline: 23 Nov 2023, 6pm SGT"
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
