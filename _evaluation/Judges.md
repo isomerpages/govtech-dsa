@@ -2,6 +2,7 @@
 title: Judges
 permalink: /judges/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .content h4 {
@@ -32,7 +33,7 @@ Find out more about them below.</p>
       <span class="jname">Director of Business Engineering in APAC, Meta</span></h4>
     <p>Alex is the Director of Business Engineering in APAC at Meta. His team's mission is to help businesses grow today and build for tomorrow through world-class engineering. Prior to joining Meta, he was the head of product and engineering at Rakuten Viki, a successful video streaming startup acquired by Rakuten. Before that, Alex spent 10 years at Microsoft, where some of his many accomplishments include helping to launch the R&amp;D center in Shanghai and incubating new cloud services in the early days of Azure. He also led the development of Microsoft’s billing and payment platform. Alex’s past work experiences include being a founding member of a new business venture for cloud infrastructure at Cisco Systems.<br>
       <br>
-    Alex is a citizen of the world. Having lived, studied and worked in Singapore, Mainland China, Hong Kong, Canada, and the United States, he loves learning about and experiencing new cultures. Alex has an MBA from the Wharton School of the University of Pennsylvania. He also has a bachelor’s degree from The Chinese University of Hong Kong and a master’s from the University of Waterloo, both in computer science and with a specialization in AI. Alex holds numerous patents for networking and workflow technologies.</p>
+    Alex is a citizen of the world. Having lived, studied and worked in Singapore, Mainland China, Hong Kong, Canada, and the United States, he loves learning about and experiencing new cultures. Alex has an MBA from the Wharton School of the University of Pennsylvania. He also has a bachelor’s degree from The Chinese University of Hong Kong and a master’s from the University of Waterloo, both in computer science and with a specialisation in AI. Alex holds numerous patents for networking and workflow technologies.</p>
   </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Chong Kwek Bin" src="/images/industry_kwekbin.jpg"></figure>
@@ -150,7 +151,7 @@ Find out more about them below.</p>
     <h4>Evelyn Lam<br>
       <span class="jname">News Presenter, Team Lead &amp; Editor for Technology and Data Analytics, Channel 8 News</span></h4>
     <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
-    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best News Story at the Star Awards for consecutive three years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
+    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best News Story at the Star Awards for three consecutive years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
     <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
   </div><div class="col is-2">
     <figure class="bp-image is-square"><img alt="Irene Tham" src="/images/cc_irene.jpg"></figure>
