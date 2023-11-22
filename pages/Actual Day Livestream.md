@@ -17,8 +17,7 @@ a.bp-button:hover {
     text-decoration: underline;
 }
 </style>
-<div class="row">
-  <div class="col is-12 has-text-left">
+<div class="has-text-left">
     <p>Test Livestream</p>
       <div style="width:100%; min-height:475px">
       <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-"></iframe>
@@ -35,4 +34,3 @@ a.bp-button:hover {
       Let us know how you felt about today and stand a chance to win e-vouchers here: <a target="_blank" title="Link to let us know how you felt about today" href="https://go.gov.sg/dsa2023-feedback">https://go.gov.sg/dsa2023-feedback</a></p>
     <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.</p>
   </div>
-</div>
