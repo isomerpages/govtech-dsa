@@ -27,7 +27,7 @@ variant: markdown
 .grid-container {
     display: grid;
     gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 4fr));
     justify-content: center;
     padding-top: 12px;
 }
