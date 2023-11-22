@@ -378,4 +378,4 @@ a.backtotop {
     </div>
   </article>
 </div>
-<a aria-label="Back to Top" href="#toc-panel" class="backtotop">↑<br>Top</a>
+<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a>
