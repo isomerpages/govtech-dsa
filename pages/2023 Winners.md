@@ -29,8 +29,12 @@ variant: markdown
     justify-content: center;
     padding-top: 12px;
 }
-.g-col-2{grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));}
-.g-col-3{grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));}
+.g-col-2 {
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
+}
+.g-col-3 {
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+}
 .grid-container figure {
     margin-left: 0;
     margin-right: 16px;
@@ -40,9 +44,44 @@ variant: markdown
     margin-top: 0 !important;
     padding: 0 !important;
 }
+#toc-panel {
+    background-color: #EEF0F2;
+    word-break: break-word;
+    padding: 24px;
+    border-radius: 5px;
+    margin-top: 32px;
+}
+ul.toc-links {
+    margin-top: 16px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    line-height: 27px;
+}
+    ul.toc-links li{
+        display: inline;margin:0 16px 0 0;padding-right:16px;
+        border-right:1px solid #dedede;
+    }
+    ul.toc-links li:last-child{
+        border-right:0;
+    }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
+<div role="navigation" id="toc-panel">
+  <h3 class="toc-title">Skip to section:</h3>
+  <ul class="toc-links">
+    <li><a href="#bu">Best Usability</a></li>
+    <li><a href="#popular">Most Popular Informational Website</a></li>
+    <li><a href="#occ-wog">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
+    <li><a href="#occ-tk">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
+    <li><a href="#occ-ctsg">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
+    <li><a href="#improve">Best Search Engine Optimisation (SEO)</a></li>
+    <li><a href="#csat">Best Search Engine Optimisation (SEO)</a></li>
+    <li><a href="#accessibility">Best Search Engine Optimisation (SEO)</a></li>
+    <li><a href="#functionality">Best Search Engine Optimisation (SEO)</a></li>
+    <li><a href="#seo">Best Search Engine Optimisation (SEO)</a></li>
+  </ul>
+</div>
 <div class="grid-container g-col-2">
   <div class="content">
     <h4 class="has-text-centered">Best Usability (Industry)</h4>
@@ -72,9 +111,9 @@ variant: markdown
 <hr>
 <h4 class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<p><span class="winner">Dr. Chiew Tuan Kiang, </span><br><span class="classification">Nominated by IMDA</span><br>
-Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
-
+<p><span class="winner">Dr. Chiew Tuan Kiang, </span><br>
+  <span class="classification">Nominated by IMDA</span><br>
+  Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
 <hr>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container g-col-3">
