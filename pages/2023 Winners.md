@@ -44,10 +44,6 @@ variant: markdown
     margin-top: 0 !important;
     padding: 0 !important;
 }
-.grid-container .seo-a {
-    grid-row-start: 1;
-    grid-row-end: 4;
-}
 #toc-panel {
     background-color: #F7F7F9;
     word-break: break-word;
@@ -134,17 +130,40 @@ ul.toc-links li:last-child {
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<div class="grid-container g-col-3">
+<div class="grid-container g-col-2">
+  <article class="media">
+    <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Dr. Chiew Tuan Kiang, <br>
+Nominated by IMDA</div>
+      </div>
+        <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Khoo Meng Kuan, <br>
+        Nominated by GovTech</div>
+      </div>
+      <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Khoo Meng Kuan, <br>
+          Nominated by GovTech</div>
+      </div>
+      <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
+    </div>
+  </article>
   <div class="col">
-    <div class="winner has-text-left">Dr. Chiew Tuan Kiang, Nominated by IMDA</div>
-    <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
-  </div>
-  <div class="col">
-    <div class="winner has-text-left">Khoo Meng Kuan, Nominated by GovTech</div>
-    <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
-  </div>
-  <div class="col">
-    <div class="winner has-text-left">Wong Yue Heng &amp; Siddhaarth Dharani, Nominated by Nexus, MINDEF</div>
+    <div class="winner has-text-left">Wong Yue Heng &amp; Siddhaarth Dharani, <br>
+    Nominated by Nexus, MINDEF</div>
     <p>Through the Total Defence (TD) Sandbox online submission, Yue Heng and Siddhaarth submitted a proposal to create a Tower Defence game, which helped Nexus, MINDEF to convey the 6 pillars of Total Defence to more than 5,000 Uniform Group cadets annually.</p>
   </div>
 </div>
@@ -207,7 +226,6 @@ ul.toc-links li:last-child {
 <hr>
 <h4 id="improve" class="has-text-centered">Best Improvement</h4>
 <div class="grid-container">
-  <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
@@ -218,7 +236,6 @@ ul.toc-links li:last-child {
       </div>
     </article>
   </div>
-  <div class="is-hidden-mobile">&nbsp;</div>
 </div>
 <h4 id="csat" class="has-text-centered">Best Customer Satisfaction for Transactional Services (TS CSAT)</h4>
 <div class="grid-container g-col-3">
@@ -250,37 +267,7 @@ ul.toc-links li:last-child {
     </div>
   </article>
 </div>
-<h4 class="has-text-centered">Best Functionality</h4>
-<div class="grid-container g-col-3">
-  <article class="media">
-    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
-    <div class="media-content">
-      <div class="content">
-        <div class="classification">Category A</div>
-        <div class="winner">Tote Board </div>
-      </div>
-    </div>
-  </article>
-  <article class="media">
-    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
-    <div class="media-content">
-      <div class="content">
-        <div class="classification">Category B</div>
-        <div class="winner">Public Service Division</div>
-      </div>
-    </div>
-  </article>
-  <article class="media">
-    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
-    <div class="media-content">
-      <div class="content">
-        <div class="classification">Category C</div>
-        <div class="winner">National Heritage Board </div>
-      </div>
-    </div>
-  </article>
-</div>
-<h4 class="has-text-centered">Best Acessibility</h4>
+<h4 id="accessibility" class="has-text-centered">Best Acessibility</h4>
 <div class="grid-container g-col-2">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
@@ -312,9 +299,39 @@ ul.toc-links li:last-child {
     </div>
   </article>
 </div>
-<h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
+<h4 id="functionality" class="has-text-centered">Best Functionality</h4>
+<div class="grid-container g-col-3">
+  <article class="media">
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="classification">Category A</div>
+        <div class="winner">Tote Board </div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="classification">Category B</div>
+        <div class="winner">Public Service Division</div>
+      </div>
+    </div>
+  </article>
+  <article class="media">
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="classification">Category C</div>
+        <div class="winner">National Heritage Board </div>
+      </div>
+    </div>
+  </article>
+</div>
+<h4 id="seo" class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container g-col-2">
-  <article class="media seo-a">
+  <article class="media">
     <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
