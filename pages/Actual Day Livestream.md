@@ -56,13 +56,12 @@ h5.toc-title {
     font-size: 1rem;
 }
 ul.toc-links {
-    margin-top: 16px;
-    margin-bottom: 8px;
+    margin:16px 0;
     font-size: 1rem;
 }
 ul.toc-links li {
-    display: inline;
-    margin: 0 8px 0 0;
+    display: inline-block;
+    margin: 4px 8px 4px 0;
     padding-right: 8px;
     border-right: 1px solid #98A2B3;
     font-size: 0.75rem;
