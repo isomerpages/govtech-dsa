@@ -170,29 +170,29 @@ ul.toc-links li:last-child {
     </div>
   </div>
   <hr>
-  <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-  <div class="grid-container g-col-3">
+  <h4 id="improve" class="has-text-centered">Best Improvement</h4>
+  <div class="grid-container">
     <div class="is-hidden-mobile">&nbsp;</div>
     <div>
       <article class="media">
         <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
         <div class="media-content">
           <div class="content">
-            <div class="winner">Singapore Land Authority (SLA)</div>
+            <div class="winner">Singapore Police Force</div>
           </div>
         </div>
       </article>
     </div>
     <div class="is-hidden-mobile">&nbsp;</div>
   </div>
-  <h4 id="functionality" class="has-text-centered">Best Functionality</h4>
+  <h4 id="csat" class="has-text-centered">Best Customer Satisfaction for Transactional Services (TS CSAT)</h4>
   <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="classification">Category A</div>
-          <div class="winner">Tote Board</div>
+          <div class="winner">Majlis Ugama Islam Singapura</div>
         </div>
       </div>
     </article>
@@ -201,7 +201,7 @@ ul.toc-links li:last-child {
       <div class="media-content">
         <div class="content">
           <div class="classification">Category B</div>
-          <div class="winner">Public Service Division (PSD)</div>
+          <div class="winner">Public Utilities Board</div>
         </div>
       </div>
     </article>
