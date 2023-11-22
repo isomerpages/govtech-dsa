@@ -43,7 +43,7 @@ variant: markdown
 }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
-<p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
+<p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
 <div class="grid-container 2col">
   <div class="content">
     <h5 class="has-text-centered">Best Usability (Industry)</h5>
@@ -208,4 +208,3 @@ variant: markdown
     </div>
   </article>
 </div>
-<p>For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
