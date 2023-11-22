@@ -16,15 +16,33 @@ a.bp-button {
 a.bp-button:hover {
     text-decoration: underline;
 }
+.video-wrapper {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+}  
+    
 </style>
 <div class="has-text-left">
     <p>Test Livestream</p>
-      <div style="width:100%; min-height:475px">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-" height="100%" width="100%"></iframe>
+      <div class="video-wrapper">
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-" class="responsive-iframe"></iframe>
     </div>
     <p>Prod Livestream</p>
-    <div style="width:100%; min-height:475px">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6ShwOeNIrSU?si=Ld3sD9f0QCgEW_Qy" height="100%" width="100%"></iframe>
+    <div class="video-wrapper">
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6ShwOeNIrSU?si=Ld3sD9f0QCgEW_Qy" class="responsive-iframe"></iframe>
     </div>
     <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
     <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have co-created substantially with government agencies with the theme “Empathy at the Heart of Tech”. </p>
