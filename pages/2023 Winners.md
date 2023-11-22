@@ -91,7 +91,7 @@ ul.toc-links {
 <h4 id="bu" class="has-text-centered">Best Usability</h4>
 <div class="row is-multiline">
   <div class="col is-4">
-    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
     <div class="classification">Government</div>
@@ -99,7 +99,7 @@ ul.toc-links {
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
     <div class="col is-4">
-    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/industry_gbtb.png"></figure>
   </div>
   <div class="col is-8">
       <div class="classification">Industry</div>
@@ -110,7 +110,7 @@ ul.toc-links {
 <h4 id="popular" class="has-text-centered">Most Popular Informational Websites</h4>
 <div class="row is-multiline">
   <div class="col is-4">
-    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
       <div class="classification">Government</div>
@@ -118,7 +118,7 @@ ul.toc-links {
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
     <div class="col is-4">
-    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
       <div class="classification">Industry</div>
