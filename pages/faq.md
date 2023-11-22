@@ -12,9 +12,9 @@ table#award_cat th {
 .content ul > li:last-child, .content ol > li, .content ul > li {
     margin: 0;
 }
-ul.jekyllcodex_accordion>li>label::before {
-    line-height: 2rem;
-}
+    ul.jekyllcodex_accordion>li>label::before{
+    line-height:2rem;
+    }
 </style>
 <h3>General</h3>
 <ul class="jekyllcodex_accordion">
@@ -23,7 +23,7 @@ ul.jekyllcodex_accordion>li>label::before {
     <label for="accordion1">What is the Digital Services Awards?</label>
     <div>
       <p> The Digital Services Awards is an annual event that recognises government agencies and private sector websites who have delivered excellent digital services through websites for the public, including individuals who have actively contributed to enhancing these services.</p>
-      <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg">Whole-of-Government Application Analytics (WOGAA)</a> platform. </p>
+     <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg">Whole-of-Government Application Analytics (WOGAA)</a> platform. </p>
       <p>Developed by the Government Technology Agency of Singapore (GovTech), WOGAA monitors real-time performance of government websites and digital services. It presents key information such as website traffic, user feedback, recommendations to improve site performance, as well as benchmarks against Whole-of-Government (WOG) averages in a single dashboard.</p>
       <p>Depending on the award category, winners are selected based on technical scores or evaluations by judging panels comprising private and public sector tech experts, and citizen evaluators.&nbsp;For example, shortlisted entries for “Best Usability” will be further assessed by up to 100 citizen evaluators, while the “Most Popular Informational Website” will be awarded based on live attendee votes during the award ceremony.</p>
     </div>
@@ -35,7 +35,7 @@ ul.jekyllcodex_accordion>li>label::before {
       <p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Additional award categories were introduced in 2022 to honour the broader community for their valuable contributions. This year, a new award category recognising citizens – “Outstanding Citizen Contributor” – will be introduced, while the categories of “Best Usability” and “Most Popular Informational Website” will be open to Industry nominations for the first time. We hope this will create momentum and encourage more citizens and private sector organisations to improve the usability and inclusiveness of local digital services.</p>
     </div>
   </li>
-  <li>
+	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">What is the theme for Digital Services Awards 2023?</label>
     <div>
@@ -48,9 +48,7 @@ ul.jekyllcodex_accordion>li>label::before {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When will this year's event be held? How can we sign up?</label>
-    <div>
-      <p>The event was held on 24 November 2023. You can <a aria-label="Link to livestream page" href="https://www.digitalservicesawards.gov.sg/livestream/">watch the playback of the livestream here</a>.</p>
-    </div>
+    <div><p>The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</p></div>
   </li>
 </ul>
 <h3>Nominations</h3>
@@ -118,7 +116,7 @@ ul.jekyllcodex_accordion>li>label::before {
             <td>Outstanding Citizen Contributor</td>
             <td>Citizen</td>
             <td><p>Whole-of-Government nominated: 1 August 2022 to 31 July 2023</p>
-              Tech Kaki and CrowdTaskSG: 1 January 2023 to 30 September 2023</td>
+							Tech Kaki and CrowdTaskSG: 1 January 2023 to 30 September 2023</td>
           </tr>
           <tr>
             <td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
