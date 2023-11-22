@@ -49,8 +49,20 @@ variant: markdown
 		<div class="winner">Gardens By The Bay Website</div>
 		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
 	</div>
+    <div class="content">
+		<h4 class="has-text-centered">Most Popular IS (Industry)</h4>
+        <div><img alt="" src="/images/industry_gbtb.png"></div>
+		<div class="winner">Gardens By The Bay Website</div>
+		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+	</div>
 	<div class="content">
         <h4 class="has-text-centered">Best Usability (Government)</h4>
+		<div><img alt="" src="/images/gov_moe.png"></div>
+		<div class="winner">MOE Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
+	</div>
+    <div class="content">
+        <h4 class="has-text-centered">Most Popular (Government)</h4>
 		<div><img alt="" src="/images/gov_moe.png"></div>
 		<div class="winner">MOE Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
