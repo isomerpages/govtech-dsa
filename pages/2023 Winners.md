@@ -47,26 +47,26 @@ variant: markdown
   <div class="content">
     <h4 class="has-text-centered">Best Usability (Industry)</h4>
     <div><img alt="" src="/images/industry_gbtb.png"></div>
-    <div class="winner">Gardens By The Bay Website</div>
-    <div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+    <div class="winner has-text-centered">Gardens By The Bay Website</div>
+    <div class="classification has-text-centered"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
   </div>
   <div class="content">
     <h4 class="has-text-centered">Most Popular Informational Website  (Industry)</h4>
     <div><img alt="" src="/images/industry_gbtb.png"></div>
-    <div class="winner">XXXX</div>
-    <div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
+    <div class="winner has-text-centered">XXXX</div>
+    <div class="classification has-text-centered"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
   </div>
   <div class="content">
     <h4 class="has-text-centered">Best Usability (Government)</h4>
     <div><img alt="" src="/images/gov_moe.png"></div>
-    <div class="winner">MOE Corporate Website</div>
-    <div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
+    <div class="winner has-text-centered">MOE Corporate Website</div>
+    <div class="classification has-text-centered"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
   </div>
   <div class="content">
     <h4 class="has-text-centered">Most Popular Informational Website (Government)</h4>
     <div><img alt="" src="/images/gov_moe.png"></div>
-    <div class="winner">XXXXX</div>
-    <div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
+    <div class="winner has-text-centered">XXXXX</div>
+    <div class="classification has-text-centered"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
   </div>
 </div>
 <hr>
@@ -81,7 +81,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
   <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
-      <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+      <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="winner">Singapore Land Authority (SLA)</div>
@@ -94,7 +94,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container g-col-3">
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category A</div>
@@ -103,7 +103,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category B</div>
@@ -112,7 +112,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
@@ -125,7 +125,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
 <h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
 <div class="grid-container g-col-3">
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category A</div>
@@ -134,7 +134,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category B</div>
@@ -143,7 +143,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
@@ -155,7 +155,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container g-col-3">
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category A</div>
@@ -164,7 +164,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category B</div>
@@ -173,7 +173,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
@@ -185,7 +185,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="grid-container g-col-3">
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category A</div>
@@ -195,7 +195,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category B</div>
@@ -204,7 +204,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
+    <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
