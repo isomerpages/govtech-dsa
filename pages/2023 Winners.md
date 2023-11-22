@@ -45,11 +45,11 @@ variant: markdown
     padding: 0 !important;
 }
 #toc-panel {
-    background-color: #EEF0F2;
+    background-color: #F7F7F9;
     word-break: break-word;
-    padding: 24px;
-    border-radius: 5px;
-    margin-top: 32px;
+    padding: 16px;
+    border-radius: 4px;
+    margin-top: 16px;
 }
 ul.toc-links {
     margin-top: 16px;
@@ -59,7 +59,7 @@ ul.toc-links {
 }
     ul.toc-links li{
         display: inline;margin:0 16px 0 0;padding-right:16px;
-        border-right:1px solid #dedede;
+        border-right:1px solid #98A2B3;
     }
     ul.toc-links li:last-child{
         border-right:0;
