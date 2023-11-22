@@ -41,6 +41,7 @@ variant: markdown
     padding: 0 !important;
 }
 </style>
+<div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success.</p>
 <div class="grid-container">
 	<div class="content">
@@ -56,7 +57,7 @@ variant: markdown
 		<div class="classification"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></div>
 	</div>
 	<div class="content">
-        <h5 class="has-text-centered">Best Usability (Government)</h5>
+        <h5 class="has-text-centered">Best Usability IS (Government)</h5>
 		<div><img alt="" src="/images/gov_moe.png"></div>
 		<div class="winner">MOE Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></div>
