@@ -4,8 +4,7 @@ permalink: /2023/
 description: ""
 variant: markdown
 ---
-<div class="col is-8 is-offset-2 print-content">
-  <style type="text/css">
+<style type="text/css">
 .content h4, h4 {
     color: #B41E8E;
     font-weight: 700;
@@ -308,4 +307,3 @@ ul.toc-links li:last-child {
       </div>
     </article>
   </div>
-</div>
