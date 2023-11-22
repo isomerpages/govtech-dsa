@@ -65,13 +65,33 @@ ul.toc-links li {
     margin: 0 8px 0 0;
     padding-right: 8px;
     border-right: 1px solid #98A2B3;
-    font-size: 1rem;
+    font-size: 0.75rem;
     line-height: 1rem;
 }
 ul.toc-links li:last-child {
     border-right: 0;
 }
- a.backtotop{display:block;position:fixed; z-index:99;background:#5A0F47; color:#fff; font-weight:700;font-size:1.5rem;}
+a.backtotop {
+    display: block;
+    position: fixed;
+    z-index: 99;
+    background: #5A0F47;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    right: 100px;
+    bottom: 10px;
+    text-decoration: none;
+    border-radius: 24px;
+    border:1px solid #dedede;
+    width:48px;
+    height:48px;
+    text-align:center;
+}
+    
+    a.backtotop:hover {
+        background:#B41E8E;
+    }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
@@ -137,9 +157,9 @@ ul.toc-links li:last-child {
     <div class="media-content">
       <div class="content">
         <div class="winner">Dr. Chiew Tuan Kiang, <br>
-Nominated by IMDA</div>
+          Nominated by IMDA</div>
       </div>
-        <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
+      <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
     </div>
   </article>
   <article class="media">
@@ -147,7 +167,7 @@ Nominated by IMDA</div>
     <div class="media-content">
       <div class="content">
         <div class="winner">Khoo Meng Kuan, <br>
-        Nominated by GovTech</div>
+          Nominated by GovTech</div>
       </div>
       <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
     </div>
@@ -157,7 +177,7 @@ Nominated by IMDA</div>
     <div class="media-content">
       <div class="content">
         <div class="winner">Wong Yue Heng &amp; Siddhaarth Dharani, <br>
-        Nominated by Nexus, MINDEF</div>
+          Nominated by Nexus, MINDEF</div>
       </div>
       <p>Through the Total Defence (TD) Sandbox online submission, Yue Heng and Siddhaarth submitted a proposal to create a Tower Defence game, which helped Nexus, MINDEF to convey the 6 pillars of Total Defence to more than 5,000 Uniform Group cadets annually.</p>
     </div>
@@ -359,4 +379,4 @@ Nominated by IMDA</div>
     </div>
   </article>
 </div>
-<a aria-label="Back to Top" href="#toc-panel" class="backtotop">↑&nbsp;Back to Top</a>
+<a aria-label="Back to Top" href="#toc-panel" class="backtotop">↑<br>Top</a>
