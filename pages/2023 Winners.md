@@ -29,8 +29,8 @@ variant: markdown
     justify-content: center;
     padding-top: 12px;
 }
-.grid-container.2col{grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));}
-.grid-container.3col{grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));}
+.2col{grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));}
+.3col{grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));}
 .grid-container figure {
     margin-left: 0;
     margin-right: 16px;
