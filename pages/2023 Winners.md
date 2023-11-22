@@ -51,10 +51,14 @@ variant: markdown
     border-radius: 4px;
     margin-top: 16px;
 }
+    h5.toc-title {
+    margin: 0;
+    font-size: 1rem;
+}
 ul.toc-links {
     margin-top: 16px;
     margin-bottom: 8px;
-    font-size: 18px;
+    font-size: 0.83rem;
     line-height: 27px;
 }
     ul.toc-links li{
@@ -68,7 +72,7 @@ ul.toc-links {
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
 <div role="navigation" id="toc-panel">
-  <h3 class="toc-title">Skip to section:</h3>
+  <h5 class="toc-title">Skip to section:</h5>
   <ul class="toc-links">
     <li><a href="#bu">Best Usability</a></li>
     <li><a href="#popular">Most Popular Informational Website</a></li>
