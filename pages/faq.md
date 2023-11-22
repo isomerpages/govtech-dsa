@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 <style type="text/css">
 table#award_cat th {
@@ -41,7 +42,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When will this year's event be held? How can we sign up?</label>
-    <div> The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</div>
+      <div><p>The event was held on 24 November 2023. You can <a aria-label="Link to livestream page" href="https://www.digitalservicesawards.gov.sg/livestream/">watch the playback of the livestream here</a>.</p></div>
   </li>
 </ul>
 <h3>Nominations</h3>
