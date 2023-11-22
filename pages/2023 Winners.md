@@ -43,6 +43,11 @@ variant: markdown
     margin-top: 0 !important;
     padding: 0 !important;
 }
+
+    .grid-container .seo-a{
+          grid-row-start: 1;
+  grid-row-end: 2;
+    }
 #toc-panel {
     background-color: #F7F7F9;
     word-break: break-word;
@@ -309,7 +314,7 @@ ul.toc-links li:last-child {
   </div>
   <h4 class="has-text-centered">Search Engine Optimisation (SEO)</h4>
   <div class="grid-container g-col-2">
-    <article class="media">
+    <article class="media seo-a">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
