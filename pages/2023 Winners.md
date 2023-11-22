@@ -80,8 +80,8 @@ ul.toc-links {
     <li><a href="#bu">Best Usability</a></li>
     <li><a href="#popular">Most Popular Informational Website</a></li>
     <li><a href="#occ-wog">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
-    <li><a href="#occ-tk">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
-    <li><a href="#occ-ctsg">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
+    <li><a href="#occ-tk">Outstanding Citizen Contributor (Tech Kaki)</a></li>
+    <li><a href="#occ-ctsg">Outstanding Citizen Contributor (CrowdTaskSG)</a></li>
     <li><a href="#improve">Best Improvement</a></li>
     <li><a href="#csat">Best Customer Satisfaction for Transactional Services (TS CSAT)</a></li>
     <li><a href="#accessibility">Best Accessibility</a></li>
@@ -130,9 +130,15 @@ ul.toc-links {
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<p></p><div class="winner">Dr. Chiew Tuan Kiang, </div>
-<div>class="classification"&gt;Nominated by IMDA</div>
-<div>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</div><p></p>
+<div class="winner has-text-left">Dr. Chiew Tuan Kiang, Nominated by IMDA</div>
+<p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
+<div class="winner has-text-left">Khoo Meng Kuan, Nominated by GovTech</div>
+<p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
+<div class="winner has-text-left">Wong Yue Heng &amp; Siddhaarth Dharani, Nominated by Nexus, MINDEF</div>
+<p>Through the Total Defence (TD) Sandbox online submission, Yue Heng and Siddhaarth submitted a proposal to create a Tower Defence game, which helped Nexus, MINDEF to convey the 6 pillars of Total Defence to more than 5,000 Uniform Group cadets annually.</p>
+<h4 id="occ-wog2" class="has-text-centered">Outstanding Citizen Contributor (Tech Kaki)</h4>
+<p>Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.</p>
+<p>&nbsp;</p>
 <hr>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container g-col-3">
@@ -149,7 +155,7 @@ ul.toc-links {
   </div>
   <div class="is-hidden-mobile">&nbsp;</div>
 </div>
-<h4 class="has-text-centered">Best Functionality</h4>
+<h4 id="functionality" class="has-text-centered">Best Functionality</h4>
 <div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
