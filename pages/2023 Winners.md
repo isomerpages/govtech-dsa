@@ -58,12 +58,15 @@ variant: markdown
 ul.toc-links {
     margin-top: 16px;
     margin-bottom: 8px;
-    font-size: 0.83rem;
-    line-height: 27px;
+    font-size:1rem;
 }
     ul.toc-links li{
-        display: inline;margin:0 16px 0 0;padding-right:16px;
-        border-right:1px solid #98A2B3;
+     display: inline;
+    margin: 0 8px 0 0;
+    padding-right: 8px;
+    border-right: 1px solid #98A2B3;
+    font-size: 1rem;
+    line-height: 1rem;
     }
     ul.toc-links li:last-child{
         border-right:0;
