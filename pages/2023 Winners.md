@@ -16,7 +16,6 @@ variant: markdown
     line-height: 1.3 !important;
     margin-top: 0;
     margin-bottom: 8px;
-    text-align: center;
 }
 .classification {
     font-size: 1rem;
@@ -95,7 +94,7 @@ ul.toc-links {
     <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
-    <h5 class="classification">Government</h5>
+    <div class="classification">Government</div>
     <div class="winner has-text-left">MOE Corporate Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
@@ -103,7 +102,7 @@ ul.toc-links {
     <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
-      <h5 class="classification">Industry</h5>
+      <div class="classification">Industry</div>
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div> 
@@ -114,7 +113,7 @@ ul.toc-links {
     <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
-    <h5 class="classification">Government</h5>
+      <div class="classification">Government</div>
     <div class="winner has-text-left">XXXXXXXX</div>
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
@@ -122,7 +121,7 @@ ul.toc-links {
     <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
-      <h5 class="classification">Industry</h5>
+      <div class="classification">Industry</div>
     <div class="winner has-text-left">XXXXXXX</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div> 
