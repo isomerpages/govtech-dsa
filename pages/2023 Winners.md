@@ -128,7 +128,7 @@ ul.toc-links li:last-child {
   </div>
   <hr>
   <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
-<p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
+  <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
   <div class="grid-container g-col-3">
     <div class="col">
       <div class="winner has-text-left">Dr. Chiew Tuan Kiang, Nominated by IMDA</div>
@@ -144,7 +144,7 @@ ul.toc-links li:last-child {
     </div>
   </div>
   <h4 id="occ-tk" class="has-text-centered">Outstanding Citizen Contributor (Tech Kaki)</h4>
-Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.
+      <p>Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.</p>
 <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
@@ -172,7 +172,7 @@ Tech Kaki is a community established by GovTech that enables members of the publ
     </article>
   </div>
   <h4 id="occ-ctsg" class="has-text-centered">Outstanding Citizen Contributor (CrowdTaskSG)</h4>
- CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 were selected as winners.
+      <p>CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 were selected as winners.  </p>
   <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
@@ -241,19 +241,18 @@ Tech Kaki is a community established by GovTech that enables members of the publ
         <div class="content">
           <div class="classification">Category C</div>
           <div class="winner">National Environment Agency (NEA)</div>
-          <div class="winner">Singapore Land Authority (SLA)</div>
         </div>
       </div>
     </article>
   </div>
-  <h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
+  <h4 class="has-text-centered">Best Functionality</h4>
   <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="classification">Category A</div>
-          <div class="winner">Elections Department Singapore (ELD)</div>
+          <div class="winner">Tote Board </div>
         </div>
       </div>
     </article>
@@ -262,7 +261,7 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category B</div>
-          <div class="winner">Singapore Customs</div>
+          <div class="winner">Public Service Division</div>
         </div>
       </div>
     </article>
@@ -271,19 +270,21 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category C</div>
-          <div class="winner">Ministry of Education (MOE)</div>
+          <div class="winner">National Heritage Board </div>
         </div>
       </div>
     </article>
   </div>
-  <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-  <div class="grid-container g-col-3">
+  <h4 class="has-text-centered">Best Acessiblity</h4>
+  <div class="grid-container g-col-2">
     <article class="media">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="classification">Category A</div>
-          <div class="winner">Tote Board</div>
+          <div class="winner">Central Provident Fund Board</div>
+            <div class="winner">Ministry of Transport</div>
+            <div class="winner">Tote Board</div>
         </div>
       </div>
     </article>
@@ -292,7 +293,7 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category B</div>
-          <div class="winner">Public Utilities Board (PUB)</div>
+          <div class="winner">Singapore Police Force</div>
         </div>
       </div>
     </article>
@@ -301,20 +302,23 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category C</div>
-          <div class="winner">National Heritage Board (NHB)</div>
+          <div class="winner">National Heritage Board</div>
         </div>
       </div>
     </article>
   </div>
-  <h4 class="has-text-centered">Best Accessibility</h4>
-  <div class="grid-container g-col-3">
+  <h4 class="has-text-centered">Search Engine Optimisation (SEO)</h4>
+  <div class="grid-container g-col-2">
     <article class="media">
       <figure class="media-left"><img src="/images/trophy2_2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="classification">Category A</div>
-          <div class="winner">Tote Board</div>
-          <div class="winner">National Security Coordination Secretariat (NSCS)</div>
+          <div class="winner">Central Provident Fund Board</div>
+          <div class="winner">Yellow Ribbon Singapore</div>
+            <div class="winner">Ministry of Transport</div>
+            <div class="winner">Immigration &amp; Checkpoints Authority</div>
+            <div class="winner">Tote Board</div>
         </div>
       </div>
     </article>
@@ -323,7 +327,7 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category B</div>
-          <div class="winner">Central Provident Fund Board (CPFB)</div>
+          <div class="winner">Institute of Technical Education</div>
         </div>
       </div>
     </article>
@@ -332,7 +336,7 @@ Tech Kaki is a community established by GovTech that enables members of the publ
       <div class="media-content">
         <div class="content">
           <div class="classification">Category C</div>
-          <div class="winner">National Heritage Board (NHB)</div>
+          <div class="winner">National Heritage Board</div>
         </div>
       </div>
     </article>
