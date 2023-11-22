@@ -12,6 +12,9 @@ table#award_cat th {
 .content ul > li:last-child, .content ol > li, .content ul > li {
     margin: 0;
 }
+ul.jekyllcodex_accordion>li>label::before {
+    line-height: 2rem;
+}
 </style>
 <h3>General</h3>
 <ul class="jekyllcodex_accordion">
