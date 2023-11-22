@@ -128,7 +128,7 @@ ul.toc-links li:last-child {
   </div>
   <hr>
   <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
-  <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
+<p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
   <div class="grid-container g-col-3">
     <div class="col">
       <div class="winner has-text-left">Dr. Chiew Tuan Kiang, Nominated by IMDA</div>
@@ -144,7 +144,7 @@ ul.toc-links li:last-child {
     </div>
   </div>
   <h4 id="occ-tk" class="has-text-centered">Outstanding Citizen Contributor (Tech Kaki)</h4>
-      <p>Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.</p>
+Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.
 <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
@@ -172,7 +172,7 @@ ul.toc-links li:last-child {
     </article>
   </div>
   <h4 id="occ-ctsg" class="has-text-centered">Outstanding Citizen Contributor (CrowdTaskSG)</h4>
-      <p>CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 were selected as winners.  </p>
+ CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 were selected as winners.
   <div class="grid-container g-col-3">
     <article class="media">
       <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
