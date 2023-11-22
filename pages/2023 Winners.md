@@ -89,45 +89,37 @@ ul.toc-links {
   </div>
   <div class="col is-8">
     <h5 class="classification">Government</h5>
-    <div class="winner">MOE Corporate Website</div>
+    <div class="winner has-text-left">MOE Corporate Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
     <div class="col is-4">
     <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
   <div class="col is-8">
-    <h5 class="classification">Industry</h5><h5>
-    <div class="winner">Gardens by the Bay Website</div>
+      <h5 class="classification">Industry</h5>
+    <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
-  </h5></div>
-    
+  </div> 
 </div>
-<!-- <div class="grid-container g-col-2">
-  <div class="content">
-    <h4 class="has-text-centered">Best Usability (Industry)</h4>
-    <div><img src="/images/industry_gbtb.png" alt=""></div>
-    <div class="winner has-text-centered">Gardens By The Bay Website</div>
-    <div class="classification has-text-centered"><a href="https://gardensbythebay.com.sg" target="_blank">https://gardensbythebay.com.sg</a></div>
+<h4 id="popular" class="has-text-centered">Most Popular Informational Websites</h4>
+<div class="row is-multiline">
+  <div class="col is-4">
+    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
-  <div class="content">
-    <h4 class="has-text-centered">Most Popular Informational Website  (Industry)</h4>
-    <div><img src="/images/industry_gbtb.png" alt=""></div>
-    <div class="winner has-text-centered">XXXX</div>
-    <div class="classification has-text-centered"><a href="https://gardensbythebay.com.sg" target="_blank">https://gardensbythebay.com.sg</a></div>
+  <div class="col is-8">
+    <h5 class="classification">Government</h5>
+    <div class="winner has-text-left">XXXXXXXX</div>
+    <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
-  <div class="content">
-    <h4 class="has-text-centered">Best Usability (Government)</h4>
-    <div><img src="/images/gov_moe.png" alt=""></div>
-    <div class="winner has-text-centered">MOE Corporate Website</div>
-    <div class="classification has-text-centered"><a href="https://moe.gov.sg" target="_blank">https://moe.gov.sg</a></div>
+    <div class="col is-4">
+    <figure class="image is-5by4 margin--none margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
-  <div class="content">
-    <h4 class="has-text-centered">Most Popular Informational Website (Government)</h4>
-    <div><img src="/images/gov_moe.png" alt=""></div>
-    <div class="winner has-text-centered">XXXXX</div>
-    <div class="classification has-text-centered"><a href="https://moe.gov.sg" target="_blank">https://moe.gov.sg</a></div>
-  </div>
-</div>//-->
+  <div class="col is-8">
+      <h5 class="classification">Industry</h5>
+    <div class="winner has-text-left">XXXXXXX</div>
+    <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
+  </div> 
+</div>
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
