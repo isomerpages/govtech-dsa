@@ -2,6 +2,7 @@
 title: Award Categories
 permalink: /award-categories/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .content h4 {
@@ -57,5 +58,5 @@ description: ""
     <p>This award recognises the government agency with the highest overall improvement in Functionality components from the start to the end of the qualification period. The score is calculated as the average percentage improvement for each of the 3 components.</p>
   </div>
 </div>
-<h4>*Agency Size Classification</h4>
-<p>To ensure government agencies are better represented and grouped by their digital maturity and resources owned, three agency size classifications have been developed: Large, Medium, Small, based on the number of Informational Websites owned. The top agency of each size class will receive the award.</p>
+<h4>*Agency Classification</h4>
+<p>To ensure government agencies are better represented and grouped by their digital maturity and resources owned, three agency classifications have been developed: Category A (1-5 Informational Websites), Category B (6-10 Informational Websites) , Category C (&lt;10 Informational Websites), based on the number of Informational Websites owned. The top agency of each category will receive the award.</p>
