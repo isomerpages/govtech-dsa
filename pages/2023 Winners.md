@@ -76,7 +76,7 @@ variant: markdown
   <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
-      <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+      <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
       <div class="media-content">
         <div class="content">
           <div class="winner">Singapore Land Authority (SLA)</div>
@@ -89,28 +89,28 @@ variant: markdown
 <h4 class="has-text-centered">Best Functionality</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Small</div>
+        <div class="classification">Category A</div>
         <div class="winner">Tote Board</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Medium</div>
+        <div class="classification">Category B</div>
         <div class="winner">Public Service Division (PSD)</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Large</div>
+        <div class="classification">Category C</div>
         <div class="winner">National Environment Agency (NEA)</div>
         <div class="winner">Singapore Land Authority (SLA)</div>
       </div>
@@ -120,28 +120,28 @@ variant: markdown
 <h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Small</div>
+        <div class="classification">Category A</div>
         <div class="winner">Elections Department Singapore (ELD)</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Medium</div>
+        <div class="classification">Category B</div>
         <div class="winner">Singapore Customs</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Large</div>
+        <div class="classification">Category C</div>
         <div class="winner">Ministry of Education (MOE)</div>
       </div>
     </div>
@@ -150,28 +150,28 @@ variant: markdown
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Small</div>
+        <div class="classification">Category A</div>
         <div class="winner">Tote Board</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Medium</div>
+        <div class="classification">Category B</div>
         <div class="winner">Public Utilities Board (PUB)</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Large</div>
+        <div class="classification">Category C</div>
         <div class="winner">National Heritage Board (NHB)</div>
       </div>
     </div>
@@ -180,29 +180,29 @@ variant: markdown
 <h4 class="has-text-centered">Best Accessibility</h4>
 <div class="grid-container">
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Small</div>
+        <div class="classification">Category A</div>
         <div class="winner">Tote Board</div>
         <div class="winner">National Security Coordination Secretariat (NSCS)</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Medium</div>
+        <div class="classification">Category B</div>
         <div class="winner">Central Provident Fund Board (CPFB)</div>
       </div>
     </div>
   </article>
   <article class="media">
-    <figure class="media-left"> <img src="/images/trophy.svg" alt=""> </figure>
+    <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
       <div class="content">
-        <div class="classification">Large</div>
+        <div class="classification">Category C</div>
         <div class="winner">National Heritage Board (NHB)</div>
       </div>
     </div>
