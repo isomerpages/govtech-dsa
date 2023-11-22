@@ -20,11 +20,11 @@ a.bp-button:hover {
 <div class="has-text-left">
     <p>Test Livestream</p>
       <div style="width:100%; min-height:475px">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-"></iframe>
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-" height="100%" width="100%"></iframe>
     </div>
     <p>Prod Livestream</p>
     <div style="width:100%; min-height:475px">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6ShwOeNIrSU?si=Ld3sD9f0QCgEW_Qy"></iframe>
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/6ShwOeNIrSU?si=Ld3sD9f0QCgEW_Qy" height="100%" width="100%"></iframe>
     </div>
     <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
     <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have co-created substantially with government agencies with the theme “Empathy at the Heart of Tech”. </p>
