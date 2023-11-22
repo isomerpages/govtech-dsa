@@ -82,10 +82,10 @@ ul.toc-links {
     <li><a href="#occ-wog">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
     <li><a href="#occ-tk">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
     <li><a href="#occ-ctsg">Outstanding Citizen Contributor (Whole-of-Government)</a></li>
-    <li><a href="#improve">Best Search Engine Optimisation (SEO)</a></li>
-    <li><a href="#csat">Best Search Engine Optimisation (SEO)</a></li>
-    <li><a href="#accessibility">Best Search Engine Optimisation (SEO)</a></li>
-    <li><a href="#functionality">Best Search Engine Optimisation (SEO)</a></li>
+    <li><a href="#improve">Best Improvement</a></li>
+    <li><a href="#csat">Best Customer Satisfaction for Transactional Services (TS CSAT)</a></li>
+    <li><a href="#accessibility">Best Accessibility</a></li>
+    <li><a href="#functionality">Best Functionality</a></li>
     <li><a href="#seo">Best Search Engine Optimisation (SEO)</a></li>
   </ul>
 </div>
@@ -130,9 +130,9 @@ ul.toc-links {
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<p><span class="winner">Dr. Chiew Tuan Kiang, </span><br>
-  <span class="classification">Nominated by IMDA</span><br>
-  Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
+<p></p><div class="winner">Dr. Chiew Tuan Kiang, </div>
+<div>class="classification"&gt;Nominated by IMDA</div>
+<div>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</div><p></p>
 <hr>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
 <div class="grid-container g-col-3">
