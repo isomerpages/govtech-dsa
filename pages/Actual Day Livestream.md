@@ -90,6 +90,7 @@ a.backtotop {
     
     a.backtotop:hover {
         background:#B41E8E;
+        color:#dedede;
     }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
