@@ -29,8 +29,8 @@ variant: markdown
     justify-content: center;
     padding-top: 12px;
 }
-.2col{grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));}
-.3col{grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));}
+.g-col-2{grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));}
+.g-col-3{grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));}
 .grid-container figure {
     margin-left: 0;
     margin-right: 16px;
@@ -43,7 +43,7 @@ variant: markdown
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
-<div class="grid-container 2col">
+<div class="grid-container g-col-2">
   <div class="content">
     <h4 class="has-text-centered">Best Usability (Industry)</h4>
     <div><img alt="" src="/images/industry_gbtb.png"></div>
@@ -77,7 +77,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
 
 <hr>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-<div class="grid-container 3col">
+<div class="grid-container g-col-3">
   <div class="is-hidden-mobile">&nbsp;</div>
   <div>
     <article class="media">
@@ -92,7 +92,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
   <div class="is-hidden-mobile">&nbsp;</div>
 </div>
 <h4 class="has-text-centered">Best Functionality</h4>
-<div class="grid-container">
+<div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
@@ -123,7 +123,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
   </article>
 </div>
 <h4 class="has-text-centered">Best Customer Satisfaction for Transactional Services  (TS CSAT) </h4>
-<div class="grid-container">
+<div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
@@ -153,7 +153,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
   </article>
 </div>
 <h4 class="has-text-centered">Best Search Engine Optimisation (SEO)</h4>
-<div class="grid-container">
+<div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
@@ -183,7 +183,7 @@ Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness
   </article>
 </div>
 <h4 class="has-text-centered">Best Accessibility</h4>
-<div class="grid-container">
+<div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img src="/images/trophy2-2023.svg" alt=""></figure>
     <div class="media-content">
