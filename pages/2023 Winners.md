@@ -155,7 +155,7 @@ a.backtotop:hover {
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<div class="grid-container">
+<div class="grid-container occ-wog">
   <article class="media">
     <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
     <div class="media-content">
