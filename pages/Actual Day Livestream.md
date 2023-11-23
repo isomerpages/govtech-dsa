@@ -41,7 +41,7 @@ a.bp-button:hover {
     </div>
     <p>Prod Livestream</p>
     <div class="video-wrapper">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ZuCJRAM__8o?si=5XSl8edpfxLJm4IP" class="responsive-iframe"></iframe>
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/ZuCJRAM__8o?si=DG2J7vyhTsdyhmMU" class="responsive-iframe"></iframe>
     </div>
     <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
     <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have co-created substantially with government agencies with the theme “Empathy at the Heart of Tech”. </p>
