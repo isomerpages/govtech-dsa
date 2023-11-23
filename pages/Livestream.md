@@ -43,6 +43,6 @@ a.bp-button:hover {
   <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
     Join the quiz and stand a chance to win e-vouchers here: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa2023-quiz">https://go.gov.sg/dsa2023-quiz</a> <br>
     Let us know how you felt about today and stand a chance to win e-vouchers here: <a target="_blank" title="Link to let us know how you felt about today" href="https://go.gov.sg/dsa2023-feedback">https://go.gov.sg/dsa2023-feedback</a>  </p>
-  <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.<br>
-    If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
+  <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.</p>
+  <p>If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
 </div>
