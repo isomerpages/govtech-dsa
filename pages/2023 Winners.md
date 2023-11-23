@@ -37,7 +37,7 @@ variant: markdown
 .g-col-3 {
     grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
 }
-    .grid-container.g-col-2 .winner{margin-bottom:12px;}
+.grid-container.g-col-2 .winner{margin-bottom:12px;}
 .grid-container figure {
     margin-left: 0;
     margin-right: 16px;
@@ -382,5 +382,4 @@ a.backtotop:hover {
     </div>
   </article>
 </div>
-<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>
-Top</a>
+<div><a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a></div>
