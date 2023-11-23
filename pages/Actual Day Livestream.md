@@ -38,7 +38,7 @@ a.bp-button:hover {
 <div class="has-text-left">
     <p>Test Livestream</p>
       <div class="video-wrapper">
-      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/Vghcz82cJBM?si=jMdwLRoHb5Atotc-" class="responsive-iframe"></iframe>
+      <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/fkEt6OBxrVE?si=6x0UvI1o2zuWI3c9" class="responsive-iframe"></iframe>
     </div>
     <p>Prod Livestream</p>
     <div class="video-wrapper">
