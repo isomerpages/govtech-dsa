@@ -74,7 +74,7 @@ ul.toc-links li:last-child {
     border-right: 0;
     margin-bottom: 0;
 }
-ul.toc-links li a.backtotop {
+a.backtotop {
     display: block;
     position: fixed;
     z-index: 99;
@@ -91,6 +91,7 @@ ul.toc-links li a.backtotop {
     height: 48px;
     text-align: center;
 }
+
 a.backtotop:hover {
     background: #B41E8E;
     color: #dedede;
@@ -382,4 +383,4 @@ a.backtotop:hover {
     </div>
   </article>
 </div>
-<div><a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a></div>
+<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a>
