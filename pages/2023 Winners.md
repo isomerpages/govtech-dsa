@@ -28,8 +28,9 @@ variant: markdown
     justify-content: center;
     padding-top: 12px;
 }
-
-.occ-wog .content p:last-child{margin-bottom:2rem;}
+.occ-wog .content p:last-child {
+    margin-bottom: 2rem;
+}
 .g-col-2 {
     grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
 }
@@ -57,7 +58,7 @@ h5.toc-title {
     font-size: 1rem;
 }
 ul.toc-links {
-    margin:16px 0;
+    margin: 16px 0;
     font-size: 1rem;
 }
 ul.toc-links li {
@@ -65,13 +66,14 @@ ul.toc-links li {
     margin: 4px 8px 4px 0;
     padding-right: 8px;
     border-right: 1px solid #98A2B3;
-    font-size: 0.75rem;
+    font-size: 1rem;
     line-height: 1rem;
 }
 ul.toc-links li:last-child {
     border-right: 0;
+    margin-bottom: 0;
 }
-a.backtotop {
+ul.toc-links li a.backtotop {
     display: block;
     position: fixed;
     z-index: 99;
@@ -83,16 +85,15 @@ a.backtotop {
     bottom: 10px;
     text-decoration: none;
     border-radius: 24px;
-    border:1px solid #dedede;
-    width:48px;
-    height:48px;
-    text-align:center;
+    border: 1px solid #dedede;
+    width: 48px;
+    height: 48px;
+    text-align: center;
 }
-    
-    a.backtotop:hover {
-        background:#B41E8E;
-        color:#dedede;
-    }
+a.backtotop:hover {
+    background: #B41E8E;
+    color: #dedede;
+}
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
@@ -380,4 +381,5 @@ a.backtotop {
     </div>
   </article>
 </div>
-<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a>
+<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>
+Top</a>
