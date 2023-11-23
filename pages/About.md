@@ -2,6 +2,7 @@
 title: About
 permalink: /about-digital-services-awards/
 description: ""
+variant: markdown
 ---
 <div class="row is-multiline">
   <div class="col is-8">
@@ -19,4 +20,4 @@ In line with the theme, a new award category - "Outstanding Citizen Contributor"
 </div>
 <hr>
 <h3>Organising Team</h3>
-<p>The Digital Services Awards organising committee comprises members from the Government Technology Agency, and the Smart Nation Digital Government Office.</p>
+<p>The Digital Services Awards is organised by GovTech and supported by Smart Nation Singapore.</p>

@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 <style type="text/css">
 table#award_cat th {
@@ -8,6 +9,12 @@ table#award_cat th {
     color: #fff;
     font-weight: 700;
 }
+.content ul > li:last-child, .content ol > li, .content ul > li {
+    margin: 0;
+}
+    ul.jekyllcodex_accordion>li>label::before{
+    line-height:2rem;
+    }
 </style>
 <h3>General</h3>
 <ul class="jekyllcodex_accordion">
@@ -41,7 +48,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When will this year's event be held? How can we sign up?</label>
-    <div> The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</div>
+    <div><p>The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</p></div>
   </li>
 </ul>
 <h3>Nominations</h3>

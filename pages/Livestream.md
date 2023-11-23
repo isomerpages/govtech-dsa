@@ -4,81 +4,47 @@ permalink: /livestream/
 description: ""
 variant: markdown
 ---
-![Digital Services Awards logo banner](/images/digitalservicesawards.jpg)
 <style type="text/css">
 .content h4 {
     color: #B41E8E;
     font-weight: 700;
-    }
-table#award_cat th {
-    background: #78145F;
-    color: #fff;
-    font-weight: 700;
 }
-	a.bp-button{text-decoration: none;font-weight:600;}
-	a.bp-button:hover{text-decoration: underline;}
+a.bp-button {
+    text-decoration: none;
+    font-weight: 600;
+}
+a.bp-button:hover {
+    text-decoration: underline;
+}
+.video-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
 </style>
-<div class="row">
-  <div class="col is-12 has-text-centered">
-    <h4><strong>The livestream will be available on 24 November 2023 at 9am. </strong></h4>
-    <p>If you have not signed up for the livestream yet, you may do so below.</p>
-    <a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa2023-reg">Sign Up Now</a> 
-    </div>
-</div>
-<div class="row">
-  <div class="col is-12">
-    <h4><strong>Programme</strong></h4>
-    <table id="award_cat" cellspacing="0" cellpadding="0" border="0" width="100%">
-      <tbody><tr>
-        <th nowrap="nowrap">Time</th>
-        <th>Item</th>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>8.55 am</strong></td>
-        <td>Livestream begins</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>9.00 am</strong></td>
-        <td>Introduction to Digital Services Awards and Commencement of Most Popular Informational Website Live Voting</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>9.20 am</strong></td>
-        <td>Best Practices in Usability <br>
-          - Maria Rosala, Senior UX Specialist, Nielsen Norman Group </td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>9.35 am</strong></td>
-        <td>The Singapore Police Force’s Journey Towards Usability Improvements <br>
-          - Ambrose Goh, Head, Digital Services (HTX) and Azlina Aziz, Service Quality Officer, Service Delivery Department (SPF)</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>9.50 am</strong></td>
-        <td>Break</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>10.05 am</strong></td>
-        <td>Agency Champions of WOGAA Superstar Champion Certificate Presentation</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>10.15 am</strong></td>
-        <td>Guest of Honour Speech by Dr Janil Puthucheary, Senior Minister of State at Ministry of Communications and Information, and Minister-in-charge of GovTech</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>10.25 am</strong></td>
-        <td>Awards Presentation</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>11.00 am</strong></td>
-        <td>Quiz</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>11.15 am</strong></td>
-        <td>Digital Services and Products Sharing by Government Agencies</td>
-      </tr>
-      <tr>
-        <td nowrap="nowrap"><strong>12.00 pm</strong></td>
-        <td>End</td>
-      </tr>
-    </tbody></table>
+<div class="has-text-left">
+  <div class="video-wrapper">
+    <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6ShwOeNIrSU?si=ObjjaTxtaGIt-ff1" class="responsive-iframe"></iframe>
   </div>
+  <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
+  <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
+  <p>In addition to the 25 award presentations, this event will also highlight keynote speeches from distinguished individuals, including the Guest of Honour Senior Minister of State Dr. Janil Puthucheary, winners, and a member of the judging panel. </p>
+  <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
+    Join the quiz and stand a chance to win e-vouchers here: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa2023-quiz">https://go.gov.sg/dsa2023-quiz</a> <br>
+    Let us know how you felt about today and stand a chance to win e-vouchers here: <a target="_blank" title="Link to let us know how you felt about today" href="https://go.gov.sg/dsa2023-feedback">https://go.gov.sg/dsa2023-feedback</a></p>
+  <p>If you are encountering issues with the livestream player on this page, you can also watch the livestream on <a target="_blank" title="Youtube link" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a> directly.<br>
+    If you have any questions, email support@digitalservicesawards.gov.sg.</p>
+  <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.<br>
+    If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
 </div>

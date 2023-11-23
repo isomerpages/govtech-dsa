@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/dsa2023_webbanner2_2.jpg
-      button: SIGN UP NOW
-      url: https://go.gov.sg/dsa2023-reg
+      button: Watch Livestream
+      url: /livestream/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,11 +22,10 @@ sections:
           description: Best Usability Top 10 Websites
           url: /2023-finalists/
       variant: center
-      title: Celebrate, Vote & Win Prizes on 24 Nov!
+      title: Celebrate, Vote & Win Prizes Today!
       backgroundColor: gray
       alignment: right
       size: sm
-      subtitle: "Deadline: 23 Nov 2023, 6pm SGT"
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
