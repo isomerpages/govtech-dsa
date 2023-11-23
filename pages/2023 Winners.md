@@ -28,6 +28,8 @@ variant: markdown
     justify-content: center;
     padding-top: 12px;
 }
+
+.occ-wog .content p:last-child{margin-bottom:2rem;}
 .g-col-2 {
     grid-template-columns: repeat(auto-fit, minmax(20rem, 2fr));
 }
