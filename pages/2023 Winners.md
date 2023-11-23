@@ -37,6 +37,7 @@ variant: markdown
 .g-col-3 {
     grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
 }
+    .grid-container.g-col-2 .winner{margin-bottom:12px;}
 .grid-container figure {
     margin-left: 0;
     margin-right: 16px;
