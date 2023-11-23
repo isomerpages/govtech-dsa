@@ -56,21 +56,42 @@ h5.toc-title {
     font-size: 1rem;
 }
 ul.toc-links {
-    margin-top: 16px;
-    margin-bottom: 8px;
+    margin:16px 0;
     font-size: 1rem;
 }
 ul.toc-links li {
-    display: inline;
-    margin: 0 8px 0 0;
+    display: inline-block;
+    margin: 4px 8px 4px 0;
     padding-right: 8px;
     border-right: 1px solid #98A2B3;
-    font-size: 1rem;
+    font-size: 0.75rem;
     line-height: 1rem;
 }
 ul.toc-links li:last-child {
     border-right: 0;
 }
+a.backtotop {
+    display: block;
+    position: fixed;
+    z-index: 99;
+    background: #5A0F47;
+    color: #fff;
+    font-weight: 700;
+    font-size: 1rem;
+    right: 100px;
+    bottom: 10px;
+    text-decoration: none;
+    border-radius: 24px;
+    border:1px solid #dedede;
+    width:48px;
+    height:48px;
+    text-align:center;
+}
+    
+    a.backtotop:hover {
+        background:#B41E8E;
+        color:#dedede;
+    }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
 <p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
@@ -130,25 +151,15 @@ ul.toc-links li:last-child {
 <hr>
 <h4 id="occ-wog" class="has-text-centered">Outstanding Citizen Contributor (Whole-of-Government)</h4>
 <p>Citizens were nominated by agencies across the whole-of-government. After nominations closed, our panel of judges evaluated the nominees to select the top 3 nominations based on a matrix consisting of criteria such as impact, scale, effort, consistency, and contribution.</p>
-<div class="grid-container g-col-2">
+<div class="grid-container">
   <article class="media">
     <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
     <div class="media-content">
       <div class="content">
         <div class="winner">Dr. Chiew Tuan Kiang, <br>
-Nominated by IMDA</div>
+          Nominated by IMDA</div>
       </div>
-        <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
-    </div>
-  </article>
-  <article class="media">
-    <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
-    <div class="media-content">
-      <div class="content">
-        <div class="winner">Khoo Meng Kuan, <br>
-        Nominated by GovTech</div>
-      </div>
-      <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
+      <p>Dr. Chiew founded the Bukit Batok Smartphone Group as a Silver Infocomm Wellness Ambassador, helping seniors to transit to 3G smartphones and equipping the growing group of over 200 seniors with smartphone skills.</p>
     </div>
   </article>
   <article class="media">
@@ -161,11 +172,16 @@ Nominated by IMDA</div>
       <p>Inspired by the meaningful experience during a user testing session, Meng Kuan has dedicated her time to provide valuable feedback and made significant contributions by actively participating in user testing and survey sessions, across a variety of Tech products, to improve Government digital services for every Singaporean.</p>
     </div>
   </article>
-  <div class="col">
-    <div class="winner has-text-left">Wong Yue Heng &amp; Siddhaarth Dharani, <br>
-    Nominated by Nexus, MINDEF</div>
-    <p>Through the Total Defence (TD) Sandbox online submission, Yue Heng and Siddhaarth submitted a proposal to create a Tower Defence game, which helped Nexus, MINDEF to convey the 6 pillars of Total Defence to more than 5,000 Uniform Group cadets annually.</p>
-  </div>
+  <article class="media">
+    <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
+    <div class="media-content">
+      <div class="content">
+        <div class="winner">Wong Yue Heng &amp; Siddhaarth Dharani, <br>
+          Nominated by Nexus, MINDEF</div>
+      </div>
+      <p>Through the Total Defence (TD) Sandbox online submission, Yue Heng and Siddhaarth submitted a proposal to create a Tower Defence game, which helped Nexus, MINDEF to convey the 6 pillars of Total Defence to more than 5,000 Uniform Group cadets annually.</p>
+    </div>
+  </article>
 </div>
 <h4 id="occ-tk" class="has-text-centered">Outstanding Citizen Contributor (Tech Kaki)</h4>
 <p>Tech Kaki is a community established by GovTech that enables members of the public to provide valuable user feedback to enhance digital product offerings across various government agencies.</p>
@@ -363,3 +379,4 @@ Nominated by IMDA</div>
     </div>
   </article>
 </div>
+<a aria-label="Back to Top" href="#toc-panel" class="backtotop"><i class="sgds-icon sgds-icon-chevron-up"></i><br>Top</a>
