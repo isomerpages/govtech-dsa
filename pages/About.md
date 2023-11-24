@@ -20,4 +20,4 @@ In line with the theme, a new award category - "Outstanding Citizen Contributor"
 </div>
 <hr>
 <h3>Organising Team</h3>
-<p>The Digital Services Awards is organised by GovTech and supported by Smart Nation Singapore.</p>
+<p>The Digital Services Awards is organised by GovTech and supported by Smart Nation Group.</p>
