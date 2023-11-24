@@ -44,8 +44,8 @@ sections:
   - infobar:
       title: Congratulations to the Winners of 2023!
       subtitle: Latest News
-      description: The Top 10 nominees for Best Usability (Industry) and Best
-        Usability (Government) have been released!
+      description: Thank you for your dedication and good work in elevating digital
+        services standards across Singapore!
       button: Find out who they are
       url: winners/2023/
   - infopic:
