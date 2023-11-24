@@ -47,8 +47,8 @@ table#award_cat th {
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion4">
-    <label for="accordion4">When will this year's event be held? How can we sign up?</label>
-    <div><p>The event will be held on 24 November 2023. Members of the public can <a aria-label="Registration Link" href="https://go.gov.sg/dsa2023-reggss">register for the livestream here</a>.</p></div>
+    <label for="accordion4">When was the event held?</label>
+    <div><p>The event was held on 24 November 2023.</p></div>
   </li>
 </ul>
 <h3>Nominations</h3>
@@ -116,7 +116,7 @@ table#award_cat th {
             <td>Outstanding Citizen Contributor</td>
             <td>Citizen</td>
             <td><p>Whole-of-Government nominated: 1 August 2022 to 31 July 2023</p>
-							Tech Kaki and CrowdTaskSG: 1 January 2023 to 30 September 2023</td>
+			Tech Kaki and CrowdTaskSG: 1 January 2023 to 30 September 2023</td>
           </tr>
           <tr>
             <td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
