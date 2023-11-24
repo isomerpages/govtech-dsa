@@ -17,5 +17,5 @@ variant: markdown
   <div class="col is-12 has-text-centered">
     <h4><strong>The livestream has ended.</strong></h4>
     <p>Watch out for Digital Services Award 2024. Stay tuned!</p>
-    <a class="bp-button is-primary is-uppercase" href="winners/2023/">Check out our 2023 winners</a> </div>
+    <a class="bp-button is-primary is-uppercase" href="/winners/2023/">Check out our 2023 winners</a> </div>
 </div>
