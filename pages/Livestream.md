@@ -35,7 +35,7 @@ a.bp-button:hover {
 </style>
 <div class="has-text-left">
   <div class="video-wrapper">
-    <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/6ShwOeNIrSU?si=ObjjaTxtaGIt-ff1" class="responsive-iframe"></iframe>
+    <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/h2zLNlFI-e4?si=JNTTAzq3yO-bDGER" class="responsive-iframe"></iframe>
   </div>
   <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
   <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
