@@ -6,10 +6,10 @@ links:
     url: /award-categories/
   - title: Evaluation
     collection: evaluation
-  - title: Finalists
-    url: /2023-finalists/
   - title: Winners
     collection: winners
+  - title: Finalists
+    url: /2023-finalists/
   - title: Livestream
     url: /livestream
   - title: FAQ

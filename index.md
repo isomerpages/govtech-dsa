@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/dsa2023_webbanner2_2.jpg
-      button: Watch Livestream
-      url: /livestream/
+      button: Find out who they are
+      url: /winners/2023/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,7 +22,7 @@ sections:
           description: Best Usability Top 10 Websites
           url: /2023-finalists/
       variant: center
-      title: Celebrate, Vote & Win Prizes Today!
+      title: Congratulations Award Winners!
       backgroundColor: gray
       alignment: right
       size: sm
@@ -42,12 +42,12 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Top 10 Announced
+      title: Congratulations to the Winners of 2023!
       subtitle: Latest News
-      description: The Top 10 nominees for Best Usability (Industry) and Best
-        Usability (Government) have been released!
+      description: Thank you for your dedication and good work in elevating digital
+        services standards across Singapore!
       button: Find out who they are
-      url: /2023-finalists
+      url: winners/2023/
   - infopic:
       title: Our Industry Partners
       image: /images/partners logos.png
