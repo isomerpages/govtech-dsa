@@ -145,7 +145,7 @@ a.backtotop:hover {
     <p class="margin--top--none"><a href="https://cpf.gov.sg" target="_blank">https://cpf.gov.sg</a></p>
   </div>
   <div class="col is-4">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img src="/images/industry_dbs.png" alt=""></figure>
   </div>
   <div class="col is-8">
     <div class="classification">Industry</div>
