@@ -168,7 +168,7 @@ a.backtotop:hover {
   </div>
     
 </div>
-<h4 class="has-text-centered">Most Popular Informational Websites (Government)</h4>
+<h4 class="has-text-centered">Most Popular Informational Websites (Industry)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img src="/images/industry_dbs.png" alt=""></figure>
