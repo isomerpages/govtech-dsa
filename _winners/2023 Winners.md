@@ -187,6 +187,7 @@ a.backtotop:hover {
     <figure class="image is-5by4 margin--none"><img src="/images/industry_dbs.png" alt=""></figure>
   </div>
   <div class="col is-9">
+      <div class="classification">Winner</div>
     <div class="winner has-text-left">DBS Website</div>
     <p class="margin--top--none"><a href="https://dbs.com/default.page" target="_blank">https://dbs.com/default.page</a></p>
   </div>
