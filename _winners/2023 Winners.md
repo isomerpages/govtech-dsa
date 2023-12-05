@@ -125,10 +125,10 @@ a.backtotop:hover {
     <div class="winner has-text-left">MOE Corporate Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-5">
     <div class="winner has-text-left">CPF Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://cpf.gov.sg">https://cpf.gov.sg</a></p>
   </div>
@@ -148,10 +148,10 @@ a.backtotop:hover {
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-5">
     <div class="winner has-text-left">Guide Dogs Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://guidedogs.org.sg">https://guidedogs.org.sg</a></p>
   </div>
@@ -170,10 +170,10 @@ a.backtotop:hover {
     <div class="winner has-text-left">CPF Website</div>
     <p class="margin--top--none"><a href="https://cpf.gov.sg" target="_blank">https://cpf.gov.sg</a></p>
   </div>
-    <div class="col is-4">
+    <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-5">
     <div class="winner has-text-left">IMDA Corporate Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://imda.gov.sg">https://imda.gov.sg</a></p>
   </div>
@@ -191,10 +191,10 @@ a.backtotop:hover {
     <div class="winner has-text-left">DBS Website</div>
     <p class="margin--top--none"><a href="https://dbs.com/default.page" target="_blank">https://dbs.com/default.page</a></p>
   </div>
-    <div class="col is-4">
+    <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
-  <div class="col is-4">
+  <div class="col is-5">
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div>
