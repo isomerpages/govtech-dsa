@@ -125,7 +125,7 @@ a.backtotop:hover {
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
   <div class="col is-4">
-      <p><strong>Honourable Mention</strong></p>
+    <p><strong>Honourable Mention</strong></p>
   </div>
   <div class="col is-4">
     <div class="winner has-text-left">CPF Website</div>
@@ -145,8 +145,8 @@ a.backtotop:hover {
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div>
-      <div class="col is-4">
-      <p><strong>Honourable Mention</strong></p>
+  <div class="col is-4">
+    <p><strong>Honourable Mention</strong></p>
   </div>
   <div class="col is-4">
     <div class="winner has-text-left">Guide Dogs Website</div>
@@ -166,7 +166,17 @@ a.backtotop:hover {
     <div class="winner has-text-left">CPF Website</div>
     <p class="margin--top--none"><a href="https://cpf.gov.sg" target="_blank">https://cpf.gov.sg</a></p>
   </div>
-    
+    <div class="col is-4">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">IMDA Corporate Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://imda.gov.sg">https://imda.gov.sg</a></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">ICA Corporate Website</div>
+    <p class="margin--top--none"><a target="_blank" href="http://ica.gov.sg">http://ica.gov.sg</a></p>
+  </div>
 </div>
 <h4 class="has-text-centered">Most Popular Informational Websites (Industry)</h4>
 <div class="row is-multiline">
@@ -176,6 +186,17 @@ a.backtotop:hover {
   <div class="col is-9">
     <div class="winner has-text-left">DBS Website</div>
     <p class="margin--top--none"><a href="https://dbs.com/default.page" target="_blank">https://dbs.com/default.page</a></p>
+  </div>
+    <div class="col is-4">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">Gardens by the Bay Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">The Smart Local Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://thesmartlocal.com">https://thesmartlocal.com</a></p>
   </div>
 </div>
 <hr>
