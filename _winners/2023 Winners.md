@@ -133,8 +133,7 @@ a.backtotop:hover {
     <p class="margin--top--none"><a target="_blank" href="https://cpf.gov.sg">https://cpf.gov.sg</a></p>
   </div>
   <div class="col is-4">
-      <div class="classification">Winner</div>
-    <div class="winner has-text-left">MOE Corporate Website</div>
+    <div class="winner has-text-left">IRAS Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://iras.gov.sg">https://iras.gov.sg</a></p>
   </div>
 </div>
@@ -194,7 +193,7 @@ a.backtotop:hover {
     <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
-  <div class="col is-5">
+  <div class="col is-4">
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div>
