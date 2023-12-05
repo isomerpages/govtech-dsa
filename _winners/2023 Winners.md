@@ -159,7 +159,7 @@ a.backtotop:hover {
     <p class="margin--top--none"><a target="_blank" href="www.pathlight.org.sg">www.pathlight.org.sg</a></p>
   </div>
 </div>
-<h4 id="popular" class="has-text-centered">Most Popular Informational Websites (Government)</h4>
+<h4 id="popular" class="has-text-centered">Most Popular Informational Website (Government)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img src="/images/gov_cpf.png" alt=""></figure>
@@ -181,7 +181,7 @@ a.backtotop:hover {
     <p class="margin--top--none"><a target="_blank" href="http://ica.gov.sg">http://ica.gov.sg</a></p>
   </div>
 </div>
-<h4 class="has-text-centered">Most Popular Informational Websites (Industry)</h4>
+<h4 class="has-text-centered">Most Popular Informational Website (Industry)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img src="/images/industry_dbs.png" alt=""></figure>
