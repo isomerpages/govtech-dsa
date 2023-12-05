@@ -115,42 +115,92 @@ a.backtotop:hover {
     <li><a href="#seo">Best Search Engine Optimisation (SEO)</a></li>
   </ul>
 </div>
-<h4 id="bu" class="has-text-centered">Best Usability</h4>
+<h4 id="bu" class="has-text-centered">Best Usability (Government)</h4>
 <div class="row is-multiline">
-  <div class="col is-4">
+  <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img alt="" src="/images/gov_moe.png"></figure>
   </div>
-  <div class="col is-8">
-    <div class="classification">Government</div>
+  <div class="col is-9">
+      <div class="classification">Winner</div>
     <div class="winner has-text-left">MOE Corporate Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://moe.gov.sg">https://moe.gov.sg</a></p>
   </div>
+  <div class="col is-3">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-5">
+    <div class="winner has-text-left">CPF Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://cpf.gov.sg">https://cpf.gov.sg</a></p>
+  </div>
   <div class="col is-4">
+    <div class="winner has-text-left">IRAS Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://iras.gov.sg">https://iras.gov.sg</a></p>
+  </div>
+</div>
+<h4 class="has-text-centered">Best Usability (Industry)</h4>
+<div class="row is-multiline">
+  <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img alt="" src="/images/industry_gbtb.png"></figure>
   </div>
-  <div class="col is-8">
-    <div class="classification">Industry</div>
+  <div class="col is-9">
+      <div class="classification">Winner</div>
     <div class="winner has-text-left">Gardens by the Bay Website</div>
     <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
   </div>
-</div>
-<h4 id="popular" class="has-text-centered">Most Popular Informational Websites</h4>
-<div class="row is-multiline">
+  <div class="col is-3">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-5">
+    <div class="winner has-text-left">Guide Dogs Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://guidedogs.org.sg">https://guidedogs.org.sg</a></p>
+  </div>
   <div class="col is-4">
+    <div class="winner has-text-left">Pathlight School Website</div>
+    <p class="margin--top--none"><a target="_blank" href="www.pathlight.org.sg">www.pathlight.org.sg</a></p>
+  </div>
+</div>
+<h4 id="popular" class="has-text-centered">Most Popular Informational Website (Government)</h4>
+<div class="row is-multiline">
+  <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img src="/images/gov_cpf.png" alt=""></figure>
   </div>
-  <div class="col is-8">
-    <div class="classification">Government</div>
+  <div class="col is-9">
+      <div class="classification">Winner</div>
     <div class="winner has-text-left">CPF Website</div>
     <p class="margin--top--none"><a href="https://cpf.gov.sg" target="_blank">https://cpf.gov.sg</a></p>
   </div>
+    <div class="col is-3">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-5">
+    <div class="winner has-text-left">IMDA Corporate Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://imda.gov.sg">https://imda.gov.sg</a></p>
+  </div>
   <div class="col is-4">
+    <div class="winner has-text-left">ICA Corporate Website</div>
+    <p class="margin--top--none"><a target="_blank" href="http://ica.gov.sg">http://ica.gov.sg</a></p>
+  </div>
+</div>
+<h4 class="has-text-centered">Most Popular Informational Website (Industry)</h4>
+<div class="row is-multiline">
+  <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img src="/images/industry_dbs.png" alt=""></figure>
   </div>
-  <div class="col is-8">
-    <div class="classification">Industry</div>
+  <div class="col is-9">
+      <div class="classification">Winner</div>
     <div class="winner has-text-left">DBS Website</div>
     <p class="margin--top--none"><a href="https://dbs.com/default.page" target="_blank">https://dbs.com/default.page</a></p>
+  </div>
+    <div class="col is-3">
+    <p><strong>Honourable Mention</strong></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">Gardens by the Bay Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://gardensbythebay.com.sg</a></p>
+  </div>
+  <div class="col is-4">
+    <div class="winner has-text-left">The Smart Local Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://thesmartlocal.com">https://thesmartlocal.com</a></p>
   </div>
 </div>
 <hr>
