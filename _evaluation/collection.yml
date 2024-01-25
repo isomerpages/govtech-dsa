@@ -1,0 +1,8 @@
+collections:
+  evaluation:
+    output: true
+    order:
+      - Eligibility.md
+      - Evaluation Process.md
+      - Judges.md
+      - Submit Nomination.md

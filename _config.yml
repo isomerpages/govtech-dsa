@@ -1,0 +1,60 @@
+title: Digital Services Awards 2023
+url: https://digitalservicesawards.gov.sg
+favicon: /images/dsa2023_rgb.svg
+colors:
+  primary-color: "#b41e8e"
+  secondary-color: "#f47920"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: Digital Services Awards 2023 organised by Whole Of Government
+  Application Analytics (WOGAA)
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.dinuub7nyuhl8.amplifyapp.com
+prod: https://master.dinuub7nyuhl8.amplifyapp.com
+shareicon: /images/dsa2023_rgb.svg
+is_government: true
+facebook-pixel: "3412948792297540"
+google_analytics: ""
+google_analytics_ga4: G-GWSXGDF4QD
+linkedin-insights: "4391106"
