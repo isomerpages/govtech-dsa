@@ -1,6 +1,6 @@
 title: Digital Services Awards 2023
 url: https://digitalservicesawards.gov.sg
-favicon: /images/dsa2023_rgb.svg
+favicon: /images/dsa_logo.png
 colors:
   primary-color: "#b41e8e"
   secondary-color: "#f47920"
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Digital Services Awards 2023 organised by Whole Of Government
+description: Digital Services Awards 2023 organised by Whole-of-Government
   Application Analytics (WOGAA)
 permalink: none
 baseurl: ""
