@@ -2,4 +2,5 @@ collections:
   award-categories:
     output: true
     order:
+      - Industry Awards.md
       - Overview.md
