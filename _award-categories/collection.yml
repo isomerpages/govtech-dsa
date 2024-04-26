@@ -2,7 +2,7 @@ collections:
   award-categories:
     output: true
     order:
-      - Citizen Award.md
-      - Government Awards.md
-      - Industry Awards.md
       - Overview.md
+      - Industry Awards.md
+      - Government Awards.md
+      - Citizen Award.md
