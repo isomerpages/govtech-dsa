@@ -18,7 +18,7 @@ the awards acknowledge and celebrate the comprehensive achievements of
 digital services.</p>
 <h3>Agency Champions of WOGAA (ACW)</h3>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Agency Champions of WOGAA logo" src="/images/acw_logo.svg">
+<img style="width: 25%;" height="auto" width="100%" alt="Agency Champions of WOGAA logo" src="/images/acw_logo.svg">
 </div>
 <p>Apart from the award presentations, the top 10% of Agency Champions of
 WOGAA (ACW) will also be recognised as Superstar Champions during the ceremony,
