@@ -16,13 +16,13 @@ description: ""
     <h4>[New!] Most Mobile Optimised Website</h4>
     <p>This new award category recognises the Informational Website that delivers the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
   </div>
-  <div class="col is-1"><img alt="" src="/images/icn_usability.svg"></div>
-  <div class="col is-11">
+  <div class="col is-2"><img alt="" src="/images/icn_usability.svg"></div>
+  <div class="col is-10">
     <h4>Best Usability</h4>
     <p>This award recognises the Informational Website that demonstrates exceptional usability across dimensions such as ease of use, usefulness and satisfaction. The recipient is determined through a combination of expert evaluation by a panel of judges and comprehensive assessment by citizens..</p>
   </div>
-  <div class="col is-1"><img alt="" src="/images/icn_popularis.svg"></div>
-  <div class="col is-11">
+  <div class="col is-2"><img alt="" src="/images/icn_popularis.svg"></div>
+  <div class="col is-10">
     <h4>Most Popular Informational Website</h4>
     <p>This award recognises the most popular Informational Website determined by live event voting during the award ceremony.</p>
   </div>
