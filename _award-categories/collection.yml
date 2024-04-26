@@ -1,4 +1,5 @@
 collections:
   award-categories:
     output: true
-    order: []
+    order:
+      - Award Categories.md
