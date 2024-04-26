@@ -33,6 +33,12 @@ sections:
       button: Read more about us
       url: /about-digital-services-awards/
   - infopic:
+      title: Why Enter?
+      id: infopic
+      description: Join DSA to showcase achievements, gain industry recognition, and
+        boost your digital credibility.
+      alt: Image alt text
+  - infopic:
       title: Award Categories
       description: The award categories have been thoughtfully crafted to provide
         holistic recognition by encompassing both technical and qualitative
@@ -48,9 +54,4 @@ sections:
         services standards across Singapore!
       button: Find out who they are
       url: winners/2023/
-  - infopic:
-      title: Our Industry Partners
-      image: /images/partners logos.png
-      alt: Our Industry Partners Logos
-      description: Valued partners supporting the Digital Services Awards.
 ---
