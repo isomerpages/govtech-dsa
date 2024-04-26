@@ -3,7 +3,7 @@ url: https://digitalservicesawards.gov.sg
 favicon: /images/dsa_favicon.svg
 colors:
   primary-color: "#730060"
-  secondary-color: "#f47920"
+  secondary-color: "#d97920"
   media-colors:
     - title: media-color-one
       color: "#49759a"
