@@ -18,9 +18,9 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: View Finalists
-          description: Best Usability Top 10 Websites
-          url: /2023-finalists/
+        - title: 2023 Winners
+          description: Congratulations award winners
+          url: /winners/2023/
       variant: center
       title: Congratulations Award Winners!
       backgroundColor: gray
