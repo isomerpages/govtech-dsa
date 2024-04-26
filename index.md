@@ -48,10 +48,8 @@ sections:
       image: /images/awards.jpg
       url: /award-categories/
   - infobar:
-      title: Congratulations to the Winners of 2023!
+      title: What's new in 2024?
       subtitle: Latest News
-      description: Thank you for your dedication and good work in elevating digital
-        services standards across Singapore!
-      button: Find out who they are
-      url: winners/2023/
+      description: "New award categories: Most Mobile Optimised Website (Government
+        and Industry), Most User-Centric Website (Government)"
 ---
