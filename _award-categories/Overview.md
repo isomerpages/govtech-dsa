@@ -6,10 +6,11 @@ variant: tiptap
 ---
 <p>Introducing a thoughtfully curated selection of award categories, each
 meticulously designed to provide holistic recognition.</p>
-<p>The Digital Services Awards features three distinct segments: Government,
-Industry and Citizen awards, to celebrate a comprehensive range of digital
-service excellence. A significant portion of the Government awards is dedicated
-to recognising technical excellence, powered by the <a href="https://wogaa.sg/" rel="noopener noreferrer nofollow" target="_blank">Whole-of-Government Application Analytics (WOGAA</a> platform,
+<p>The Digital Services Awards features three distinct segments: <a href="/government-awards/" rel="noopener noreferrer nofollow" target="_blank">Government</a>,
+<a href="/industry-awards/" rel="noopener noreferrer nofollow" target="_blank">Industy</a>and <a href="/citizen-award/" rel="noopener noreferrer nofollow" target="_blank">Citizen</a> awards,
+to celebrate a comprehensive range of digital service excellence. A significant
+portion of the Government awards is dedicated to recognising technical
+excellence, powered by the <a href="https://wogaa.sg/" rel="noopener noreferrer nofollow" target="_blank">Whole-of-Government Application Analytics (WOGAA</a> platform,
 which tracks and recommends enhancements for government websites.</p>
 <p>The Digital Services Awards also recognises qualitative excellence that
 acknowledge factors beyond technical proficiency, such as user experience
