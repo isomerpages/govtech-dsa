@@ -2,6 +2,7 @@
 title: Eligibility
 permalink: /eligibility/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .content h4 {
@@ -9,7 +10,7 @@ description: ""
     font-weight: 700;
 }
 </style>
-<h4><p>Nominations for the Best Usability and Most Popular Informational Website awards are now closed. </p><p>Nominations will open again in mid-2024. Stay tuned!</p></h4>
+<h4>Nominations will open soon. Stay tuned!</h4>
 <hr>
 <h3>Eligibility</h3>
 To enter the Best Usability (Industry) and Most Popular Informational Website (Industry) awards, the nominated websites will need to adhere to the following criteria:
@@ -32,4 +33,3 @@ To enter the Best Usability (Industry) and Most Popular Informational Website (I
 <p><strong style="color:#B41E8E;">Safety</strong><br>
   No obscene, illegal, socially harmful websites will be entertained.</p>
 <p><strong>For more details about the evaluation criteria, please visit the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>
-<p>Nominations for Best Usability has <strong>closed</strong>.</p>
