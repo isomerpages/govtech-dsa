@@ -2,5 +2,6 @@ collections:
   award-categories:
     output: true
     order:
+      - Government Awards.md
       - Industry Awards.md
       - Overview.md
