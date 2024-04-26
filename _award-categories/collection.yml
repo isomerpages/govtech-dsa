@@ -2,4 +2,4 @@ collections:
   award-categories:
     output: true
     order:
-      - Award Categories.md
+      - Overview.md
