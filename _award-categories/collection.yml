@@ -1,0 +1,4 @@
+collections:
+  award-categories:
+    output: true
+    order: []
