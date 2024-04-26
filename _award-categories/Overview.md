@@ -16,7 +16,7 @@ acknowledge factors beyond technical proficiency, such as user experience
 and subjective visual distinctions. This balanced approach ensures that
 the awards acknowledge and celebrate the comprehensive achievements of
 digital services.</p>
-<h3>Agency Champions of WOGAA (ACW) </h3>
+<h3>Agency Champions of WOGAA (ACW)</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Agency Champions of WOGAA logo" src="/images/acw_logo.svg">
 </div>
@@ -27,4 +27,3 @@ for their valuable efforts in improving government digital services.</p>
 encourages knowledge sharing to enhance government digital services. Champions
 participate in quarterly meetups that provide them insights, updates, and
 best practices to elevate their websites and digital services.</p>
-<p></p>
