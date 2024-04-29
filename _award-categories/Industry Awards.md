@@ -12,7 +12,8 @@ description: ""
 </style>
 <p>The following award categories recognise industry leaders for their exceptional performance in delivering top-notch digital experiences through their Informational Websites:</p>
 <div class="row is-multiline">
-  <div class="col is-12">
+	<div class="col is-2"><img alt="" src="/images/icn_mobile_optimised.svg"></div>
+  <div class="col is-10">
     <h4>[New!] Most Mobile Optimised Website</h4>
     <p>This new award category recognises the Informational Website that delivers the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
   </div>
