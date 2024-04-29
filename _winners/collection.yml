@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2023 Finalists.md
       - 2023 Winners.md
       - 2022 Winners.md
       - 2021 Winners.md
