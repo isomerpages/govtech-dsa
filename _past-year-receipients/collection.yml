@@ -1,0 +1,4 @@
+collections:
+  past-year-receipients:
+    output: true
+    order: []
