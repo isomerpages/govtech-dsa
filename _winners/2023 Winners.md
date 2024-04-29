@@ -99,7 +99,7 @@ a.backtotop:hover {
 }
 </style>
 <div><img alt="Congratulations to our winners!" src="/images/congrats_banner.png"></div>
-<p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/award-categories/">Award Categories.</a></p>
+<p>Thank you to our panel of judges, attendees and citizens who have nominated and voted to make this event a success. For more information on the details on each category and agency classification, please go to our page on <a aria-label="Link to Award Categories page" href="/overview/">Award Categories.</a></p>
 <div role="navigation" id="toc-panel">
   <h5 class="toc-title">Skip to section:</h5>
   <ul class="toc-links">
