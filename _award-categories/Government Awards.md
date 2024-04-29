@@ -12,7 +12,8 @@ description: ""
 </style>
 <p>The following award categories celebrate excellence in digital services across government agencies and their outstanding performance on their Informational Websites.</p>
 <div class="row is-multiline">
-  <div class="col is-12">
+  <div class="col is-2"><img alt="" src="/images/icn_usercentric.svg"></div>
+	<div class="col is-10">
     <h4>[New!] Most User-Centric Website</h4>
     <p>This new award category recognises the Informational Website that delivers the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
   </div>
