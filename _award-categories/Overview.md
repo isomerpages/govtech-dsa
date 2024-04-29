@@ -22,5 +22,5 @@ variant: markdown
     <p>Apart from the award presentations, the top 10% of Agency Champions of WOGAA (ACW) will also be recognised as Superstar Champions during the ceremony, for their valuable efforts in improving government digital services.</p>
     <p>ACW is an annual programme that promotes web analytics excellence and encourages knowledge sharing to enhance government digital services. Champions participate in quarterly meetups that provide them insights, updates, and best practices to elevate their websites and digital services. </p>
   </div>
-  <div class="col is-4"><img alt="Agency Champions of WOGAA logo" src="/images/acw-logo.svg"></div>
+  <div class="col is-4"><img alt="Agency Champions of WOGAA logo" src="/images/acw_logo.svg"></div>
 </div>
