@@ -33,14 +33,13 @@ variant: markdown
 </style>
 
 <div>
-	<p>Congratulations to the <strong>Top 10 Best Usability nominees</strong> from the public and private sector!</p>
-		
-<p>The <a aria-label="Link to Judges" href="/judges/">panel of judges</a> have evaluated the Top 10 nominations to determine the Top 3. The Top 3 has also been assessed by 100 members of the public from all walks of life, to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
-
-<p><strong>All Top 10 nominees will automatically be entered into the running for Most Popular Informational Website (Industry/Government), where the winner will be determined through live voting during the Awards ceremony on 24 November 2023. </strong></p>
+	<p>Get ready to meet the newest lineup of finalists for the Digital Services Awards 2024! Stay tuned for updates and announcements.</p>
+  <p>Congratulations to the Top 10 Best Usability nominees of the Digital Services Awards 2023 from the public and private sector!</p>
+	<p>After careful evaluation by the <a aria-label="Link to Judges" href="/judges/">panel of export judges</a>s, the Top 3 finalists will be selected. These finalists will undergo further assessment by a diverse group of 100 members of the public to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
+  <p><strong id="docs-internal-guid-4c9a6648-7fff-b89c-5d9f-468b576d09a3">All Top 10 nominees are automatically entered into the running for Most Popular Informational Website (Industry/Government) award</strong><strong>. </strong></p>
     <p><strong><a aria-label="Link to 2023 Winners" href="/winners/2023/">View our 2023 winners</a></strong></p>
 </div>
-
+<h3>2023 Finalists</h3>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
 <div class="grid-container">
 	<div class="content">
