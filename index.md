@@ -38,6 +38,7 @@ sections:
       description: Join DSA to showcase achievements, gain industry recognition, and
         boost your digital credibility.
       alt: Image alt text
+      image: /images/why_enter.jpg
   - infopic:
       title: Award Categories
       description: The award categories have been thoughtfully crafted to provide
