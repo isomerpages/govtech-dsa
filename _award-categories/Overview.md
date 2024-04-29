@@ -15,8 +15,6 @@ variant: markdown
 <p>The Digital Services Awards also recognises qualitative excellence that acknowledge factors beyond technical proficiency, such as user experience and subjective visual distinctions. This balanced approach ensures that the awards acknowledge and celebrate the comprehensive achievements of digital services.</p>
 <hr>
 <h3>Agency Champions of WOGAA (ACW) </h3>
-<p>Apart from the award presentations, the top 10% of Agency Champions of WOGAA (ACW) will also be recognised as Superstar Champions during the ceremony, for their valuable efforts in improving government digital services.</p>
-<p>ACW is an annual programme that promotes web analytics excellence and encourages knowledge sharing to enhance government digital services. Champions participate in quarterly meetups that provide them insights, updates, and best practices to elevate their websites and digital services.</p>
 <div class="row is-multiline">
   <div class="col is-8">
     <p>Apart from the award presentations, the top 10% of Agency Champions of WOGAA (ACW) will also be recognised as Superstar Champions during the ceremony, for their valuable efforts in improving government digital services.</p>
