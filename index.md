@@ -22,7 +22,7 @@ sections:
           description: Congratulations award winners
           url: /winners/2023/
       variant: center
-      title: Congratulations Award Winners!
+      title: Congratulations 2023 Award Winners!
       backgroundColor: gray
       alignment: right
       size: sm
