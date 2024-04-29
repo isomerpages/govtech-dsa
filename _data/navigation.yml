@@ -2,10 +2,12 @@ logo: /images/dsa_logo.png
 links:
   - title: About
     url: /about-digital-services-awards
-  - title: Award Categories
+  - title: Categories
     collection: award-categories
   - title: Evaluation
     collection: evaluation
+  - title: Judges
+    url: /judges
   - title: Winners
     collection: winners
   - title: Finalists
@@ -14,5 +16,5 @@ links:
     url: /livestream
   - title: FAQ
     url: /faq
-  - title: Contact Us
+  - title: Contact
     url: /contact-us
