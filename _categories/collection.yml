@@ -1,5 +1,5 @@
 collections:
-  award-categories:
+  categories:
     output: true
     order:
       - Overview.md
