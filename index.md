@@ -41,9 +41,9 @@ sections:
       image: /images/why_enter.jpg
   - infopic:
       title: Award Categories
-      description: The award categories have been thoughtfully crafted to provide
-        holistic recognition by encompassing both technical and qualitative
-        awards.
+      description: The award categories are meticulously crafted to offer
+        comprehensive recognition, covering both technical and qualitative
+        excellence.
       button: See all categories
       alt: Image alt text
       image: /images/awards2.jpg
