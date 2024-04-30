@@ -81,7 +81,7 @@ table#award_cat th {
     <label for="accordion8">How are the winners selected?</label>
     <div>
       <p> Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators. </p>
-      <p> For more details about the award categories, please visit <a aria-label="Link to Evaluation Process and Criteria" href="/award-categories/">Award Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
+      <p> For more details about the award categories, please visit <a aria-label="Link to Award Categories section" href="/overview/">Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
       <p><strong>Stay tuned for more details about the award categories, evaluation process and criteria!</strong></p>
     </div>
   </li>
@@ -115,13 +115,13 @@ table#award_cat th {
           <tr>
             <td>Outstanding Citizen Contributor</td>
             <td>Citizen</td>
-            <td><p>Whole-of-Government nominated: 1 August 2023 to 31 July 2024</p>
-			Tech Kaki and CrowdTaskSG: 1 January 2024 to 30 September 2024</td>
+            <td><p>Whole-of-Government nominated: 1 August 2023 to 31 July 2024.</p>
+			Tech Kaki and CrowdTaskSG: 1 January 2024 to 30 September 2024.</td>
           </tr>
           <tr>
             <td>Best Customer Satisfaction for Transactional Services (TS CSAT)</td>
             <td>Government</td>
-            <td>1 April 2024 to 1 November 2024</td>
+            <td>1 April 2024 to 1 November 2024.</td>
           </tr>
           <tr>
             <td>Best Search Engine Optimisation (SEO)</td>
@@ -139,7 +139,7 @@ table#award_cat th {
           <tr>
             <td>Best Improvement</td>
             <td>Government</td>
-            <td>Snapshots of pages on 1 April 2024 and 1 October 2024 will be scanned by WOGAA</td>
+            <td>Snapshots of pages on 1 April 2024 and 1 October 2024 will be scanned by WOGAA.</td>
           </tr>
         </tbody>
       </table>
