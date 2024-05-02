@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Digital Services Awards 2023
-description: Digital Services Awards 2023 organised by Whole-of-Government
+title: Digital Services Awards
+description: Digital Services Awards 2024 organised by Whole-of-Government
   Application Analytics (WOGAA)
 image: /images/dsa2023_rgb.svg
 permalink: /
@@ -18,11 +18,11 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: View Finalists
-          description: Best Usability Top 10 Websites
-          url: /2023-finalists/
+        - title: 2023 Winners
+          description: Congratulations award winners
+          url: /winners/2023/
       variant: center
-      title: Congratulations Award Winners!
+      title: Congratulations 2023 Award Winners!
       backgroundColor: gray
       alignment: right
       size: sm
@@ -34,23 +34,16 @@ sections:
       url: /about-digital-services-awards/
   - infopic:
       title: Award Categories
-      description: The award categories have been thoughtfully crafted to provide
-        holistic recognition by encompassing both technical and qualitative
-        awards.
+      description: The award categories are meticulously crafted to offer
+        comprehensive recognition, covering both technical and qualitative
+        excellence.
       button: See all categories
       alt: Image alt text
-      image: /images/awards.jpg
+      image: /images/awards2.jpg
       url: /award-categories/
   - infobar:
-      title: Congratulations to the Winners of 2023!
+      title: What's new in 2024?
       subtitle: Latest News
-      description: Thank you for your dedication and good work in elevating digital
-        services standards across Singapore!
-      button: Find out who they are
-      url: winners/2023/
-  - infopic:
-      title: Our Industry Partners
-      image: /images/partners logos.png
-      alt: Our Industry Partners Logos
-      description: Valued partners supporting the Digital Services Awards.
+      description: "New award categories: Most Mobile Optimised Website (Government
+        and Industry), Most User-Centric Website (Government)."
 ---

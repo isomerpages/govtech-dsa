@@ -1,0 +1,8 @@
+collections:
+  categories:
+    output: true
+    order:
+      - Overview.md
+      - Industry Awards.md
+      - Government Awards.md
+      - Citizen Award.md

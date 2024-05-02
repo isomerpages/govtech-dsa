@@ -19,9 +19,10 @@ figure.bp-image.is-square {
 	border:1px solid #dedede;
 }
 </style>
-<p>The judges exhibit mastery in a wide range of domains across user experience, product management, software engineering and social impact.
-
-Find out more about them below.</p>
+<h2><strong>2024 Judges</strong></h2>
+<p>Stay tuned for updates on this year's panel!</p>
+<hr>
+<h2><strong>2023 Judges</strong></h2>
 <h3>Best Usability (Industry) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
