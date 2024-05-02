@@ -20,7 +20,7 @@ figure.bp-image.is-square {
 }
 </style>
 <h2><strong>2024 Judges</strong></h2>
-<p>Stay tuned for updates on this year's panel, each member bringing expertise in user experience, product management, and software engineering to help shape the future of digital service excellence!</p>
+<p>Stay tuned for updates on this year's panel!</p>
 <hr>
 <h2><strong>2023 Judges</strong></h2>
 <h3>Best Usability (Industry) Award</h3>
