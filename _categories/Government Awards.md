@@ -60,5 +60,5 @@ description: ""
     <h4>Best Improvement</h4>
     <p>This award recognises agencies that have made remarkable progress in Functionality components, achieving the most significant overall score improvements from the start to the end of the qualifying period. The score is calculated as the average percentage improvement for each of the three components.</p>
   </div>
-    <p>Public officers can view government agency rankings and find out more about the award categories on <a target="_blank" href="https://wogaa.sg/digital-service-award/">WOGAA</a>.</p>
+    <p>*Public officers can view government agency rankings and find out more about the award categories on <a target="_blank" href="https://wogaa.sg/digital-service-award/">WOGAA</a>.</p>
 </div>
