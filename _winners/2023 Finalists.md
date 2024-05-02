@@ -35,7 +35,7 @@ variant: markdown
 <div>
 	<p>Get ready to meet the newest lineup of finalists for the Digital Services Awards 2024! Stay tuned for updates and announcements.</p>
   <p>Congratulations to the Top 10 Best Usability nominees of the Digital Services Awards 2023 from the public and private sector!</p>
-	<p>After careful evaluation by the <a aria-label="Link to Judges" href="/judges/">panel of export judges</a>s, the Top 3 finalists will be selected. These finalists will undergo further assessment by a diverse group of 100 members of the public to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
+	<p>After careful evaluation by the <a aria-label="Link to Judges" href="/judges/">panel of export judges</a>, the Top 3 finalists will be selected. These finalists will undergo further assessment by a diverse group of 100 members of the public to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
   <p><strong id="docs-internal-guid-4c9a6648-7fff-b89c-5d9f-468b576d09a3">All Top 10 nominees are automatically entered into the running for Most Popular Informational Website (Industry/Government) award</strong><strong>. </strong></p>
     <p><strong><a aria-label="Link to 2023 Winners" href="/winners/2023/">View our 2023 winners</a></strong></p>
 </div>
