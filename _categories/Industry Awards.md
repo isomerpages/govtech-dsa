@@ -20,7 +20,7 @@ description: ""
   <div class="col is-2"><img alt="" src="/images/icn_usability.svg"></div>
   <div class="col is-10">
     <h4>Best Usability</h4>
-    <p>This award recognises the Informational Website that demonstrates exceptional usability across dimensions such as ease of use, usefulness and satisfaction. The recipient is determined through a combination of expert evaluation by a panel of judges and comprehensive assessment by citizens..</p>
+    <p>This award recognises the Informational Website that demonstrates exceptional usability across dimensions such as ease of use, usefulness and satisfaction. The recipient is determined through a combination of expert evaluation by a panel of judges and comprehensive assessment by citizens.</p>
   </div>
   <div class="col is-2"><img alt="" src="/images/icn_popularis.svg"></div>
   <div class="col is-10">
