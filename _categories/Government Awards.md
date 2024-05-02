@@ -15,7 +15,7 @@ description: ""
   <div class="col is-2"><img alt="" src="/images/icn_mobile_optimised.svg"></div>
   <div class="col is-10">
     <h4>[New!] Most Mobile Optimised Website</h4>
-    <p>This award category recognises the Government Informational Website that deliver the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
+    <p>This award category recognises the Government Informational Website that delivers the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
   </div>
     <div class="col is-2"><img alt="" src="/images/icn_usercentric.svg"></div>
   <div class="col is-10">
