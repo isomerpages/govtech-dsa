@@ -45,5 +45,5 @@ sections:
       title: What's new in 2024?
       subtitle: Latest News
       description: "New award categories: Most Mobile Optimised Website (Government
-        and Industry), Most User-Centric Website (Government)"
+        and Industry), Most User-Centric Website (Government)."
 ---
