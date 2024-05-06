@@ -40,7 +40,7 @@ sections:
       button: See all categories
       alt: Image alt text
       image: /images/awards2.jpg
-      url: /award-categories/
+      url: /overview/
   - infobar:
       title: What's new in 2024?
       subtitle: Latest News
