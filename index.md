@@ -32,6 +32,11 @@ sections:
         delivering digital services through websites for the public.
       button: Read more about us
       url: /about-digital-services-awards/
+  - infobar:
+      title: Why Enter?
+      id: infobar
+      description: Join DSA to showcase your achievements, gain industry recognition,
+        and enhance your digital credibility.
   - infopic:
       title: Award Categories
       description: The award categories are meticulously crafted to offer
