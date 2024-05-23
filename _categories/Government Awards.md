@@ -25,7 +25,7 @@ description: ""
   <div class="col is-2"><img alt="" src="/images/icn_usability.svg"></div>
   <div class="col is-10">
     <h4>Best Usability</h4>
-    <p>This award recognises the Government Informational Website that demonstrates exceptional usability across dimensions such as ease of use, usefulness and satisfaction. The recipient is determined through a combination of expert evaluation by a panel of judges and comprehensive assessment by citizens.</p>
+    <p>This award recognises the Government Informational Website that demonstrates exceptional performance across dimensions such as ease of use, usefulness and satisfaction. The recipient is determined by a combination of expert evaluation by a panel of judges and assessment by citizens.</p>
   </div>
   <div class="col is-2"><img alt="" src="/images/icn_popularis.svg"></div>
   <div class="col is-10">
@@ -38,7 +38,7 @@ description: ""
     <div class="col is-2"><img src="/images/icn_seo.svg"></div>
   <div class="col is-10">
     <h4>Best Search Engine Optimisation (SEO)*</h4>
-    <p>This award recognises government agencies who have achieved top SEO scores from WOGAA Inspect, ensuring their Informational Websites are easily discoverable on search engines.</p>
+    <p>This award recognises government agencies that have achieved top SEO scores from WOGAA Inspect, ensuring their Informational Websites are easily discoverable on search engines.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_accessibility.svg"></div>
   <div class="col is-10">
@@ -53,7 +53,7 @@ description: ""
   <div class="col is-2"><img src="/images/icn_functionality.svg"></div>
   <div class="col is-10">
     <h4>Best Functionality*</h4>
-    <p>This award recognises government agencies achieving the best combination of WOGAA Inspect scores in Page Load Time, SEO, and Accessibility for their Informational Services, showcasing synergy in performance metrics. Each component is equally weighted and assessed on the day following the qualification period. Agencies are ranked against others in the same agency classification*, with each component contributing to a ranking score. The total score is determined by the addition of these ranking scores, with lower scores indicating better performance.</p>
+    <p>This award recognises government agencies achieving the best combination of WOGAA Inspect scores in Page Load Time, SEO, and Accessibility for their Informational Services, showcasing synergy in performance metrics. Each component is equally weighted and assessed on the day following the qualification period. Agencies are ranked against others in the same agency classification*, with each component contributing to a ranking score. The total score is determined by adding these ranking scores, with lower scores indicating better performance.</p>
   </div>
   <div class="col is-2"><img src="/images/icn_improvement.svg"></div>
   <div class="col is-10">
