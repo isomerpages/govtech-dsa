@@ -39,9 +39,8 @@ sections:
         and enhance your digital credibility.
   - infopic:
       title: Award Categories
-      description: The award categories are meticulously crafted to offer
-        comprehensive recognition, covering both technical and qualitative
-        excellence.
+      description: The award categories are thoughtfully and comprehensively designed
+        to recognise technical and qualitative excellence.
       button: See all categories
       alt: Image alt text
       image: /images/awards2.jpg
