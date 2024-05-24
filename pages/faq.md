@@ -32,15 +32,15 @@ table#award_cat th {
     <input type="checkbox" id="accordion2">
     <label for="accordion2">What is new about the Digital Services Awards in 2024?</label>
     <div>
-      <p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Additional award categories were introduced in 2022 and 2023 to honour citizens and industries for their valuable contributions.</p>
-      <p>We are proud to introduce the addition of two new nomination-based award categories this year: the Most User-Centric Website and the Most Mobile Optimised Website awards.</p>
+      <p>The Digital Services Awards first began in 2021 as an internal event for government agencies. Subsequently, additional award categories were introduced in 2022 and 2023 to recognise citizens and industries for their valuable contributions.</p>
+      <p>We are pleased to announce the addition of two new nomination-based award categories this year: the Most User-Centric Website and the Most Mobile Optimised Website awards.</p>
     </div>
   </li>
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3">What is the theme for Digital Services Awards 2024?</label>
     <div>
-      <p>The theme of Digital Services Awards 2024 is "Sparking Co-creation, Igniting Innovation." It celebrates the power of co-creation and user-centricity to ignite better innovations and improvements across digital services in Singapore.</p>
+      <p>The theme for the Digital Services Awards 2024 is "Sparking Co-creation, Igniting Innovation." It celebrates the power of co-creation and user-centricity in driving better innovations and improvements across digital services in Singapore.</p>
     </div>
   </li>
 </ul>
