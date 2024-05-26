@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2023_winners.jpg
-      button: Find out who they are
-      url: /winners/2023/
+      button: Submit Nomination
+      url: /submit-nomination/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,7 +22,7 @@ sections:
           description: Congratulations award winners
           url: /winners/2023/
       variant: center
-      title: Congratulations 2023 Award Winners!
+      title: Nominations are now open!
       backgroundColor: gray
       alignment: right
       size: sm
