@@ -4,5 +4,15 @@ permalink: /submit-nomination/
 description: ""
 variant: markdown
 ---
-<p><strong>Nominations for the Digital Services Awards 2024 are now open until 6 August 2024, 6 pm SGT.</strong></p>
-<p>For public officers from government agencies, submit your nominations <a href="https://go.gov.sg/dsa2024-gov">here</a>. <br>For private organisations and industry nominations, submit your nominations <a href="https://go.gov.sg/dsa2024-industry">here</a>.</p>
+<style type="text/css">
+.content h3 {
+    color: #B41E8E;
+    font-weight: 700;
+}
+</style>
+<h3>Nominations are now open!</h3>
+Nominations will close on 6 August 2024 at 6 pm SGT.
+<p><strong style="color:#B41E8E;">Government Awards</strong><br>
+Submit your nominations <a href="https://go.gov.sg/dsa2024-gov">here</a>.</p>
+<p><strong style="color:#B41E8E;">Industry Awards</strong><br>
+Submit your nominations <a href="https://go.gov.sg/dsa2024-industry">here</a>.</p>
