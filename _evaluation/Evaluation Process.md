@@ -43,6 +43,6 @@ The panel of judges will evaluate the nominees to select the Top 3 nominations b
 The Top 3 Tech Kaki community members with the highest participation rate in Tech Kaki engagements for the year will be selected as the winners.</p>
 <p><strong style="color:#B41E8E;">CrowdTaskSG</strong><br>
 The Top 3 most active CrowdTaskSG users during the year will be selected as the winners.</p>
-	<h3>Evaluation Process for Remaining Award Categories</h3>
+<h3>Evaluation Process for Remaining Award Categories</h3>
 <p><strong style="color:#B41E8E;">Winners for the following categories will be selected based on technical scores:</strong><br>
 The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the Whole-of-Government Application Analytics (WOGAA) platform.</p>
