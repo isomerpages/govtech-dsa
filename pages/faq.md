@@ -58,7 +58,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How do we nominate our websites?</label>
-    <div>Stay tuned for more information on nomination-based awards!    </div>
+		<div>Nominations are now open until 6 August 2024, 6 pm SGT. Please visit <a href="https://www.digitalservicesawards.gov.sg/submit-nomination/">Submit Nomination</a> for more information.</div>
   </li>
 </ul>
 <h3>Eligibility</h3>
