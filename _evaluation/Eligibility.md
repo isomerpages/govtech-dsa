@@ -10,8 +10,6 @@ variant: markdown
     font-weight: 700;
 }
 </style>
-<h4>Nominations will open soon. Stay tuned!</h4>
-<hr>
 <h3>Eligibility</h3>
 To enter the Industry awards, the nominated websites will need to adhere to the following criteria:
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
