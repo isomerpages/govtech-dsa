@@ -5,7 +5,7 @@ description: Digital Services Awards 2024 organised by Whole-of-Government
   Application Analytics (WOGAA)
 image: /images/dsa2023_kv.jpg
 permalink: /
-notification: ""
+notification: Submit your nominations now! Open until 6 August 2024, 6 PM SGT.
 sections:
   - hero:
       background: /images/DSA2023_winners.jpg
@@ -22,7 +22,7 @@ sections:
           description: Congratulations award winners
           url: /winners/2023/
       variant: center
-      title: Nominations are now open!
+      title: Nominations for 2024 are now open!
       backgroundColor: gray
       alignment: right
       size: sm
