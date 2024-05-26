@@ -23,7 +23,7 @@ table#award_cat th {
     <label for="accordion1">What is the Digital Services Awards?</label>
     <div>
       <p> The Digital Services Awards is an annual event that recognises government agencies and private sector websites who have delivered excellent digital services through websites for the public, including individuals who have actively contributed to enhancing these services.</p>
-     <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" href="https://wogaa.sg">Whole-of-Government Application Analytics (WOGAA)</a> platform. </p>
+     <p>The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" aria-label="Link to WOGAA" href="https://wogaa.sg">Whole-of-Government Application Analytics (WOGAA)</a> platform. </p>
       <p>Developed by the Government Technology Agency of Singapore (GovTech), WOGAA monitors real-time performance of government websites and digital services. It presents key information such as website traffic, user feedback, recommendations to improve site performance, as well as benchmarks against Whole-of-Government (WOG) averages in a single dashboard.</p>
       <p>Depending on the award category, winners are selected based on technical scores or evaluations by judging panels comprising private and public sector tech experts, and citizen evaluators.&nbsp;For example, shortlisted entries for “Best Usability” will be further assessed by up to 100 citizen evaluators, while the “Most Popular Informational Website” will be awarded based on live attendee votes during the award ceremony.</p>
     </div>
@@ -58,7 +58,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How do we nominate our websites?</label>
-		<div>Nominations are now open until 6 August 2024, 6 pm SGT. Please visit <a href="https://www.digitalservicesawards.gov.sg/submit-nomination/">Submit Nomination</a> for more information.</div>
+		<div>Nominations are now open until 6 August 2024, 6 pm SGT. Please visit <a target="_blank" aria-label="Link to Submit Nominations" href="/submit-nomination/">Submit Nomination</a> for more information.</div>
   </li>
 </ul>
 <h3>Eligibility</h3>
@@ -81,7 +81,7 @@ table#award_cat th {
     <label for="accordion8">How are the winners selected?</label>
     <div>
       <p> Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators. </p>
-      <p> For more details about the award categories, please visit <a aria-label="Link to Award Categories section" href="/overview/">Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.
+      <p> For more details about the award categories, please visit <a target="_blank" aria-label="Link to Award Categories section" href="/overview/">Categories</a> and <a target="_blank" aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.
   </p></div></li>
   <li>
     <input type="checkbox" id="accordion9">
