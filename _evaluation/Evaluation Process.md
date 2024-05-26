@@ -45,4 +45,4 @@ The Top 3 Tech Kaki community members with the highest participation rate in Tec
 The Top 3 most active CrowdTaskSG users during the year will be selected as the winners.</p>
 <h3>Evaluation Process for Remaining Award Categories</h3>
 <p><strong style="color:#B41E8E;">Winners for the following categories will be selected based on technical scores:</strong><br>
-The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the Whole-of-Government Application Analytics (WOGAA) platform.</p>
+The categories “Best Accessibility”, “Best Search Engine Optimisation”, “Best Customer Satisfaction for Transactional Services”, “Best Functionality” and “Best Improvement” are evaluated using the <a target="_blank" aria-label="WOGAA" href="https://wogaa.sg/">Whole-of-Government Application Analytics (WOGAA)</a> platform.</p>
