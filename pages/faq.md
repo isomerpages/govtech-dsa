@@ -81,10 +81,8 @@ table#award_cat th {
     <label for="accordion8">How are the winners selected?</label>
     <div>
       <p> Depending on the award category, winners are selected based on technical scores or evaluations by the judging panels and citizen evaluators. </p>
-      <p> For more details about the award categories, please visit <a aria-label="Link to Award Categories section" href="/overview/">Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.</p>
-      <p><strong>Stay tuned for more details about the award categories, evaluation process and criteria!</strong></p>
-    </div>
-  </li>
+      <p> For more details about the award categories, please visit <a aria-label="Link to Award Categories section" href="/overview/">Categories</a> and <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process/">Evaluation Process and Criteria</a>.
+  </p></div></li>
   <li>
     <input type="checkbox" id="accordion9">
     <label for="accordion9">What if there is a tie?</label>
