@@ -30,4 +30,4 @@ To enter the Industry awards, the nominated websites will need to adhere to the 
   The website should be in English or have an English language option, as it is the predominant language of business in Singapore.</p>
 <p><strong style="color:#B41E8E;">Safety</strong><br>
   No obscene, illegal, socially harmful websites will be entertained.</p>
-<p><strong>For more details about the evaluation criteria, please visit the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>
+<p><strong>For more details about the evaluation criteria, please visit the page on <a target="_blank" aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>
