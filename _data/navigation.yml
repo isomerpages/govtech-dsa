@@ -6,6 +6,8 @@ links:
     collection: categories
   - title: Evaluation
     collection: evaluation
+  - title: Nominate
+    collection: nominate
   - title: Judges
     url: /judges
   - title: Winners
