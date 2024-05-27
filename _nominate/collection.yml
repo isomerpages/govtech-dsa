@@ -1,4 +1,5 @@
 collections:
   nominate:
     output: true
-    order: []
+    order:
+      - Submit Nomination.md
