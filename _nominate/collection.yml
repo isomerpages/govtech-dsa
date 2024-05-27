@@ -2,5 +2,5 @@ collections:
   nominate:
     output: true
     order:
-      - For Government.md
       - For Industry.md
+      - For Government.md
