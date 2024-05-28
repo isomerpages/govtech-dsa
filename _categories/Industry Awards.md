@@ -15,7 +15,7 @@ description: ""
 	<div class="col is-2"><img alt="" src="/images/icn_mobile_optimised.svg"></div>
   <div class="col is-10">
     <h4>[New!] Most Mobile Optimised Website</h4>
-    <p>This new award category recognises the Informational Website that delivers the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
+    <p>This award category recognises the Industry Informational Website that deliver the best mobile experience, showcasing exceptional responsiveness, fast load times, and seamless navigation.</p>
   </div>
   <div class="col is-2"><img alt="" src="/images/icn_usability.svg"></div>
   <div class="col is-10">
@@ -25,6 +25,6 @@ description: ""
   <div class="col is-2"><img alt="" src="/images/icn_popularis.svg"></div>
   <div class="col is-10">
     <h4>Most Popular Informational Website</h4>
-    <p>This award recognises the most popular Informational Website determined by live event voting during the award ceremony.</p>
+    <p>This award recognises the most popular Industry Informational Website determined by live event voting during the award ceremony.</p>
   </div>
 </div>

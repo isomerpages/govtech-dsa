@@ -1,4 +1,6 @@
 collections:
   nominate:
     output: true
-    order: []
+    order:
+      - For Industry.md
+      - For Government.md

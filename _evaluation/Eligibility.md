@@ -10,10 +10,11 @@ variant: markdown
     font-weight: 700;
 }
 </style>
-<h4>Nominations will open soon. Stay tuned!</h4>
-<hr>
 <h3>Eligibility</h3>
-To enter the Industry awards, the nominated websites will need to adhere to the following criteria:
+
+For the eligibility of Government agencies and websites, please access <a href="https://wogaa.sg">WOGAA</a> for more information.
+
+To enter the <b>Industry awards</b>, the nominated websites will need to adhere to the following criteria:
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
   Only websites that end with .sg domain (including redirected sites) or intended to serve a Singapore-based audience. </p>
 <p><strong style="color:#B41E8E;">Public Access</strong><br>
@@ -32,4 +33,4 @@ To enter the Industry awards, the nominated websites will need to adhere to the 
   The website should be in English or have an English language option, as it is the predominant language of business in Singapore.</p>
 <p><strong style="color:#B41E8E;">Safety</strong><br>
   No obscene, illegal, socially harmful websites will be entertained.</p>
-<p><strong>For more details about the evaluation criteria, please visit the page on <a aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>
+<p><strong>For more details about the evaluation criteria, please visit the page on <a target="_blank" aria-label="Link to Evaluation Process and Criteria" href="/evaluation-process">Evaluation Process and Criteria</a>.</strong></p>

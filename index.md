@@ -3,14 +3,14 @@ layout: homepage
 title: Digital Services Awards
 description: Digital Services Awards 2024 organised by Whole-of-Government
   Application Analytics (WOGAA)
-image: /images/dsa2023_kv.jpg
+image: /images/DSA2024_KV.jpg
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/DSA2023_winners.jpg
-      button: Find out who they are
-      url: /winners/2023/
+      button: Submit Nomination
+      url: /for-industry/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,7 +22,7 @@ sections:
           description: Congratulations award winners
           url: /winners/2023/
       variant: center
-      title: Congratulations 2023 Award Winners!
+      title: Nominations Are Now Open!
       backgroundColor: gray
       alignment: right
       size: sm
@@ -32,11 +32,15 @@ sections:
         delivering digital services through websites for the public.
       button: Read more about us
       url: /about-digital-services-awards/
+  - infobar:
+      title: Why Enter?
+      id: infobar
+      description: Join DSA to showcase your achievements, gain industry recognition,
+        and enhance your digital credibility.
   - infopic:
       title: Award Categories
-      description: The award categories are meticulously crafted to offer
-        comprehensive recognition, covering both technical and qualitative
-        excellence.
+      description: The award categories are thoughtfully and comprehensively designed
+        to recognise technical and qualitative excellence.
       button: See all categories
       alt: Image alt text
       image: /images/awards2.jpg
