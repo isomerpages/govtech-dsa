@@ -3,7 +3,7 @@ layout: homepage
 title: Digital Services Awards
 description: Digital Services Awards 2024 organised by Whole-of-Government
   Application Analytics (WOGAA)
-image: /images/dsa2023_kv.jpg
+image: /images/DSA2024_KV.jpg
 permalink: /
 notification: ""
 sections:
