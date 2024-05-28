@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/DSA2023_winners.jpg
       button: Submit Nomination
-      url: /submit-nomination/
+      url: /for-industry/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
