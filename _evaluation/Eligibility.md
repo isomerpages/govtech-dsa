@@ -12,7 +12,7 @@ variant: markdown
 </style>
 <h3>Eligibility</h3>
 
-For the eligibility of Government agencies and websites, please access WOGAA for more information.
+For the eligibility of Government agencies and websites, please access <a href="https://wogaa.sg">WOGAA</a> for more information.
 
 To enter the <b>Industry awards</b>, the nominated websites will need to adhere to the following criteria:
 <p><strong style="color:#B41E8E;">Singapore Domain</strong><br>
