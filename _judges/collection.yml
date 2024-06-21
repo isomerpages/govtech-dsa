@@ -2,4 +2,5 @@ collections:
   judges:
     output: true
     order:
+      - 2024 Judges.md
       - 2023 Judges.md
