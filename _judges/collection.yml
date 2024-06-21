@@ -1,0 +1,4 @@
+collections:
+  judges:
+    output: true
+    order: []
