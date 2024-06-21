@@ -9,7 +9,7 @@ links:
   - title: Nominate
     collection: nominate
   - title: Judges
-    url: /judges
+    collection: judges
   - title: Winners
     collection: winners
   - title: FAQ
