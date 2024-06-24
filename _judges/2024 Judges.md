@@ -34,7 +34,7 @@ figure.bp-image.is-square {
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt=">Chen Kaiwei" src="/images/xxxxx.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Chen Kaiwei" src="/images/xxxxx.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Chen Kaiwei<br>
@@ -94,13 +94,16 @@ figure.bp-image.is-square {
 </div>
 <hr>
 <h3>Most User-Centric Website Award</h3>
-<div class="col is-2">
-  <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
-</div>
-<div class="col is-10">
-  <h4>Choong Ming Sien<br>
-    <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
-  <p>Profile will be updated soon</p>
+<p>The panel of expert judges consist of the following:</p>
+<div class="row is-multiline">
+  <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Choong Ming Sien<br>
+      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
+    <p>Profile will be updated soon</p>
+  </div>
 </div>
 <hr>
 <h3>Outstanding Citizen Contributor (Whole-of-Government) Award</h3>
