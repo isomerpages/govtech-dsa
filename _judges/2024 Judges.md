@@ -20,7 +20,7 @@ figure.bp-image.is-square {
 }
 </style>
 <p>Meet this year’s esteemed panel of expert judges for the following nomination-based award categories.</p>
-<h3>Best Usability Award</h3>
+<h3>Best Usability Award (Government &amp; Industry)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -61,7 +61,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Most Mobile Optimised Website Award</h3>
+<h3>Most Mobile Optimised Website Award (Government &amp; Industry)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -93,7 +93,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Most User-Centric Website Award</h3>
+<h3>Most User-Centric Website Award (Government)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
