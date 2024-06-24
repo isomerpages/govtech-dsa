@@ -123,7 +123,7 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Dominic Soon<br>
       <span class="jname">Co-Founder, Better.sg</span></h4>
-    <p>LDominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
+    <p>Dominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
   </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
