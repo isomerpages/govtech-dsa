@@ -19,7 +19,7 @@ figure.bp-image.is-square {
     border: 1px solid #dedede;
 }
 </style>
-<p>Meet this year’s esteemed panel of expert judges for the following nomination-based award categories.</p>
+<p>Meet this year’s esteemed panel of expert judges for the following nomination-based award categories. Stay tuned as we will be announcing more judges very soon!</p>
 <h3>Best Usability Award (Government &amp; Industry)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
