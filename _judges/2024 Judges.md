@@ -59,7 +59,7 @@ figure.bp-image.is-square {
     <p>Profile to be updated soon.</p>
   </div>
 </div>
-    <hr>
+<hr>
 <h3>Most Mobile Optimised Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
