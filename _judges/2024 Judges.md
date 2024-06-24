@@ -33,15 +33,15 @@ figure.bp-image.is-square {
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
   </div>
      <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Dominic Chan" src="/images/gov_dominic.jpg"></figure>
+    <figure class="bp-image is-square"><img alt=">Chen Kaiwei" src="/images/xxxxx.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Chen Kaiwei<br>
       <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
-    <p>--</p>
+    <p>Profile to be updated soon.</p>
   </div>
     <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Alex Chan" src="/images/industry_alex.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Cheong Yan Ling<br>
@@ -51,12 +51,12 @@ figure.bp-image.is-square {
     <p>In 2012, she was awarded the DesignSingapore scholarship to pursue further studies at Carnegie Mellon University. Most recently, she has been honored to join the cohort of IMDA’s 2024 SG Digital Leaders.</p>
   </div>
     <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Cyprian Wong" src="/images/industry_cyprian.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Lillian Shieh" src="/images/xxxx.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Lillian Shieh<br>
     <span class="jname">Smart Nation Fellow, GovTech</span></h4>
-    <p>--</p>
+    <p>Profile to be updated soon.</p>
   </div>
 </div>
     <hr>
@@ -73,7 +73,7 @@ figure.bp-image.is-square {
     <p>Throughout his career, he has also advised and coordinated feedback to various parties on digital accessibility. Kwek Bin is currently a Technology Analyst at SG Enable, Singapore’s focal agency for disability and inclusion, where he is working on assistive technology and e-accessibility initiatives.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Julie Schiller" src="/images/industry_julie.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Muhammad Rajeef M K" src="/images/rajeef.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Muhammad Rajeef M K<br>
@@ -81,10 +81,10 @@ figure.bp-image.is-square {
     <p>Rajeef works at the intersection of design, engineering and research, bringing a prototyping first approach to product development and influencing teams to de-risk assumptions and validate hypotheses early on. Currently, he leads the UX Engineering efforts for Google Search's internationalisation efforts.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Maria Rosala" src="/images/industry_maria.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Sherizan Sheikh" src="/images/sherizan.jpg"></figure>
   </div>
   <div class="col is-10">
-    <h4>Sherizan SHEIKH<br>
+    <h4>Sherizan Sheikh<br>
       <span class="jname">Global Design Leader, ByteDance</span></h4>
     <p>Sherizan is a design leader and entrepreneur. He has since played a pivotal role in designing intuitive and engaging user experiences for millions of users in Southeast Asia such as GrabPay and GXS bank.   </p>
     <p>Currently at ByteDance, Sherizan leads the design of innovative payment solutions, ensuring seamless and user-friendly interfaces that cater to a global audience.  </p>
@@ -96,7 +96,7 @@ figure.bp-image.is-square {
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
     <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Boh Boon Hou" src="/images/cc_boonhou.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Archana Vaidheeswaran" src="/images/achana.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Archana Vaidheeswaran<br>
@@ -104,7 +104,7 @@ figure.bp-image.is-square {
     <p>Archana is a product builder and advocate. Archana has worked with companies to build products for 350,000 audiences and market developer products to get over 3x returns! She currently works as a Fractional AI Product consultant for several LLM-based product companies and a Board Director at Women in Machine Learning. She has previously been a Product Manager at Women Who Code and has 7+ years of experience working with a range of Industries like Healthcare, Pharmatech, InsuranceTech, Community-Tech, Automotive, and Logistics. Her areas of expertise are AI/ML, Generative AI, end-to-end product development, and marketing of developer products. Her work was featured in the Financial Times, and she was named one of Singapore's 100 Women in Technology 2023 by IMDA. </p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Chiang Lihui" src="/images/cc_lihui.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Dominic Soon" src="/images/dominic_soon.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Dominic Soon<br>
@@ -112,7 +112,7 @@ figure.bp-image.is-square {
     <p>LDominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
   </div>
     <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Evelyn Lam" src="/images/cc_evelyn.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Ming Tan<br>
