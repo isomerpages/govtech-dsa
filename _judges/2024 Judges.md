@@ -38,7 +38,7 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Chen Kaiwei<br>
       <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
-    <p>Profile to be updated soon.</p>
+    <p>Profile will be updated soon.</p>
   </div>
     <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
@@ -56,7 +56,7 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Lillian Shieh<br>
     <span class="jname">Smart Nation Fellow, GovTech</span></h4>
-    <p>Profile to be updated soon.</p>
+    <p>Profile will be updated soon.</p>
   </div>
 </div>
 <hr>
@@ -120,3 +120,12 @@ figure.bp-image.is-square {
     <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
 </div>
     </div>
+<h3>Most User-Centric Website Award</h3>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Choong Ming Sien<br>
+      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
+    <p>Profile will be updated soon</p>
+</div>
