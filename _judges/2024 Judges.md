@@ -19,7 +19,8 @@ figure.bp-image.is-square {
 	border:1px solid #dedede;
 }
 </style>
-<h2>Best Usability Award</h2>
+<p>Meet this year’s esteemed panel of expert judges for the following nomination-based award categories.</p>
+<h3>Best Usability Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
 	<div class="col is-2">
@@ -60,7 +61,7 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Most Mobile Optimised Award</h3>
+<h3>Most Mobile Optimised Website Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
@@ -92,10 +93,20 @@ figure.bp-image.is-square {
   </div>
 </div>
 <hr>
-<h3>Outstanding Citizen Contributor Award</h3>
+<h3>Most User-Centric Website Award</h3>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Choong Ming Sien<br>
+      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
+    <p>Profile will be updated soon</p>
+</div>
+<hr>
+<h3>Outstanding Citizen Contributor (Whole-of-Government) Award</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
-    <div class="col is-2">
+  <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Archana Vaidheeswaran" src="/images/achana.jpg"></figure>
   </div>
   <div class="col is-10">
@@ -111,7 +122,7 @@ figure.bp-image.is-square {
       <span class="jname">Co-Founder, Better.sg</span></h4>
     <p>LDominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
   </div>
-    <div class="col is-2">
+  <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
   </div>
   <div class="col is-10">
@@ -119,13 +130,4 @@ figure.bp-image.is-square {
       <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
     <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
 </div>
-    </div>
-<h3>Most User-Centric Website Award</h3>
-    <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
-  </div>
-  <div class="col is-10">
-    <h4>Choong Ming Sien<br>
-      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
-    <p>Profile will be updated soon</p>
 </div>
