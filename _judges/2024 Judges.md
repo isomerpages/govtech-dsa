@@ -34,12 +34,12 @@ figure.bp-image.is-square {
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Chen Kaiwei" src="/images/xxxxx.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Chen Kaiwei" src="/images/kaiwei.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Chen Kaiwei<br>
       <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
-    <p>Profile will be updated soon.</p>
+    <p>Chen Kaiwei is the Director of Products (AI and Trust) at Smart Nation Singapore, where he manages the end-to-end journey of data to ensure its secure and efficient use. Originally trained as a software engineer, Kaiwei transitioned into a data consultant role, where he has successfully advised on and executed major digital transformations for top companies in media, real estate, banking, and healthcare. His expertise spans from strategic data management to driving innovation through AI technologies.</p>
   </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
@@ -52,12 +52,14 @@ figure.bp-image.is-square {
     <p>In 2012, she was awarded the DesignSingapore scholarship to pursue further studies at Carnegie Mellon University. Most recently, she has been honored to join the cohort of IMDA’s 2024 SG Digital Leaders.</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Lillian Shieh" src="/images/xxxx.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Lillian Shieh" src="/images/lillian.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Lillian Shieh<br>
       <span class="jname">Smart Nation Fellow, GovTech</span></h4>
-    <p>Profile will be updated soon.</p>
+    <p>Lillian Shieh is a design researcher, product strategist and service designer. She currently leads the Design Practice at GovTech, supporting designers, promoting best practices for inclusive design, and exploring emerging technologies for developing digital services for citizens, businesses, and public officers.</p>
+    <p>Her experience includes collaborating with the World Health Organization and Pacific member states to build innovation capabilities. She also built and led Johnson &amp; Johnson's Asia Pacific Design Lab, integrating design methodologies into business processes, and establishing design as a strategic function.</p>
+    <p>As a researcher and strategist, Lillian has led teams that created successful new product and service concepts for clients like J&amp;J, Intel, Telefónica, and Samsung. Her approach, rooted in systems thinking, team development, and experimentation, creates trusted partnerships and products that people want to use.</p>
   </div>
 </div>
 <hr>
@@ -97,7 +99,7 @@ figure.bp-image.is-square {
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/xxx.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/placeholder_img.png"></figure>
   </div>
   <div class="col is-10">
     <h4>Choong Ming Sien<br>
