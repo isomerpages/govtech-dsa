@@ -104,7 +104,9 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Choong Ming Sien<br>
       <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
-    <p>Profile will be updated soon</p>
+    <p>Ming leads GovTech’s Accessibility Enabling (A11y) Team, a dedicated team of software developers making Singapore’s digital services accessible and inclusive. She firmly believes that people of all abilities should be able to independently access and benefit from digital services. Before founding the A11y Team, she served as Chief of Staff to the Government Digital Services division, the government’s Application Development Capability Center.<br>
+      <br>
+    Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
   </div>
 </div>
 <hr>
