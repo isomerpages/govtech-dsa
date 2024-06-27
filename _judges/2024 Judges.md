@@ -99,7 +99,7 @@ figure.bp-image.is-square {
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/placeholder_img.png"></figure>
+    <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/ming.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Choong Ming Sien<br>
