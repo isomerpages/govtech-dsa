@@ -18,9 +18,9 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: 2023 Winners
-          description: Congratulations award winners
-          url: /winners/2023/
+        - title: 2023 Judges
+          description: Meet the judging panel
+          url: /2024-judges/
       variant: center
       title: Nominations Are Now Open!
       backgroundColor: gray
@@ -46,8 +46,11 @@ sections:
       image: /images/awards2.jpg
       url: /overview/
   - infobar:
-      title: What's new in 2024?
+      title: Meet the 2024 Judges
       subtitle: Latest News
-      description: "New award categories: Most Mobile Optimised Website (Government
-        and Industry), Most User-Centric Website (Government)."
+      description: Join us in welcoming this year's esteemed panel of judges, who
+        bring a diverse range of expertise and experience to evaluate the
+        nomination-based awards.
+      button: Find out more
+      url: /2024-judges/
 ---
