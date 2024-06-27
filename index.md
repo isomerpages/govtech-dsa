@@ -18,7 +18,7 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: 2023 Judges
+        - title: 2024 Judges
           description: Meet the judging panel
           url: /2024-judges/
       variant: center
