@@ -74,7 +74,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion7">
     <label for="accordion7">Who are the judges for the awards?</label>
-    <div> Stay tuned to find out this year’s panel of judges!</div>
+      <div> Find out more about this year's esteemed panel of judges <a target="_blank" aria-label="Link to 2024 Judges page" href="/2024-judges/">here</a>, each bringing diverse expertise and experience to judging the nomination-based award categories.</div>
   </li>
   <li>
     <input type="checkbox" id="accordion8">
