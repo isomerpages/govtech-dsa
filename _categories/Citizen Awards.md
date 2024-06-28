@@ -1,5 +1,5 @@
 ---
-title: Citizen Award
+title: Citizen Awards
 permalink: /citizen-award/
 variant: tiptap
 description: ""
