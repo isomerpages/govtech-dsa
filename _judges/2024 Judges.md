@@ -108,6 +108,14 @@ figure.bp-image.is-square {
       <br>
     Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
   </div>
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Ming Tan<br>
+      <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
+    <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
+  </div>
 </div>
 <hr>
 <h3>Outstanding Citizen Contributor (Whole-of-Government) Award</h3>
@@ -122,19 +130,21 @@ figure.bp-image.is-square {
     <p>Archana is a product builder and advocate. Archana has worked with companies to build products for 350,000 audiences and market developer products to get over 3x returns! She currently works as a Fractional AI Product consultant for several LLM-based product companies and a Board Director at Women in Machine Learning. She has previously been a Product Manager at Women Who Code and has 7+ years of experience working with a range of Industries like Healthcare, Pharmatech, InsuranceTech, Community-Tech, Automotive, and Logistics. Her areas of expertise are AI/ML, Generative AI, end-to-end product development, and marketing of developer products. Her work was featured in the Financial Times, and she was named one of Singapore's 100 Women in Technology 2023 by IMDA. </p>
   </div>
   <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/ming.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Choong Ming Sien<br>
+      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
+    <p>Ming leads GovTech’s Accessibility Enabling (A11y) Team, a dedicated team of software developers making Singapore’s digital services accessible and inclusive. She firmly believes that people of all abilities should be able to independently access and benefit from digital services. Before founding the A11y Team, she served as Chief of Staff to the Government Digital Services division, the government’s Application Development Capability Center.<br>
+      <br>
+    Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
+  </div>
+	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Dominic Soon" src="/images/dominic_soon.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Dominic Soon<br>
       <span class="jname">Co-Founder, Better.sg</span></h4>
     <p>Dominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
-  </div>
-  <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
-  </div>
-  <div class="col is-10">
-    <h4>Ming Tan<br>
-      <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
-    <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
   </div>
 </div>
