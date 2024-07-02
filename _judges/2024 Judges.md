@@ -61,6 +61,16 @@ figure.bp-image.is-square {
     <p>Her experience includes collaborating with the World Health Organization and Pacific member states to build innovation capabilities. She also built and led Johnson &amp; Johnson's Asia Pacific Design Lab, integrating design methodologies into business processes, and establishing design as a strategic function.</p>
     <p>As a researcher and strategist, Lillian has led teams that created successful new product and service concepts for clients like J&amp;J, Intel, Telefónica, and Samsung. Her approach, rooted in systems thinking, team development, and experimentation, creates trusted partnerships and products that people want to use.</p>
   </div>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Marcus Loh" src="/images/marcusloh.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Marcus Loh<br>
+      <span class="jname">Director Industry Advisor, Worldwide Public Sector, Microsoft</span></h4>
+    <p>Loh is an experienced and visionary IT leader who has been working in the IT industry for over 30 years. He has served various sectors, including governments, education, and enterprises, throughout Asia. He has been instrumental in helping them achieve their digital transformation goals and leverage the latest technologies to enhance their productivity, innovation, and competitiveness.</p>
+    <p>Loh started his career at Microsoft, where he played a key role in launching and promoting some of the most popular and influential Microsoft solutions, such as the operating systems, modern workplace, messaging, and cloud computing. He also initiated and led several government programs, such as Partners-In-Learning, that aimed to improve the quality and accessibility of education through technology.</p>
+    <p>More recently, Loh has been focusing on the emerging field of artificial intelligence (AI) and data. He has been working with governments in the region to formulate and implement AI and data strategies that can help them harness the power and potential of AI for social, productivity and economic development. He has also been sharing his insights and expertise on AI and data with various stakeholders, such as policymakers, academics, industry leaders.</p>
+  </div>
 </div>
 <hr>
 <h3>Most Mobile Optimised Website Award (Government &amp; Industry)</h3>
@@ -98,15 +108,23 @@ figure.bp-image.is-square {
 <h3>Most User-Centric Website Award (Government)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
+      <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Bharati Dixit" src="/images/bharati.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Bharati Dixit<br>
+      <span class="jname">UX Research Lead, HP</span></h4>
+    <p>Bharati has 17 years of experience across market research and design. She is a certified Design Thinker from MIT Sloan University. She holds a bachelor’s in Economics and PG in Marketing. She is data agnostic and has worked on qualitative, quantitative, analytics, digital, design and consultative projects across different markets globally. She has worked on commercial as well as public sector projects.</p>
+    <p>In her current role, she is the UX Research Lead for Global Experience Design team at HP. She has presented her work and thought pieces at several conferences including ESOMAR, MRMW, and MRSI across Europe, Middle East, and Asia. </p>
+  </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/ming.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Choong Ming Sien<br>
       <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
-    <p>Ming leads GovTech’s Accessibility Enabling (A11y) Team, a dedicated team of software developers making Singapore’s digital services accessible and inclusive. She firmly believes that people of all abilities should be able to independently access and benefit from digital services. Before founding the A11y Team, she served as Chief of Staff to the Government Digital Services division, the government’s Application Development Capability Center.<br>
-      <br>
-    Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
+    <p>Ming leads GovTech’s Accessibility Enabling (A11y) Team, a dedicated team of software developers making Singapore’s digital services accessible and inclusive. She firmly believes that people of all abilities should be able to independently access and benefit from digital services. Before founding the A11y Team, she served as Chief of Staff to the Government Digital Services division, the government’s Application Development Capability Center.</p>
+    <p>Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
   </div>
 	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
@@ -146,5 +164,23 @@ figure.bp-image.is-square {
     <h4>Dominic Soon<br>
       <span class="jname">Co-Founder, Better.sg</span></h4>
     <p>Dominic Soon is a board member of Better.sg, a Singapore-based charity focused on building a tech-for-good community and the organiser of Beacon, a conference focused on celebrating tech-for-good initiatives. In his day job, Dominic works in the private equity industry and focused on global technology investments. He holds a Bachelor of Arts in Economics from Cambridge University, a Master of Arts in International and Development Economics from Yale University and is also a student in Tsinghua University’s Executive MBA programme.</p>
+  </div>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Evelyn Lam" src="/images/evelyn.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Evelyn Lam<br>
+      <span class="jname">News Presenter, Team Lead &amp; Editor for Technology and Data Analytics, Channel 8 News</span></h4>
+    <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
+    <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best News Story at the Star Awards for three consecutive years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
+    <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
+  </div>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Kevin Kwang" src="/images/kevin.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Kevin Kwang<br>
+    <span class="jname">Editor, CNA</span></h4>
+    <p>Kevin Kwang is an Editor with CNA Digital's Growth team working on interactives and audience engagement.   He was formerly a technology reporter at CNA and other media outlets. </p>
   </div>
 </div>
