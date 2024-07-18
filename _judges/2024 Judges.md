@@ -39,7 +39,7 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Chen Kaiwei<br>
       <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
-    <p>Chen Kaiwei is the Director of Products (AI and Trust) at Smart Nation Singapore, where he manages the end-to-end journey of data to ensure its secure and efficient use. Originally trained as a software engineer, Kaiwei transitioned into a data consultant role, where he has successfully advised on and executed major digital transformations for top companies in media, real estate, banking, and healthcare. His expertise spans from strategic data management to driving innovation through AI technologies.</p>
+    <p>Kaiwei is an experienced product manager and serial entrepreneur with extensive experience in AI product development, fraud reduction, and SaaS solutions. Currently, as Director of Product at the Smart Nation and Digital Government Office, he drives Government product strategies focusing on helping teams move faster and de-risk earlier. Prior to joining the Government, he founded a few ML ops companies from 0 to 1 and led fraud products at ByteDance. Apart from his professional achievements, he actively contributes to the tech community and supports underprivileged learners through coding initiatives.</p>
   </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
