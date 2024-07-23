@@ -28,7 +28,7 @@ figure.bp-image.is-square {
   </div>
   <div class="col is-10">
     <h4>Amanda Mace<br>
-      <span class="jname">W3C Evangelist, W3C | Vice President (Australasia), GrackleDocs</span></h4>
+      <span class="jname">W3C Evangelist, W3C and Vice President (Australasia), GrackleDocs</span></h4>
     <p>Amanda is a Subject Matter Expert in Digital Accessibility with more than 10 years of experience in the industry. She manages the Australasia office for GrackleDocs while growing and promoting the brand across the region. She also manages the audit team which is responsible for manual WCAG audits for our clients. Amanda is one of only two Australian-based W3C evangelists and the W3C Australian Western Region Chapter manager.</p>
     <p>When it comes to accessibility, she believes that innovation with accessibility built into it provides security, independence, and privacy for people with disabilities and ultimately better, more usable digital products for all. She has spent her career advocating that it is everyone's job to do their bit to remove barriers so all people can have equal access and equal opportunity to the digital world. Using her expertise in WCAG and PDF/UA to educate and help others understand digital access as well as how to go above and beyond standards, to ensuring great user experiences. </p>
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
@@ -85,6 +85,14 @@ figure.bp-image.is-square {
     <p>An adept user of assistive technology, and a former IT trainer for fellow persons with visual impairment, Kwek Bin has extensive experience in the field of digital accessibility. He served on the Steering Committees of the Enabling Masterplan 3 (2017 - 2021) and Enabling Masterplan 2030, national roadmaps guiding Singapore's disability inclusion efforts.</p>
     <p>Throughout his career, he has also advised and coordinated feedback to various parties on digital accessibility. Kwek Bin is currently a Technology Analyst at SG Enable, Singapore’s focal agency for disability and inclusion, where he is working on assistive technology and e-accessibility initiatives.</p>
   </div>
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Karta Sutanto" src="/images/karta.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Karta Sutanto<br>
+      <span class="jname">Business Engineer APAC Lead, Meta</span></h4>
+    <p>Karta is a Staff Business Engineer at Meta, with eight years of experience. He has worked across Meta’s ad stacks, Family of Apps, and SDKs, contributing to the development and improvement of these platforms. Before his time at Meta, Karta gained valuable experience at local gaming startups and with indie mobile developers in Singapore.</p>
+  </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Muhammad Rajeef M K" src="/images/rajeef.jpg"></figure>
   </div>
@@ -127,12 +135,31 @@ figure.bp-image.is-square {
     <p>Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
   </div>
 	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Jason Goh" src="/images/gov_jason.jpg"></figure>
+  </div>
+	
+  <div class="col is-10">
+    <h4>Jason Goh<br>
+      <span class="jname">EXCO Member, Design Business Chamber Singapore and Design Director, Dell Technologies</span></h4>
+    <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.</p>
+		<p>Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
+  </div>
+	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
   </div>
   <div class="col is-10">
     <h4>Ming Tan<br>
       <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
     <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
+  </div>
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Nelson John" src="/images/nelson.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Nelson John<br>
+      <span class="jname">Head of Digital Media Solution Consulting, Adobe</span></h4>
+    <p>With over 16 years at Adobe, Nelson John has evolved from a Principal Solution Consultant to his current role as Manager, Digital Media Solution Consulting (SEA). His extensive experience spans two decades with Adobe products, including Photoshop, Premiere, and After Effects, where he has been a certified trainer and expert.</p>
+		<p>Nelson’s journey at Adobe has been marked by a commitment to leveraging Creative Cloud solutions to drive client success. He specializes in AI-powered workflows and cloud technology, focusing on maximizing ROI and optimizing creative processes for enterprise customers across Southeast Asia. His expertise in workflow digitization strategies has been instrumental in helping many organizations achieve their creative and business goals.</p>
   </div>
 </div>
 <hr>
