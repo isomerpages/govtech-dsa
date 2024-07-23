@@ -85,6 +85,14 @@ figure.bp-image.is-square {
     <p>An adept user of assistive technology, and a former IT trainer for fellow persons with visual impairment, Kwek Bin has extensive experience in the field of digital accessibility. He served on the Steering Committees of the Enabling Masterplan 3 (2017 - 2021) and Enabling Masterplan 2030, national roadmaps guiding Singapore's disability inclusion efforts.</p>
     <p>Throughout his career, he has also advised and coordinated feedback to various parties on digital accessibility. Kwek Bin is currently a Technology Analyst at SG Enable, Singapore’s focal agency for disability and inclusion, where he is working on assistive technology and e-accessibility initiatives.</p>
   </div>
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Karta Sutanto" src="/images/karta.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Karta Sutanto<br>
+      <span class="jname">Business Engineer APAC Lead, Meta</span></h4>
+    <p>Karta is a Staff Business Engineer at Meta, with eight years of experience. He has worked across Meta’s ad stacks, Family of Apps, and SDKs, contributing to the development and improvement of these platforms. Before his time at Meta, Karta gained valuable experience at local gaming startups and with indie mobile developers in Singapore.</p>
+  </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Muhammad Rajeef M K" src="/images/rajeef.jpg"></figure>
   </div>
@@ -133,18 +141,25 @@ figure.bp-image.is-square {
   <div class="col is-10">
     <h4>Jason Goh<br>
       <span class="jname">EXCO Member, DBCS and Design Director, Dell Technologies, Design Business Chamber Singapore</span></h4>
-    <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.
-
-Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
+    <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.</p>
+		<p>Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
   </div>
 	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
   </div>
-	
   <div class="col is-10">
     <h4>Ming Tan<br>
       <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
     <p>Dr Ming Tan is founding Executive Director for the Tech for Good Institute, a non-profit seed-funded by Grab to catalyse research and collaboration on social, economic, and policy trends accelerated by the digital economy. She is concurrently a Senior Fellow at the Centre for Governance and Sustainability at the National University of Singapore. Her interests lie at the intersection of technology, business and society, including sustainability and innovation.</p>
+  </div>
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Nelson John" src="/images/nelson.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Nelson John<br>
+      <span class="jname">Head of Digital Media Solution Consulting, Adobe</span></h4>
+    <p>With over 16 years at Adobe, Nelson John has evolved from a Principal Solution Consultant to his current role as Manager, Digital Media Solution Consulting (SEA). His extensive experience spans two decades with Adobe products, including Photoshop, Premiere, and After Effects, where he has been a certified trainer and expert.</p>
+		<p>Nelson’s journey at Adobe has been marked by a commitment to leveraging Creative Cloud solutions to drive client success. He specializes in AI-powered workflows and cloud technology, focusing on maximizing ROI and optimizing creative processes for enterprise customers across Southeast Asia. His expertise in workflow digitization strategies has been instrumental in helping many organizations achieve their creative and business goals.</p>
   </div>
 </div>
 <hr>
