@@ -28,7 +28,7 @@ figure.bp-image.is-square {
   </div>
   <div class="col is-10">
     <h4>Amanda Mace<br>
-      <span class="jname">W3C Evangelist, W3C | Vice President (Australasia), GrackleDocs</span></h4>
+      <span class="jname">W3C Evangelist, W3C and Vice President (Australasia), GrackleDocs</span></h4>
     <p>Amanda is a Subject Matter Expert in Digital Accessibility with more than 10 years of experience in the industry. She manages the Australasia office for GrackleDocs while growing and promoting the brand across the region. She also manages the audit team which is responsible for manual WCAG audits for our clients. Amanda is one of only two Australian-based W3C evangelists and the W3C Australian Western Region Chapter manager.</p>
     <p>When it comes to accessibility, she believes that innovation with accessibility built into it provides security, independence, and privacy for people with disabilities and ultimately better, more usable digital products for all. She has spent her career advocating that it is everyone's job to do their bit to remove barriers so all people can have equal access and equal opportunity to the digital world. Using her expertise in WCAG and PDF/UA to educate and help others understand digital access as well as how to go above and beyond standards, to ensuring great user experiences. </p>
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
@@ -140,7 +140,7 @@ figure.bp-image.is-square {
 	
   <div class="col is-10">
     <h4>Jason Goh<br>
-      <span class="jname">EXCO Member, DBCS and Design Director, Dell Technologies, Design Business Chamber Singapore</span></h4>
+      <span class="jname">EXCO Member, Design Business Chamber Singapore and Design Director, Dell Technologies</span></h4>
     <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.</p>
 		<p>Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
   </div>
