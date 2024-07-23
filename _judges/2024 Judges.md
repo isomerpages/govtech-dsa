@@ -127,8 +127,20 @@ figure.bp-image.is-square {
     <p>Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
   </div>
 	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Jason Goh" src="/images/gov_jason.jpg"></figure>
+  </div>
+	
+  <div class="col is-10">
+    <h4>Jason Goh<br>
+      <span class="jname">EXCO Member, DBCS and Design Director, Dell Technologies, Design Business Chamber Singapore</span></h4>
+    <p>Jason Goh is a passionate homegrown Singaporean designer with more than 20 years of design experience. He graduated with an Honors Degree in Design from the University of Glasgow in Scotland in 2001. Upon graduation Jason began his exciting career as an Industrial Designer working for various multi-national companies including Panasonic, Siemens VDO, Creative Technology, Hewlett-Packard and Dell Technologies. Over the years, Jason has established design recognition across multiple global design and innovation awards e.g. iF Gold, Red Dot, IDEA, SGMark, GMark Japan, Good Design Chicago Athenaeum, CES Best in Innovation etc.
+
+Jason currently leads the Dell Experience Design Group in Singapore, responsible for crafting the end-to-end experience for Displays &amp; Peripherals under the brand of Dell and Alienware. Apart from his day job, Jason is also actively contributing to the Singapore design community as an Executive Committee in Design Business Chamber Singapore and external examiner in various Design schools across Singapore.</p>
+  </div>
+	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Ming Tan" src="/images/ming_tan.jpg"></figure>
   </div>
+	
   <div class="col is-10">
     <h4>Ming Tan<br>
       <span class="jname">Founding Executive Director, Tech For Good Institute</span></h4>
