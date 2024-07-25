@@ -34,12 +34,12 @@ figure.bp-image.is-square {
     <p>She is certified by the Australian Computer Society (ACS) as a Certified Professional. Having begun her accessibility career as a WCAG auditor/tester, she worked her way up in that small business through to management. Throughout her career, She has had many opportunities to contribute to educating others about digital accessibility including, co-authoring a book chapter for the textbook, "Web Accessibility A Foundation for Research," as well as a white paper entitled, "Digital Accessibility: Perceptions, Expectations and Reality."</p>
   </div>
   <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Chen Kaiwei" src="/images/kaiwei.jpg"></figure>
+    <figure class="bp-image is-square"><img alt="Ari Widjanarko" src="/images/Ari.jpg"></figure>
   </div>
   <div class="col is-10">
-    <h4>Chen Kaiwei<br>
-      <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
-    <p>Kaiwei is an experienced product manager and serial entrepreneur with extensive experience in AI product development, fraud reduction, and SaaS solutions. Currently, as Director of Product at the Smart Nation and Digital Government Office, he drives Government product strategies focusing on helping teams move faster and de-risk earlier. Prior to joining the Government, he founded a few ML ops companies from 0 to 1 and led fraud products at ByteDance. Apart from his professional achievements, he actively contributes to the tech community and supports underprivileged learners through coding initiatives.</p>
+    <h4>Ari Widjanarko<br>
+      <span class="jname">Design Principal, Associate Partner - Experience Design, Mobile &amp; Metaverse Practice Lead - ASEAN, IBM iX</span></h4>
+    <p>With 25 years of experience in North America and Asia, Ari brings together the cumulative perspective from Human-centred Design, Information Architecture and Digital Experience Strategy. Ari's speciality is to articulate a compelling Digital Strategy for clients, orchestrate it through Experience and Service Design programs and improve business outcomes for clients through digital transformation. Ari’s work spans across multiple industry verticals and markets in the ASEAN region. Today, Ari is leading digital transformation projects with the Singapore government and financial service, retail and logistic clients.</p>
   </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
@@ -76,10 +76,18 @@ figure.bp-image.is-square {
 <h3>Most Mobile Optimised Website Award (Government &amp; Industry)</h3>
 <p>The panel of expert judges consist of the following:</p>
 <div class="row is-multiline">
+	<div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Chen Kaiwei" src="/images/kaiwei.jpg"></figure>
+  </div>
+  <div class="col is-10">
+    <h4>Chen Kaiwei<br>
+      <span class="jname">Director (AI and Trust Products), SNDGO</span></h4>
+    <p>Kaiwei is an experienced product manager and serial entrepreneur with extensive experience in AI product development, fraud reduction, and SaaS solutions. Currently, as Director of Product at the Smart Nation and Digital Government Office, he drives Government product strategies focusing on helping teams move faster and de-risk earlier. Prior to joining the Government, he founded a few ML ops companies from 0 to 1 and led fraud products at ByteDance. Apart from his professional achievements, he actively contributes to the tech community and supports underprivileged learners through coding initiatives.</p>
+  </div>
   <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Chong Kwek Bin" src="/images/industry_kwekbin.jpg"></figure>
   </div>
-  <div class="col is-10">
+	<div class="col is-10">
     <h4>Chong Kwek Bin<br>
       <span class="jname">Technology Analyst, SG Enable</span></h4>
     <p>An adept user of assistive technology, and a former IT trainer for fellow persons with visual impairment, Kwek Bin has extensive experience in the field of digital accessibility. He served on the Steering Committees of the Enabling Masterplan 3 (2017 - 2021) and Enabling Masterplan 2030, national roadmaps guiding Singapore's disability inclusion efforts.</p>
