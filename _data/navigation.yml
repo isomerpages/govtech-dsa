@@ -6,12 +6,12 @@ links:
     collection: categories
   - title: Evaluation
     collection: evaluation
-  - title: Nominate
-    collection: nominate
   - title: Judges
     collection: judges
   - title: Winners
     collection: winners
+  - title: Partners
+    url: /partners
   - title: FAQ
     url: /faq
   - title: Contact
