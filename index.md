@@ -53,4 +53,10 @@ sections:
         nomination-based awards.
       button: Find out more
       url: /2024-judges/
+  - infopic:
+      title: Our Industry Partners
+      id: infopic
+      description: Valued partners supporting the Digital Services Awards
+      image: /images/partners_2024.png
+      alt: "Our partners: DBS"
 ---
