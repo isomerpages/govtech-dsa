@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2023_winners.jpg
-      button: Submit Nomination
-      url: /for-industry/
+      button: 2024 Judges
+      url: /2024-judges/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,7 +22,7 @@ sections:
           description: Meet the judging panel
           url: /2024-judges/
       variant: center
-      title: Nominations Are Now Open!
+      title: Meet Our Judges
       backgroundColor: gray
       alignment: right
       size: sm
