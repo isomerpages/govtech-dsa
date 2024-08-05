@@ -46,13 +46,11 @@ sections:
       image: /images/awards2.jpg
       url: /overview/
   - infobar:
-      title: Meet the 2024 Judges
+      title: Nominations Closed
       subtitle: Latest News
-      description: Join us in welcoming this year's esteemed panel of judges, who
-        bring a diverse range of expertise and experience to evaluate the
-        nomination-based awards.
+      description: xxxxxx
       button: Find out more
-      url: /2024-judges/
+      url: /livestream/
   - infopic:
       title: Our Industry Partners
       id: infopic
