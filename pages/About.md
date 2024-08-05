@@ -21,7 +21,7 @@ variant: markdown
   <div class="col is-12">
     <p>In line with this theme, we are thrilled to announce two new award categories: Most Mobile Optimised Website (Government and Industry) and Most User-Centric Website (Government). These new categories recognise leaders in mobile optimisation and user-experience, as well as celebrate innovation and excellence in digital service delivery.</p>
     <h3>Milestones</h3>
-      <h4>2023 - <strong>Empathy at the Heart of Tech</strong></h4>
+      <h4>2023 - Empathy at the Heart of Tech</h4>
       <p>Emphasises user-centricity in technology, integrating progress with a focus on user needs, while also recognising achievements from Industry and Citizens for the very first time.</p>
       <h4>2022 - Usability, Accessibility and Inclusivity</h4>
     <p>By prioritising inclusive digital solutions, we ensure that all users are included in our journey toward a more accessible digital landscape.</p>
