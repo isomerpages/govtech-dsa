@@ -10,6 +10,6 @@ variant: markdown
     font-weight: 700;
 }
 </style>
-<h3>Nominations for 2024 are now closed</h3>
-<p><strong>Nominations closed on 6 August 2024 at 6 PM SGT. </strong>&nbsp;Thank you to everyone who submitted their nominations.</p>
-<p>Stay tuned to find out more about registration to watch the livestream!</p>
+<h3>Nominations for the award categories are now closed. </h3>
+<p>Thank you to everyone who submitted their nominations!</p>
+<p>Stay tuned for more information on how to register for the award ceremony held on <strong>28 November 2024.</strong></p>
