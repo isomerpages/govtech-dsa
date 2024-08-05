@@ -2,7 +2,6 @@ collections:
   evaluation:
     output: true
     order:
-      - Nominate/For Industry.md
       - Nominate/.keep
       - Eligibility.md
       - Evaluation Process.md
