@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2023_winners.jpg
-      button: Submit Nomination
-      url: /for-industry/
+      button: 2024 Judges
+      url: /2024-judges/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -18,11 +18,11 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: 2024 Judges
-          description: Meet the judging panel
-          url: /2024-judges/
+        - title: 2023 WINNERS
+          description: View our past winners
+          url: /winners/2023/
       variant: center
-      title: Nominations Are Now Open!
+      title: Meet Our Judges
       backgroundColor: gray
       alignment: right
       size: sm
@@ -46,11 +46,16 @@ sections:
       image: /images/awards2.jpg
       url: /overview/
   - infobar:
-      title: Meet the 2024 Judges
+      title: Nominations Closed
       subtitle: Latest News
-      description: Join us in welcoming this year's esteemed panel of judges, who
-        bring a diverse range of expertise and experience to evaluate the
-        nomination-based awards.
+      description: Stay tuned to find out the finalists and for more information about
+        the livestream registration!
       button: Find out more
-      url: /2024-judges/
+      url: /livestream/
+  - infopic:
+      title: Our Industry Partners
+      id: infopic
+      description: Valued partners supporting the Digital Services Awards
+      image: /images/partners_2024.png
+      alt: "Our partners: DBS"
 ---

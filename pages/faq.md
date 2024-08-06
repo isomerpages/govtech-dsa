@@ -58,7 +58,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion5">
     <label for="accordion5">How do we nominate our websites?</label>
-		<div>Nominations are now open until 6 August 2024, 6 pm SGT. Please visit <a target="_blank" aria-label="Link to Submit Nominations" href="/for-industry/">Submit Nomination</a> for more information.</div>
+		<div>Nominations closed on 6 August 2024 at 6 PM SGT.</div>
   </li>
 </ul>
 <h3>Eligibility</h3>
