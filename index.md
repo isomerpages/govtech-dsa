@@ -18,9 +18,9 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: 2024 Judges
-          description: Meet the judging panel
-          url: /2024-judges/
+        - title: 2023 WINNERS
+          description: View our past winners
+          url: /winners/2023/
       variant: center
       title: Meet Our Judges
       backgroundColor: gray
@@ -48,7 +48,8 @@ sections:
   - infobar:
       title: Nominations Closed
       subtitle: Latest News
-      description: xxxxxx
+      description: Stay tuned to find out the finalists and for more information about
+        the livestream registration!
       button: Find out more
       url: /livestream/
   - infopic:
