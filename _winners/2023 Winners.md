@@ -156,7 +156,7 @@ a.backtotop:hover {
   </div>
   <div class="col is-4">
     <div class="winner has-text-left">Pathlight School Website</div>
-    <p class="margin--top--none"><a target="_blank" href="www.pathlight.org.sg">www.pathlight.org.sg</a></p>
+    <p class="margin--top--none"><a target="_blank" href="https://pathlight.org.sg">https://pathlight.org.sg</a></p>
   </div>
 </div>
 <h4 id="popular" class="has-text-centered">Most Popular Informational Website (Government)</h4>
