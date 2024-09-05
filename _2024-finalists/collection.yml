@@ -1,4 +1,5 @@
 collections:
   2024-finalists:
     output: true
-    order: []
+    order:
+      - Best Usability.md
