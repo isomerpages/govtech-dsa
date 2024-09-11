@@ -50,50 +50,51 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://www.ago.gov.sg">https://www.ago.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_ago.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_cpf.png"></div>
 		<div class="winner">CPF Website</div>
 		<div class="classification"><a target="_blank" href="https://www.cpf.gov.sg">https://www.cpf.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_gra.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_ica.png"></div>
 		<div class="winner">ICA Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://www.ica.gov.sg">https://www.ica.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_ica.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_iris_imda.png"></div>
 		<div class="winner">Integrated Regulatory Information System</div>
 		<div class="classification"><a target="_blank" href="https://iris.imda.gov.sg">https://iris.imda.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_imda.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_mha.png"></div>
 		<div class="winner">Ministry of Home Affairs Website</div>
 		<div class="classification"><a target="_blank" href="https://www.mha.gov.sg">https://www.mha.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_iris.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_moe.png"></div>
 		<div class="winner">MOE Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://www.moe.gov.sg">https://www.moe.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_iras.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_msf.png"></div>
 		<div class="winner">MSF Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://www.msf.gov.sg">https://www.msf.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_moe.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_presidentschallenge.png"></div>
 		<div class="winner">President’s Challenge Website</div>
 		<div class="classification"><a target="_blank" href="https://www.presidentschallenge.gov.sg">https://www.presidentschallenge.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_mycareers.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_supportgowhere.png"></div>
 		<div class="winner">SupportGoWhere Website</div>
 		<div class="classification"><a target="_blank" href="https://supportgowhere.life.gov.sg">https://supportgowhere.life.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/gov_seab.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_toteboard.png"></div>
 		<div class="winner">Tote Board Website</div>
 		<div class="classification"><a target="_blank" href="https://www.toteboard.gov.sg">https://www.toteboard.gov.sg</a></div>
 	</div>
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
+
