@@ -31,7 +31,7 @@ description: ""
 }
 	.grid-container .content{text-align:center;}
 
-    .grid-container:hover {
+    .grid-container .cointent:hover {
         box-shadow: 0 0 11px rgba(33,33,33,.2);
     }
 </style>
@@ -97,4 +97,3 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
-
