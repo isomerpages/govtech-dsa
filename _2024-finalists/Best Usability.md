@@ -45,9 +45,9 @@ description: ""
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Government)</h4>
 <div class="grid-container">
 	<div class="content">
-		<div><img alt="thumbnail of AGGO website" src="/images/2024%20Finalists/gov_ago.png"></div>
+		<a target="_blank" href="https://www.ago.gov.sg"><img alt="thumbnail of AGO website" src="/images/2024%20Finalists/gov_ago.png">
 		<div class="winner">AGO Website</div>
-		<div class="classification"><a target="_blank" href="https://www.ago.gov.sg">https://www.ago.gov.sg</a></div>
+		<div class="classification">https://www.ago.gov.sg</div></a>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_cpf.png"></div>
@@ -97,3 +97,4 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
+
