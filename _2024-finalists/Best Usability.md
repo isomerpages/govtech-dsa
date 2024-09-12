@@ -45,7 +45,7 @@ description: ""
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Government)</h4>
 <div class="grid-container">
 	<div class="content">
-		<div><img alt="thumbnail of AGGO website" src="/images/2024%20Finalists/gov_ago.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_ago.png"></div>
 		<div class="winner">AGO Website</div>
 		<div class="classification"><a target="_blank" href="https://www.ago.gov.sg">https://www.ago.gov.sg</a></div>
 	</div>
@@ -97,4 +97,55 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
-
+<div class="grid-container">
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_accenture.png"></div>
+		<div class="winner">Accenture Singapore Website</div>
+		<div class="classification"><a target="_blank" href="https://www.accenture.com/sg-en">https://www.accenture.com/sg-en</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_ahrefs.png"></div>
+		<div class="winner">Ahrefs Website</div>
+		<div class="classification"><a target="_blank" href="https://www.ahrefs.com">https://www.ahrefs.com</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_aia.png"></div>
+		<div class="winner">AIA Singapore Corporate Website</div>
+		<div class="classification"><a target="_blank" href="https://aia.com.sg">https://aia.com.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_autism.png"></div>
+		<div class="winner">Autism Resource Centre Singapore Website</div>
+		<div class="classification"><a target="_blank" href="https://www.autism.org.sg">https://www.autism.org.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_govinsider.png"></div>
+		<div class="winner">GovInsider Website</div>
+		<div class="classification"><a target="_blank" href="https://govinsider.asia/intl-en">https://govinsider.asia/intl-en&nbsp;</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_meltwater.png"></div>
+		<div class="winner">Meltwater Website</div>
+		<div class="classification"><a target="_blank" href="https://meltwater.com/en/">https://meltwater.com/en</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_ricemedia.png"></div>
+		<div class="winner">RICE Media Website</div>
+		<div class="classification"><a target="_blank" href="https://www.ricemedia.co">https://www.ricemedia.co</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_myheart.png"></div>
+		<div class="winner">Singapore Heart Foundation Website</div>
+		<div class="classification"><a target="_blank" href="https://www.myheart.org.sg">https://www.myheart.org.sg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_suntecsingapore.png"></div>
+		<div class="winner">Suntec Singapore Website</div>
+		<div class="classification"><a target="_blank" href="https://www.suntecsingapore.com">https://www.suntecsingapore.comg</a></div>
+	</div>
+	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/industry_uob.png"></div>
+		<div class="winner">UOB Business Website</div>
+		<div class="classification"><a target="_blank" href="https://www.uob.com.sg/business/index.page">https://www.uob.com.sg/business/index.page</a></div>
+	</div>
+</div>
