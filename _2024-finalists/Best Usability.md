@@ -29,10 +29,11 @@ description: ""
     justify-content: center;
 	padding-top:12px;
 }
-	.grid-container .content{text-align:center;padding:1rem; border-radius: 8px;}
+	.grid-container .content{text-align:center;border-radius: 8px;}
+    .grid-container a .content, .grid-container a .classification{text-decoration:none;}
 
-    .grid-container .content:hover {
-        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    .grid-container a:hover{
+        box-shadow: 0 0 11px rgba(33,33,33,.2)padding:1rem;;
     }
 </style>
 
@@ -97,4 +98,3 @@ description: ""
 </div>
 <hr>
 <h4 class="has-text-centered">Best Usability &amp; Most Popular Informational Website (Industry)</h4>
-
