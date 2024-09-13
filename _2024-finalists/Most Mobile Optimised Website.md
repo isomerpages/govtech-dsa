@@ -99,52 +99,52 @@ description: ""
 <h4 class="has-text-centered">Most Mobile Optimised Website (Industry)</h4>
 <div class="grid-container">
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_comchest.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_accenture.png"></div>
 		<div class="winner">Accenture Singapore Website</div>
 		<div class="classification"><a target="_blank" href="https://www.accenture.com/sg-en">https://www.accenture.com/sg-en</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_ica.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_ahrefs.png"></div>
 		<div class="winner">Ahrefs Website</div>
 		<div class="classification"><a target="_blank" href="https://ahrefs.com">https://www.ahrefs.com</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_services2_imda.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_autism.png"></div>
 		<div class="winner">Autism Resource Centre Singapore Website</div>
 		<div class="classification"><a target="_blank" href="https://www.autism.org.sg/">https://www.autism.org.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_moe.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_fca.png"></div>
 		<div class="winner">FirstCom Academy Website</div>
 		<div class="classification"><a target="_blank" href="https://www.fca.edu.sg/">https://www.fca.edu.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_mot.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_govinsider.png"></div>
 		<div class="winner">GovInsider Website</div>
 		<div class="classification"><a target="_blank" href="https://govinsider.asia/intl-en">https://govinsider.asia/intl-en</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_msf.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_little_big_reddot.png"></div>
 		<div class="winner">Little Big Red Dot Website</div>
 		<div class="classification"><a target="_blank" href="https://www.littlebigreddot.com">https://www.littlebigreddot.com</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_presidentschallenge.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_meltwater.png"></div>
 		<div class="winner">Meltwater Website</div>
 		<div class="classification"><a target="_blank" href="https://meltwater.com/en/">https://www.meltwater.com/en</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_seab.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_psb_academy.png"></div>
 		<div class="winner">PSB Academy Website</div>
 		<div class="classification"><a target="_blank" href="https://www.psb-academy.edu.sg/">https://www.psb-academy.edu.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_smw.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_smu.png"></div>
 		<div class="winner">Singapore Management University Website</div>
 		<div class="classification"><a target="_blank" href="https://www.smu.edu.sg/">https://www.smu.edu.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_ssi.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/industry_suntecsingapore.png"></div>
 		<div class="winner">Suntec Singapore Website</div>
 		<div class="classification"><a target="_blank" href="https://www.suntecsingapore.com">https://www.suntecsingapore.com</a></div>
 	</div>
