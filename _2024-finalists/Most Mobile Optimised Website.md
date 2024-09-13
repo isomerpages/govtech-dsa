@@ -25,13 +25,13 @@ description: ""
 .grid-container {
     display: grid;
     gap: 1rem;
-	  grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
+	grid-template-columns: repeat(auto-fit, minmax(15rem, 3fr));
     justify-content: center;
 	padding-top:12px;
 }
-	.grid-container .content{text-align:center;}
+	.grid-container .content{text-align:center;padding:1rem; border-radius: 8px;}
 
-    .grid-container:hover {
+    .grid-container .content:hover {
         box-shadow: 0 0 11px rgba(33,33,33,.2);
     }
 </style>
