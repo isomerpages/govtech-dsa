@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSA2023_winners.jpg
+      background: /images/DSA2024_herobanner.jpg
       button: 2024 Finalists
       url: /best-usability/
       key_highlights:
