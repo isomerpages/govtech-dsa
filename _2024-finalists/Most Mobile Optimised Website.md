@@ -106,7 +106,7 @@ description: ""
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_ica.png"></div>
 		<div class="winner">Ahrefs Website</div>
-		<div class="classification"><a target="_blank" href="https://ahrefs.com">https://ahrefs.com</a></div>
+		<div class="classification"><a target="_blank" href="https://ahrefs.com">https://www.ahrefs.com</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_services2_imda.png"></div>
@@ -131,7 +131,7 @@ description: ""
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_presidentschallenge.png"></div>
 		<div class="winner">Meltwater Website</div>
-		<div class="classification"><a target="_blank" href="https://meltwater.com/en/">https://meltwater.com/en</a></div>
+		<div class="classification"><a target="_blank" href="https://meltwater.com/en/">https://www.meltwater.com/en</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_seab.png"></div>
