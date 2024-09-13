@@ -50,7 +50,7 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://www.activesgcircle.gov.sg">https://www.activesgcircle.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_discover-nyc.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_discover_nyc.png"></div>
 		<div class="winner">Discover Website</div>
 		<div class="classification"><a target="_blank" href="https://www.discover.nyc.gov.sg/omw">https://www.discover.nyc.gov.sg/omw</a></div>
 	</div>
