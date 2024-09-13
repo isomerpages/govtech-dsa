@@ -65,7 +65,7 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://www.moe.gov.sg">https://www.moe.gov.sg</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_mpt.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_mot.png"></div>
 		<div class="winner">MOT Portal</div>
 		<div class="classification"><a target="_blank" href="https://www.mot.gov.sg">https://www.mot.gov.sg</a></div>
 	</div>
