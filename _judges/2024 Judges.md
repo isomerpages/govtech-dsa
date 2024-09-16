@@ -201,7 +201,7 @@ figure.bp-image.is-square {
     <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
   </div>
     <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Eyung Lim" src="/images/Eyung.png"></figure>
+    <figure class="bp-image is-square"><img alt="Eyung Lim" src="/images/eyung.jpg"></figure>
   </div>
 	<div class="col is-10">
     <h4>Eyung Lim<br>
