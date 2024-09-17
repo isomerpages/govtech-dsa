@@ -37,7 +37,7 @@ description: ""
 </style>
 
 <div>
-	<p><strong>Congratulations to the Top 10 Most User-Centric Website nominees of the Digital Services Awards 2024 from the public and private sector!</strong></p>
+	<p><strong>Congratulations to the Top 10 Most User-Centric Website nominees of the Digital Services Awards 2024 from the public sector!</strong></p>
 	<p>After careful evaluation by the <a aria-label="Link to Judges" href="/2024-judges/">panel of expert judges</a>, the Top 3 finalists will be selected. These finalists will undergo further assessment by a diverse group of 100 members of the public to determine the final winner. For more information, please visit our <a aria-label="Link to Eligibility" href="/eligibility/">Eligibility</a> and <a aria-label="Link to Evaluation Process" href="/evaluation-process/">Evaluation Process</a> pages.</p>
   <p><strong id="docs-internal-guid-4c9a6648-7fff-b89c-5d9f-468b576d09a3">Stay tuned for more information on how you can register to attend the award ceremony.</strong></p>
     <p><strong><a aria-label="Link to 2023 Winners" href="/winners/2023/">View our 2023 winners</a></strong></p>
