@@ -182,16 +182,6 @@ figure.bp-image.is-square {
       <span class="jname">Board Director, Women in Machine Learning</span></h4>
     <p>Archana is a product builder and advocate. Archana has worked with companies to build products for 350,000 audiences and market developer products to get over 3x returns! She currently works as a Fractional AI Product consultant for several LLM-based product companies and a Board Director at Women in Machine Learning. She has previously been a Product Manager at Women Who Code and has 7+ years of experience working with a range of Industries like Healthcare, Pharmatech, InsuranceTech, Community-Tech, Automotive, and Logistics. Her areas of expertise are AI/ML, Generative AI, end-to-end product development, and marketing of developer products. Her work was featured in the Financial Times, and she was named one of Singapore's 100 Women in Technology 2023 by IMDA. </p>
   </div>
-  <div class="col is-2">
-    <figure class="bp-image is-square"><img alt="Choong Ming Sien" src="/images/ming.jpg"></figure>
-  </div>
-  <div class="col is-10">
-    <h4>Choong Ming Sien<br>
-      <span class="jname">Assistant Director, Transformation Office, GovTech</span></h4>
-    <p>Ming leads GovTech’s Accessibility Enabling (A11y) Team, a dedicated team of software developers making Singapore’s digital services accessible and inclusive. She firmly believes that people of all abilities should be able to independently access and benefit from digital services. Before founding the A11y Team, she served as Chief of Staff to the Government Digital Services division, the government’s Application Development Capability Center.<br>
-      <br>
-    Prior to her public service career, Ming worked in strategy consulting. As a Third Culture Kid, her global upbringing enables her to engage effectively with people of diverse backgrounds and cultures. She read Law at Cambridge University.</p>
-  </div>
 	<div class="col is-2">
     <figure class="bp-image is-square"><img alt="Dominic Soon" src="/images/dominic_soon.jpg"></figure>
   </div>
@@ -209,6 +199,14 @@ figure.bp-image.is-square {
     <p>Evelyn is a news presenter, team lead and editor for the newsroom Data Analytics team and the technology features team Click IT. In her current role, she oversees, plans and provides editorial judgment for the production of stories for the weekly segments. She also curates technology trends and content to develop full features and news stories. Through her initiative, Channel 8 now uses full augmented reality to help audiences understand data trends and complex ideas with robust visual representations.</p>
     <p>Evelyn has produced high profile stories which have landed her multiple awards, including Best News Story at the Star Awards for three consecutive years, a nomination at the Asian TV awards, and Best News Story and Outstanding Young Journalist of the Year award at the Mediacorp News Awards.</p>
     <p>Effectively bilingual, Evelyn has produced and reported for CNA and is also a media trainer with the Singapore Media Academy.</p>
+  </div>
+    <div class="col is-2">
+    <figure class="bp-image is-square"><img alt="Eyung Lim" src="/images/eyung.jpg"></figure>
+  </div>
+	<div class="col is-10">
+    <h4>Eyung Lim<br>
+      <span class="jname">Director, Government Digital Products, GovTech</span></h4>
+    <p>Eyung Lim is the Director of Government Digital Products at GovTech Singapore, where he has been leading digital transformation efforts since 2018. With over 20 years of experience in both the public and private sectors, Eyung is recognised for his contributions to advancing government digital services. He continues to drive innovation in Singapore's public sector through technology-driven solutions.</p>
   </div>
     <div class="col is-2">
     <figure class="bp-image is-square"><img alt="Kevin Kwang" src="/images/kevin.jpg"></figure>

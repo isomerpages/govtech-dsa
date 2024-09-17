@@ -8,9 +8,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSA2023_winners.jpg
-      button: 2024 Judges
-      url: /2024-judges/
+      background: /images/DSA2024_herobanner__2_.jpg
+      button: 2024 Finalists
+      url: /best-usability/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,7 +22,7 @@ sections:
           description: View our past winners
           url: /winners/2023/
       variant: center
-      title: Meet Our Judges
+      title: Meet Our 2024 Finalists
       backgroundColor: gray
       alignment: right
       size: sm
