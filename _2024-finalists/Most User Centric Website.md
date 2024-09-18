@@ -55,11 +55,6 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://discover.nyc.gov.sg/omw">https://discover.nyc.gov.sg/omw</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_familyassist.png"></div>
-		<div class="winner">Family Assist Website</div>
-		<div class="classification"><a target="_blank" href="https://familyassist.msf.gov.sg">https://familyassist.msf.gov.sg</a></div>
-	</div>
-	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_ica.png"></div>
 		<div class="winner">ICA Corporate Website</div>
 		<div class="classification"><a target="_blank" href="https://www.ica.gov.sg">https://www.ica.gov.sg</a></div>
@@ -84,14 +79,19 @@ description: ""
 		<div class="winner">NCSS Website</div>
 		<div class="classification"><a target="_blank" href="https://www.ncss.gov.sg/">https://www.ncss.gov.sg</a></div>
 	</div>
-	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_sgtranslatetogether.png"></div>
-		<div class="winner">SG Translate Together Portal</div>
-		<div class="classification"><a target="_blank" href="https://www.sgtranslatetogether.gov.sg">https://www.sgtranslatetogether.gov.sg</a></div>
+    	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/gov_familyassist.png"></div>
+		<div class="winner">Online Counselling on Family Assist Portal</div>
+		<div class="classification"><a target="_blank" href="https://familyassist.msf.gov.sg/content/resources/programmes/online-counselling">https://familyassist.msf.gov.sg/content/resources/programmes/online-counselling</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_police.png"></div>
-		<div class="winner">SPF Corporate Website</div>
-		<div class="classification"><a target="_blank" href="https://www.police.gov.sg">https://www.police.gov.sg</a></div>
+		<div class="winner">PoliceHub Website</div>
+		<div class="classification"><a target="_blank" href="https://eservices1.police.gov.sg">https://eservices1.police.gov.sg</a></div>
+	</div>
+    	<div class="content">
+		<div><img alt="" src="/images/2024%20Finalists/gov_sgtranslatetogether.png"></div>
+		<div class="winner">SG Translate Together Portal</div>
+		<div class="classification"><a target="_blank" href="https://www.sgtranslatetogether.gov.sg">https://www.sgtranslatetogether.gov.sg</a></div>
 	</div>
 </div>
