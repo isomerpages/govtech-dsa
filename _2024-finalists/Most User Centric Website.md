@@ -85,7 +85,7 @@ description: ""
 		<div class="classification"><a target="_blank" href="https://familyassist.msf.gov.sg/content/resources/programmes/online-counselling">https://familyassist.msf.gov.sg/content/resources/programmes/online-counselling</a></div>
 	</div>
 	<div class="content">
-		<div><img alt="" src="/images/2024%20Finalists/gov_police.png"></div>
+		<div><img alt="" src="/images/2024%20Finalists/gov_policehub.png"></div>
 		<div class="winner">PoliceHub Website</div>
 		<div class="classification"><a target="_blank" href="https://eservices1.police.gov.sg">https://eservices1.police.gov.sg</a></div>
 	</div>
