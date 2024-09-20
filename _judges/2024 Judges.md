@@ -45,7 +45,7 @@ figure.bp-image.is-square {
     <figure class="bp-image is-square"><img alt="Cheong Yan Ling" src="/images/yanling.jpg"></figure>
   </div>
   <div class="col is-10">
-    <h4>Cheong Yan Ling<br>
+    <h4>Cheong Yian Ling<br>
       <span class="jname">Product Discovery and Delivery Lead, Thoughtworks APAC</span></h4>
     <p>Yian Ling has accumulated over 14 years of experience in design, product, and customer experience (CX) roles. At Thoughtworks, she heads the Product Discovery and Design service offering in APAC, continuously reimagining how designers can add value to clients by creating products that are viable, desirable, feasible, usable, and responsible. She has played a significant role in shaping both agency-facing and citizen-facing products, including LifeSG, GoBusiness, and Healthy365.</p>
     <p>One of her proudest moments came shortly after delivering her second child. While in the hospital ward, a nurse came to explain the birth registration process and recommended using an app for its exceptional ease. Yian Ling realized with pride that this app was the very product she had worked on during her pregnancy.</p>
