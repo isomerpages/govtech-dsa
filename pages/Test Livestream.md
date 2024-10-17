@@ -39,11 +39,10 @@ ul.jekyllcodex_accordion>li>label::before {
     line-height: 2rem;
 }
 </style>
-<div class="has-text-left">
   <div class="video-wrapper">
     <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=J5BcppFxGX9ak15V" class="responsive-iframe"></iframe>
   </div>
-  <div class="row">
+  <div class="row has-text-left">
     <div class="col is-12">
       <ul class="jekyllcodex_accordion">
         <li>
@@ -86,4 +85,3 @@ ul.jekyllcodex_accordion>li>label::before {
       <p>If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
     </div>
   </div>
-</div>
