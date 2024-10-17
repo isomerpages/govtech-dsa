@@ -48,7 +48,7 @@ ul.jekyllcodex_accordion>li>label::before {
       <ul class="jekyllcodex_accordion">
         <li>
           <input id="accordion1" type="checkbox">
-          <label for="accordion1">Agenda</label>
+          <label for="accordion1">Event Agenda</label>
           <div>
             <table cellspacing="0" cellpadding="0" border="0" width="100%">
               <thead>
