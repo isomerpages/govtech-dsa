@@ -74,7 +74,7 @@ ul.jekyllcodex_accordion>li>label::before {
           </div>
         </li>
       </ul>
-        <hr>
+        <hr style="border:1px solid #78145F;margin:8px 0;">
       <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
       <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
       <p>In addition to the award presentations, this event will also highlight keynote speeches from distinguished individuals, including the Guest of Honour Senior Minister of State Dr. Janil Puthucheary, winners, and a member of the judging panel.</p>
