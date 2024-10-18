@@ -78,7 +78,7 @@ ul.jekyllcodex_accordion>li>label::before {
       </li>
       <li>
         <input id="acc-links" type="checkbox">
-        <label for="acc-agenda">Important Links</label>
+        <label for="acc-links">Important Links</label>
         <div>
           <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
             Join the quiz and stand a chance to win e-vouchers here: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa2023-quiz">https://go.gov.sg/dsa2023-quiz</a> <br>
