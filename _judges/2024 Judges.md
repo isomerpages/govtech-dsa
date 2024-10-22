@@ -205,7 +205,7 @@ figure.bp-image.is-square {
   </div>
 	<div class="col is-10">
     <h4>Eyung Lim<br>
-      <span class="jname">Director, Government Digital Products, GovTech</span></h4>
+      <span class="jname">Senior Director, Government Digital Products, GovTech</span></h4>
     <p>Eyung Lim is the Director of Government Digital Products at GovTech Singapore, where he has been leading digital transformation efforts since 2018. With over 20 years of experience in both the public and private sectors, Eyung is recognised for his contributions to advancing government digital services. He continues to drive innovation in Singapore's public sector through technology-driven solutions.</p>
   </div>
     <div class="col is-2">
