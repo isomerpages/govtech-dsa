@@ -56,7 +56,7 @@ figure.bp-image.is-square {
   </div>
   <div class="col is-10">
     <h4>Lillian Shieh<br>
-      <span class="jname">Smart Nation Fellow, GovTech</span></h4>
+      <span class="jname">Head of Design Practice, GovTech</span></h4>
     <p>Lillian Shieh is a design researcher, product strategist and service designer. She currently leads the Design Practice at GovTech, supporting designers, promoting best practices for inclusive design, and exploring emerging technologies for developing digital services for citizens, businesses, and public officers.</p>
     <p>Her experience includes collaborating with the World Health Organization and Pacific member states to build innovation capabilities. She also built and led Johnson &amp; Johnson's Asia Pacific Design Lab, integrating design methodologies into business processes, and establishing design as a strategic function.</p>
     <p>As a researcher and strategist, Lillian has led teams that created successful new product and service concepts for clients like J&amp;J, Intel, Telefónica, and Samsung. Her approach, rooted in systems thinking, team development, and experimentation, creates trusted partnerships and products that people want to use.</p>
