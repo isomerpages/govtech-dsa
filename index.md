@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507.jpg
-      button: 2024 Finalists
+      button: Register Now
       url: /best-usability/
       key_highlights:
         - title: Stay Updated
@@ -21,8 +21,8 @@ sections:
         - title: 2023 WINNERS
           description: View our past winners
           url: /winners/2023/
-      variant: center
-      title: Meet Our 2024 Finalists
+      variant: floating
+      title: Catch the Digital Services Awards Livestream
       backgroundColor: gray
       alignment: right
       size: sm
