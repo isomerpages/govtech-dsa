@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507.jpg
       button: Register Now
-      url: /best-usability/
+      url: https://form.gov.sg/66e7929d6ac4a667a8da94e7
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -18,11 +18,11 @@ sections:
         - title: Evaluation Process
           description: Selection & judging
           url: /evaluation-process/
-        - title: 2023 WINNERS
-          description: View our past winners
-          url: /winners/2023/
+        - title: 2024 Finalists
+          description: View our finalists this year
+          url: best-usability
       variant: floating
-      title: Catch the Digital Services Awards Livestream
+      title: Attend the Award Ceremony on 28 Nov 2024
       backgroundColor: gray
       alignment: right
       size: sm
