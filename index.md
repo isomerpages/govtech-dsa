@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024registration_banner.png
+      background: /images/2024registration_banner_v3.png
       button: Register
       url: https://form.gov.sg/66e7929d6ac4a667a8da94e7
       key_highlights:
@@ -24,7 +24,7 @@ sections:
       variant: floating
       title: Attend the Award Ceremony on 28 Nov 2024
       backgroundColor: gray
-      alignment: right
+      alignment: left
       size: md
       subtitle: Register now to vote for the winner of the Most Popular Informational
         Website award!
