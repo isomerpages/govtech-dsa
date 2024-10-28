@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507.jpg
-      button: Register Now
+      button: Register
       url: https://form.gov.sg/66e7929d6ac4a667a8da94e7
       key_highlights:
         - title: Stay Updated
@@ -21,11 +21,13 @@ sections:
         - title: 2024 Finalists
           description: View our finalists this year
           url: best-usability
-      variant: floating
+      variant: side
       title: Attend the Award Ceremony on 28 Nov 2024
       backgroundColor: gray
       alignment: right
-      size: sm
+      size: md
+      subtitle: Register now to vote for the winner of the Most Popular Informational
+        Website award!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
