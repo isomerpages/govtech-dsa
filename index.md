@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/DSA2024_RegistrationBanner_2000x507.jpg
+      background: /images/2024registration_banner.png
       button: Register
       url: https://form.gov.sg/66e7929d6ac4a667a8da94e7
       key_highlights:
@@ -21,7 +21,7 @@ sections:
         - title: 2024 Finalists
           description: View our finalists this year
           url: best-usability
-      variant: side
+      variant: floating
       title: Attend the Award Ceremony on 28 Nov 2024
       backgroundColor: gray
       alignment: right
