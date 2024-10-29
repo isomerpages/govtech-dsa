@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/2024registration_banner.png
       button: Register
-      url: https://form.gov.sg/66e7929d6ac4a667a8da94e7
+      url: https://go.gov.sg/dsa24-home-registration
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
