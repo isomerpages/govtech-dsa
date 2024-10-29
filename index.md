@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/2024registration_banner.png
-      button: Register
+      button: Register Now
       url: https://go.gov.sg/dsa24-home-registration
       key_highlights:
         - title: Stay Updated
@@ -26,8 +26,8 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: Register now to vote for the winner of the Most Popular Informational
-        Website award!
+      subtitle: Register now to attend and vote for the winner of the Most Popular
+        Informational Website award!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
