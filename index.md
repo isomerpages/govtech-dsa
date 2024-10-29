@@ -26,9 +26,8 @@ sections:
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: Register before 27 November, 6pm to learn from experts, vote for the
-        Most Popular Informational Website, and win exciting prizes through
-        quizzes!
+      subtitle: Register before 27 November to learn from experts, vote for the Most
+        Popular Informational Website, and win exciting prizes through quizzes!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
