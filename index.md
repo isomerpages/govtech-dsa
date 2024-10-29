@@ -22,12 +22,13 @@ sections:
           description: View our finalists this year
           url: best-usability
       variant: floating
-      title: Digital Services Awards 2024 Award Ceremony
+      title: Celebrate the best in Digital Services!
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: Register now to attend and vote for the winner of the Most Popular
-        Informational Website award!
+      subtitle: Register before 27 November, 6pm to learn from experts, vote for the
+        Most Popular Informational Website, and win exciting prizes through
+        quizzes!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
