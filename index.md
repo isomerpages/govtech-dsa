@@ -8,7 +8,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2024registration_banner.png
+      background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
       button: Register Now
       url: https://go.gov.sg/dsa24-home-registration
       key_highlights:
