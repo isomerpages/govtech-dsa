@@ -15,7 +15,7 @@ variant: markdown
 <div class="row is-multiline">
   <div class="col is-12 has-text-centered">
 		<div><img style="max-width:40%" alt="2024 DSA logo" src="/images/DSA2024_logo.svg"></div>
-    <h4>Get ready for the Digital Services Awards 2024 ceremony, happening on 28 November 2024. </h4>
-			<p>Stay tuned to find out more about registration to watch the livestream!</p>
-    <a class="bp-button is-primary is-uppercase" href="/winners/2023/">Check out the 2023 winners</a> </div>
+    <h4>Digital Services Awards 2024 livestream registration is open until 27 November, 6pm!</h4>
+			<p>Stay tuned to find out more about the exciting lineup of programmes, including exclusive insights from past winners, a panel discussion with industry experts, and the reveal of this year's winners.</p>
+    <a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa24-home-registration">Register Now</a> </div>
 </div>
