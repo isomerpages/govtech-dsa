@@ -72,7 +72,7 @@ description: ""
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_myskillsfuture.png"></div>
 		<div class="winner">MySkillsFuture Workforce Portal</div>
-		<div class="classification"><a target="_blank" href="https://www.presidentschallenge.gov.sg/">https://www.presidentschallenge.gov.sg</a></div>
+		<div class="classification"><a target="_blank" href="https://www.myskillsfuture.gov.sg/content/portal/">https://www.myskillsfuture.gov.sg/content/portal/</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_ncss.png"></div>
