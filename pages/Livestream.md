@@ -16,6 +16,11 @@ a.bp-button {
 a.bp-button:hover {
     text-decoration: underline;
 }
+table#award_cat th {
+    background: #78145F;
+    color: #fff;
+    font-weight: 700;
+}
 </style>
 <div class="row is-multiline">
   <div class="col is-12 has-text-centered">
@@ -24,54 +29,57 @@ a.bp-button:hover {
     <p>Stay tuned to find out more about the exciting lineup of programmes, including exclusive insights from past winners, a panel discussion with industry experts, and the reveal of this year's winners.</p>
     <p><a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa24-home-registration">Register Now</a> </p>
     <hr>
-    <table style="text-align: left;" cellpadding="0" cellspacing="0" border="0" width="100%">
+      <h4>Programme</h4>
+    <table id="award_cat" style="text-align: left;" cellpadding="0" cellspacing="0" border="0" width="100%">
       <thead>
         <tr>
-          <th scope="col">Time</th>
+          <th scope="col" nowrap="nowrap">Time</th>
           <th scope="col">Item</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td><p>9 AM - 9.15 AM</p></td>
+          <td nowrap="nowrap"><p>9 AM - 9.15 AM</p></td>
           <td><p>Introduction to Digital Services Awards 2024&nbsp;</p></td>
         </tr>
         <tr>
-          <td><p>9.15 AM - 9.20 AM</p></td>
+          <td nowrap="nowrap"><p>9.15 AM - 9.20 AM</p></td>
           <td><p>Live Voting Commences: Most Popular Informational Website (Government &amp; Industry)</p></td>
         </tr>
         <tr>
-          <td><p>9.20 AM - 10 AM</p></td>
-          <td><p>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways<br>
-              Moderator:Immanuel Goh, UX Designer, GovTech Design Practice<br>
-              <br>
+          <td nowrap="nowrap"><p>9.20 AM - 10 AM</p></td>
+          <td><p>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</p>
+            <p>Moderator:Immanuel Goh, UX Designer, GovTech Design Practice<br>
               Panellists:<br>
-              Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</p>
-            <p>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</p>
-            <p>Muhammad Rajeef MK, UX Engineering Lead, Google</p></td>
+            </p><ul>
+              <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
+              <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
+              <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
+            </ul>
+          <p></p></td>
         </tr>
         <tr>
-          <td><p>10 AM - 10.10 AM</p></td>
+          <td nowrap="nowrap"><p>10 AM - 10.10 AM</p></td>
           <td><p>Keynote Presentation by Agency Winner</p></td>
         </tr>
         <tr>
-          <td><p>10.10 AM - 10.25 AM</p></td>
+          <td nowrap="nowrap"><p>10.10 AM - 10.25 AM</p></td>
           <td><p>Break</p></td>
         </tr>
         <tr>
-          <td><p>10.25 AM - 10.40 AM</p></td>
+          <td nowrap="nowrap"><p>10.25 AM - 10.40 AM</p></td>
           <td><p>Introduction to Agency Champions of WOGAA &amp; Superstar Champions Certificate Presentation</p></td>
         </tr>
         <tr>
-          <td><p>10.40 AM - 10.50 AM</p></td>
+          <td nowrap="nowrap"><p>10.40 AM - 10.50 AM</p></td>
           <td><p>Guest-of-Honour Speech by Senior Minister of State at the Ministry of Digital Development and Information, Minister-in-Charge of GovTech, Dr. Janil Puthucheary</p></td>
         </tr>
         <tr>
-          <td><p>10.50 AM - 11.40 AM</p></td>
+          <td nowrap="nowrap"><p>10.50 AM - 11.40 AM</p></td>
           <td><p>Award Presentation</p></td>
         </tr>
         <tr>
-          <td><p>11.40 AM</p></td>
+          <td nowrap="nowrap"><p>11.40 AM</p></td>
           <td><p>Exhibition Booth Showcase &amp; Quiz</p></td>
         </tr>
       </tbody>
