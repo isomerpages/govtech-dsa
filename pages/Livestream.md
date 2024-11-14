@@ -9,6 +9,7 @@ variant: markdown
     color: #B41E8E;
     font-weight: 700;
 }
+    .content td p, .content td li{margin-top:0}
 a.bp-button {
     text-decoration: none;
     font-weight: 600;
@@ -39,47 +40,49 @@ table#award_cat th {
       </thead>
       <tbody>
         <tr>
-          <td nowrap="nowrap"><p>9 AM - 9.15 AM</p></td>
-          <td><p>Introduction to Digital Services Awards 2024&nbsp;</p></td>
+          <td nowrap="nowrap"><p><strong>9 AM - 9.15 AM</strong></p></td>
+          <td><p><strong>Introduction to Digital Services Awards 2024&nbsp;</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>9.15 AM - 9.20 AM</p></td>
-          <td><p>Live Voting Commences: Most Popular Informational Website (Government &amp; Industry)</p></td>
+          <td nowrap="nowrap"><p><strong>9.15 AM - 9.20 AM</strong></p></td>
+          <td><p><strong>Live Voting Commences: Most Popular Informational Website (Government &amp; Industry)</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>9.20 AM - 10 AM</p></td>
-          <td><p>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</p>
-            <p>Moderator: <br>
+          <td nowrap="nowrap"><p><strong>9.20 AM - 10 AM</strong></p></td>
+          <td><p><strong>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</strong></p>
+            <p><strong>Moderator:</strong><br>
             Immanuel Goh, UX Designer, GovTech Design Practice </p>
-             <p> Panellists:</p><ul>
+             <p> <strong>Panellists:</strong>
+             </p><ul>
               <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
               <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
               <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
             </ul></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>10 AM - 10.10 AM</p></td>
-          <td><p>Keynote Presentation by Agency Winner</p></td>
+          <td nowrap="nowrap"><p><strong>10 AM - 10.10 AM</strong></p></td>
+          <td><p><strong>Keynote Presentation by Agency Winner</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>10.10 AM - 10.25 AM</p></td>
-          <td><p>Break</p></td>
+          <td nowrap="nowrap"><p><strong>10.10 AM - 10.25 AM</strong></p></td>
+          <td><p><strong>Break</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>10.25 AM - 10.40 AM</p></td>
-          <td><p>Introduction to Agency Champions of WOGAA &amp; Superstar Champions Certificate Presentation</p></td>
+          <td nowrap="nowrap"><p><strong>10.25 AM - 10.40 AM</strong></p></td>
+          <td><p><strong>Introduction to Agency Champions of WOGAA &amp; Superstar Champions Certificate Presentation</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>10.40 AM - 10.50 AM</p></td>
-          <td><p>Guest-of-Honour Speech by Senior Minister of State at the Ministry of Digital Development and Information, Minister-in-Charge of GovTech, Dr. Janil Puthucheary</p></td>
+          <td nowrap="nowrap"><p><strong>10.40 AM - 10.50 AM</strong></p></td>
+          <td><p><strong>Guest-of-Honour Speech </strong><br>
+          by Senior Minister of State at the Ministry of Digital Development and Information, Minister-in-Charge of GovTech, Dr. Janil Puthucheary</p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>10.50 AM - 11.40 AM</p></td>
-          <td><p>Award Presentation</p></td>
+          <td nowrap="nowrap"><p><strong>10.50 AM - 11.40 AM</strong></p></td>
+          <td><p><strong>Award Presentation</strong></p></td>
         </tr>
         <tr>
-          <td nowrap="nowrap"><p>11.40 AM</p></td>
-          <td><p>Exhibition Booth Showcase &amp; Quiz</p></td>
+          <td nowrap="nowrap"><p><strong>11.40 AM</strong></p></td>
+          <td><p><strong>Exhibition Booth Showcase &amp; Quiz</strong></p></td>
         </tr>
       </tbody>
     </table>
