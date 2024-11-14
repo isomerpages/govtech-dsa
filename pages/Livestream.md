@@ -9,7 +9,7 @@ variant: markdown
     color: #B41E8E;
     font-weight: 700;
 }
-    .content td p, .content td li, .content center {margin-top:0;font-size:1rem;}
+    .content td p, .content td li, .content center {margin-top:0;font-size:1rem;line-height:1.5;}
 a.bp-button {
     text-decoration: none;
     font-weight: 600;
