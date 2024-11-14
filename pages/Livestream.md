@@ -49,7 +49,7 @@ table#award_cat th {
         <tr>
           <td nowrap="nowrap"><p>9.20 AM - 10 AM</p></td>
           <td><p>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</p>
-            <p>Moderator:Immanuel Goh, UX Designer, GovTech Design Practice<br>
+            <p>Moderator: Immanuel Goh, UX Designer, GovTech Design Practice<br>
               Panellists:<br>
             </p><ul>
               <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
