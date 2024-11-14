@@ -30,7 +30,7 @@ table#award_cat th {
     <p>Stay tuned to find out more about the exciting lineup of programmes, including exclusive insights from past winners, a panel discussion with industry experts, and the reveal of this year's winners.</p>
     <p><a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa24-home-registration">Register Now</a> </p>
     <hr>
-      <h4>Programme</h4>
+      <h4 style="text-align: left;">Programme</h4>
     <table id="award_cat" style="text-align: left;" cellpadding="0" cellspacing="0" border="0" width="100%">
       <thead>
         <tr>
