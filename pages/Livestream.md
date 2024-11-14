@@ -49,14 +49,13 @@ table#award_cat th {
         <tr>
           <td nowrap="nowrap"><p>9.20 AM - 10 AM</p></td>
           <td><p>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</p>
-            <p>Moderator: Immanuel Goh, UX Designer, GovTech Design Practice<br>
-              Panellists:<br>
-            </p><ul>
+            <p>Moderator: <br>
+            Immanuel Goh, UX Designer, GovTech Design Practice </p>
+             <p> Panellists:</p><ul>
               <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
               <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
               <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
-            </ul>
-          <p></p></td>
+            </ul></td>
         </tr>
         <tr>
           <td nowrap="nowrap"><p>10 AM - 10.10 AM</p></td>
