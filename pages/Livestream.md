@@ -9,7 +9,7 @@ variant: markdown
     color: #B41E8E;
     font-weight: 700;
 }
-    .content td p, .content td li{margin-top:0}
+    .content td p, .content td li, .content center {margin-top:0;font-size:1rem;}
 a.bp-button {
     text-decoration: none;
     font-weight: 600;
@@ -41,7 +41,7 @@ table#award_cat th {
       <tbody>
         <tr>
           <td nowrap="nowrap"><p><strong>9 AM - 9.15 AM</strong></p></td>
-          <td><p><strong>Introduction to Digital Services Awards 2024&nbsp;</strong></p></td>
+          <td><p><strong>Introduction to Digital Services Awards 2024</strong></p></td>
         </tr>
         <tr>
           <td nowrap="nowrap"><p><strong>9.15 AM - 9.20 AM</strong></p></td>
@@ -52,12 +52,12 @@ table#award_cat th {
           <td><p><strong>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</strong></p>
             <p><strong>Moderator:</strong><br>
             Immanuel Goh, UX Designer, GovTech Design Practice </p>
-             <p> <strong>Panellists:</strong>
+             <p><strong>Panellists:</strong>
              </p><ul>
               <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
               <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
               <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
-            </ul></td>
+              </ul><p></p></td>
         </tr>
         <tr>
           <td nowrap="nowrap"><p><strong>10 AM - 10.10 AM</strong></p></td>
