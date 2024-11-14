@@ -10,6 +10,7 @@ variant: markdown
     font-weight: 700;
 }
     .content td p, .content td li, .content center {margin-top:0;font-size:1rem;line-height:1.5;}
+    .content td ul > li:last-child {}
 a.bp-button {
     text-decoration: none;
     font-weight: 600;
