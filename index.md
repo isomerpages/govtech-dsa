@@ -22,7 +22,7 @@ sections:
           description: View our finalists this year
           url: best-usability
       variant: floating
-      title: Celebrate the best in Digital Services!
+      title: "Digital Services Awards 2024: Vote, Celebrate & Win Prizes!"
       backgroundColor: gray
       alignment: right
       size: md
