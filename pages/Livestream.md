@@ -9,8 +9,6 @@ variant: markdown
     color: #B41E8E;
     font-weight: 700;
 }
-    .content td p, .content td li, .content center {margin-top:0;font-size:1rem;line-height:1.5;}
-    .content td ul > li:last-child {margin-bottom:1rem;}
 a.bp-button {
     text-decoration: none;
     font-weight: 600;
@@ -18,74 +16,126 @@ a.bp-button {
 a.bp-button:hover {
     text-decoration: underline;
 }
+.video-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+/* Then style the iframe to fit in the container div with full height and width */
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+.content ul > li:last-child, .content ol > li, .content ul > li {
+    margin: 0;
+}
+.content td p, .content td li, .content center {
+    margin-top: 0;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+.content td ul > li:last-child {
+    margin-bottom: 1rem;
+}
+ul.jekyllcodex_accordion>li>label::before {
+    line-height: 2rem;
+}
 table#award_cat th {
     background: #78145F;
     color: #fff;
     font-weight: 700;
 }
 </style>
-<div class="row is-multiline">
-  <div class="col is-12 has-text-centered">
-    <div><img style="max-width:40%" alt="2024 DSA logo" src="/images/DSA2024_logo.svg"></div>
-    <h4>Digital Services Awards 2024 livestream registration is open until 27 November, 6pm!</h4>
-    <p>Stay tuned to find out more about the exciting lineup of programmes, including exclusive insights from past winners, a panel discussion with industry experts, and the reveal of this year's winners.</p>
-    <p><a target="_blank" class="bp-button is-primary is-uppercase" href="https://go.gov.sg/dsa24-home-registration">Register Now</a> </p>
-    <hr>
-      <h4 style="text-align: left;">Programme</h4>
-    <table id="award_cat" style="text-align: left;" cellpadding="0" cellspacing="0" border="0" width="100%">
-      <thead>
-        <tr>
-          <th scope="col" nowrap="nowrap">Time</th>
-          <th scope="col">Item</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td nowrap="nowrap"><p><strong>9 AM - 9.15 AM</strong></p></td>
-          <td><p><strong>Introduction to Digital Services Awards 2024</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>9.15 AM - 9.20 AM</strong></p></td>
-          <td><p><strong>Live Voting Commences: Most Popular Informational Website (Government &amp; Industry)</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>9.20 AM - 10 AM</strong></p></td>
-          <td><p><strong>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</strong></p>
-            <p><strong>Moderator:</strong><br>
-            Immanuel Goh, UX Designer, GovTech Design Practice </p>
-             <p><strong>Panellists:</strong>
-             </p><ul>
-              <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
-              <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
-              <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
-              </ul><p></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>10 AM - 10.10 AM</strong></p></td>
-          <td><p><strong>Keynote Presentation by Agency Winner</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>10.10 AM - 10.25 AM</strong></p></td>
-          <td><p><strong>Break</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>10.25 AM - 10.40 AM</strong></p></td>
-          <td><p><strong>Introduction to Agency Champions of WOGAA &amp; Superstar Champions Certificate Presentation</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>10.40 AM - 10.50 AM</strong></p></td>
-          <td><p><strong>Guest-of-Honour Speech </strong><br>
-          by Senior Minister of State at the Ministry of Digital Development and Information, Minister-in-Charge of GovTech, Dr. Janil Puthucheary</p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>10.50 AM - 11.40 AM</strong></p></td>
-          <td><p><strong>Award Presentation</strong></p></td>
-        </tr>
-        <tr>
-          <td nowrap="nowrap"><p><strong>11.40 AM</strong></p></td>
-          <td><p><strong>Exhibition Booth Showcase &amp; Quiz</strong></p></td>
-        </tr>
-      </tbody>
-    </table>
+<div class="video-wrapper">
+  <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=J5BcppFxGX9ak15V" class="responsive-iframe"></iframe>
+</div>
+<div class="row has-text-left">
+  <div class="col is-12">
+    <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
+    <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
+    <p>In addition to the award presentations, this event will also highlight keynote speeches from distinguished individuals, including the Guest of Honour Senior Minister of State Dr. Janil Puthucheary, winners, and a member of the judging panel.</p>
+    <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
+      Join the quiz and stand a chance to win e-vouchers here: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa2023-quiz">https://go.gov.sg/dsa2023-quiz</a> <br>
+      Let us know how you felt about today and stand a chance to win e-vouchers here: <a target="_blank" title="Link to let us know how you felt about today" href="https://go.gov.sg/dsa2023-feedback">https://go.gov.sg/dsa2023-feedback</a></p>
+    <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.</p>
+    <p>If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
+    <ul class="jekyllcodex_accordion">
+      <li>
+        <input id="acc-agenda" type="checkbox">
+        <label for="acc-agenda">Programme</label>
+        <div>
+          <table id="award_cat" style="text-align: left;" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <thead>
+              <tr>
+                <th scope="col" nowrap="nowrap">Time</th>
+                <th scope="col">Item</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td nowrap="nowrap"><p><strong>9 AM - 9.15 AM</strong></p></td>
+                <td><p><strong>Introduction to Digital Services Awards 2024</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>9.15 AM - 9.20 AM</strong></p></td>
+                <td><p><strong>Live Voting Commences: Most Popular Informational Website (Government &amp; Industry)</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>9.20 AM - 10 AM</strong></p></td>
+                <td><p><strong>Panel Discussion - Powering Good Usability with Co-Creation: Best Practices and Takeaways</strong></p>
+                  <p><strong>Moderator:</strong><br>
+                    Immanuel Goh, UX Designer, GovTech Design Practice </p>
+                  <p><strong>Panellists:</strong>
+                  
+                  </p><ul>
+                    <li>Amanda Mace, W3C Evangelist, Vice President (Australasia) of GrackleDocs</li>
+                    <li>Joy Tan, Senior Assistant Director, Customer Experience Design, MOE</li>
+                    <li>Muhammad Rajeef MK, UX Engineering Lead, Google</li>
+                  </ul>
+                  <p></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>10 AM - 10.10 AM</strong></p></td>
+                <td><p><strong>Keynote Presentation by Agency Winner</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>10.10 AM - 10.25 AM</strong></p></td>
+                <td><p><strong>Break</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>10.25 AM - 10.40 AM</strong></p></td>
+                <td><p><strong>Introduction to Agency Champions of WOGAA &amp; Superstar Champions Certificate Presentation</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>10.40 AM - 10.50 AM</strong></p></td>
+                <td><p><strong>Guest-of-Honour Speech </strong><br>
+                    by Senior Minister of State at the Ministry of Digital Development and Information, Minister-in-Charge of GovTech, Dr. Janil Puthucheary</p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>10.50 AM - 11.40 AM</strong></p></td>
+                <td><p><strong>Award Presentation</strong></p></td>
+              </tr>
+              <tr>
+                <td nowrap="nowrap"><p><strong>11.40 AM</strong></p></td>
+                <td><p><strong>Exhibition Booth Showcase &amp; Quiz</strong></p></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </li>
+      <li>
+        <input id="acc-links" type="checkbox">
+        <label for="acc-links">Resources and Links</label>
+        <div>
+          <p>Online Booth Guide: XXXXX</p>
+        </div>
+      </li>
+    </ul>
   </div>
 </div>
