@@ -282,7 +282,7 @@ a.backtotop:hover {
       <div class="content">
         <div class="winner">Ng Wei Ming, <br>
           Nominated by HTX</div>
-        <p>xxxxx</p>
+        <p>Dr. Ng Wei Ming "Bruce" has been instrumental in supporting SCDF’s Community First Responder (CFR) programme, powered by the myResponder app, by creating and managing a Facebook group since 2019. This group encourages CFRs to use the app, share feedback, and remain active despite challenges like resource consumption for geolocation. On the ground, Dr. Ng, a trained emergency doctor, reassures fellow responders during cardiac arrest cases, motivating them to continue volunteering. Following the launch of myResponder 2.0, he promoted its adoption, submitted feedback, and proposed a new CPR performance feature, which is being considered for future updates. Dr. Ng’s efforts have helped save over 40 lives, with 13 personal responses.</p>
       </div>
     </div>
   </article>
@@ -292,7 +292,7 @@ a.backtotop:hover {
       <div class="content">
         <div class="winner">Tham Wai Chung &amp; Qhek Hwee Boon, <br>
           Nominated by CPFB</div>
-        <p>xxxxx</p>
+        <p>Tham Wai Chung and Qhek Hwee Boon, a dedicated married couple, have been instrumental in advancing CPF's digital literacy initiatives since 2021. As CPF e-Xperience Guides, they have tirelessly volunteered over 57 hours each at 19 events from August 2023 to July 2024, helping seniors navigate CPF's online tools and sharing crucial scam prevention tips. Their relatable approach, coupled with their efforts to improve workshop materials and mentor new volunteers, has greatly enhanced the accessibility and effectiveness of CPF services for the elderly. Their leadership and commitment to digital empowerment make them outstanding nominees for the Outstanding Citizen Contributor Award.</p>
       </div>
     </div>
   </article>
@@ -302,7 +302,7 @@ a.backtotop:hover {
       <div class="content">
         <div class="winner">Tan Bing Wen<br>
           Nominated by MCCY</div>
-        <p>xxxxx</p>
+        <p>Mr. Tan Bing Wen, founder of CheckMate, and his team are nominated for the Outstanding Citizen Contributor Award for their impactful efforts in combating misinformation and scams through their platform, CheckMate. Since its launch in March 2023, CheckMate has empowered over 1,600 users to actively verify and categorize suspicious messages, significantly enhancing government trust and safety initiatives. With a network of over 30 volunteers, CheckMate reviews and verifies more than 50 messages weekly, playing a crucial role in protecting citizens from digital threats. Their collaboration with various government agencies and community organizations has expanded their reach, and upcoming partnerships promise to further scale their impact. Mr. Tan’s leadership and the team's innovative approach have made substantial contributions to Singapore’s online safety and trust ecosystem, embodying the spirit of the award through their dedication to public service and community engagement.</p>
       </div>
     </div>
   </article>
