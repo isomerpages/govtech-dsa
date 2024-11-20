@@ -21,6 +21,7 @@ a.bp-button:hover {
     overflow: hidden;
     width: 100%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+    margin-bottom:1.5rem;
 }
 /* Then style the iframe to fit in the container div with full height and width */
 .responsive-iframe {
@@ -131,9 +132,9 @@ table#award_cat th {
       </li>
       <li>
         <input id="acc-links" type="checkbox">
-        <label for="acc-links">Important Links</label>
+        <label for="acc-links">Links and Resources</label>
         <div>
-          <p>&nbsp;</p>
+          <p>Event booth guide: XXXXX</p>
         </div>
       </li>
     </ul>
