@@ -58,7 +58,7 @@ table#award_cat th {
 </div>
 <div class="row has-text-left">
   <div class="col is-12">
-    <p><strong>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</strong></p>
+      <h4>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</h4>
     <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
     <p>In addition to the award presentations, this event will also highlight keynote speeches from distinguished individuals, including the Guest of Honour Senior Minister of State Dr. Janil Puthucheary, winners, and a member of the judging panel.</p>
     <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
