@@ -45,7 +45,7 @@ a.bp-button:hover {
     margin-bottom: 1rem;
 }
 ul.jekyllcodex_accordion>li>label::before {
-    line-height: 2rem;
+    line-height: 1.5rem;
 }
 table#award_cat th {
     background: #78145F;
