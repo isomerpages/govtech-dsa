@@ -35,7 +35,7 @@ a.bp-button:hover {
 .content ul > li:last-child, .content ol > li, .content ul > li {
     margin: 0;
 }
-.content td p, .content td li, .content center {
+.content p, .content li, .content center {
     margin-top: 0;
     font-size: 1rem;
     line-height: 1.5;
@@ -131,9 +131,9 @@ table#award_cat th {
       </li>
       <li>
         <input id="acc-links" type="checkbox">
-        <label for="acc-links">Resources and Links</label>
+        <label for="acc-links">Important Links</label>
         <div>
-          <p>Online Booth Guide: XXXXX</p>
+          <p>&nbsp;</p>
         </div>
       </li>
     </ul>
