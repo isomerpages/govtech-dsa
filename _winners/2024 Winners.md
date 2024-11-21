@@ -254,7 +254,7 @@ a.backtotop:hover {
 <h4 id="muw" class="has-text-centered">Most User Centric Website</h4>
 <div class="row is-multiline">
  <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G.png"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
