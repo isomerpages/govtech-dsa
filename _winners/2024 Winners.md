@@ -120,7 +120,7 @@ a.backtotop:hover {
 <h4 id="bu" class="has-text-centered">Best Usability (Government)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/gov_cpf.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/BU_G.png"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
@@ -142,7 +142,7 @@ a.backtotop:hover {
 <h4 class="has-text-centered">Best Usability (Industry)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/industry_autism.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/BU_I.png"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
@@ -209,7 +209,7 @@ a.backtotop:hover {
 <h4 id="mmow" class="has-text-centered">Most Mobile Optimisesd Website (Government)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G.png"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
@@ -231,7 +231,7 @@ a.backtotop:hover {
 <h4 class="has-text-centered">Most Mobile Optimised Website (Industry)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/industry_accenture.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_I.png"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
@@ -254,7 +254,7 @@ a.backtotop:hover {
 <h4 id="muw" class="has-text-centered">Most User Centric Website</h4>
 <div class="row is-multiline">
  <div class="col is-3">
-    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/gov_moe.png"></figure>
+    <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G"></figure>
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
