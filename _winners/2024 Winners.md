@@ -492,7 +492,11 @@ a.backtotop:hover {
     <div class="media-content">
       <div class="content">
         <div class="classification">Category B</div>
-        <div class="winner">Institute of Technical Education</div>
+        <div class="winner">Department of Statistics</div>
+          <div class="winner">Ministry of Foreign Affairs</div>
+          <div class="winner">Ministry of Transport</div>
+          <div class="winner">Singapore Civil Defence Force</div>
+          <div class="winner">Singapore Examinations and Assessment Board</div>
       </div>
     </div>
   </article>
@@ -501,7 +505,8 @@ a.backtotop:hover {
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
-        <div class="winner">National Heritage Board</div>
+        <div class="winner">Central Provident Fund Board</div>
+          <div class="winner">Immigration &amp; Checkpoints Authority</div>
       </div>
     </div>
   </article>
