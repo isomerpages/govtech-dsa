@@ -5,9 +5,10 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-.content h4 , label[for="acc-agenda"]{
+.content h4 , ul.jekyllcodex_accordion>li>label[for="acc-agenda"]{
     color: #B41E8E;
     font-weight: 700;
+    font-size:1.25rem;
 }
 a.bp-button {
     text-decoration: none;
