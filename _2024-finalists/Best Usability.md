@@ -87,7 +87,7 @@ description: ""
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_supportgowhere.png"></div>
 		<div class="winner">Support For You Calculator</div>
-		<div class="classification"><a target="_blank" href="https://supportgowhere.life.gov.sg">https://supportgowhere.life.gov.sg</a></div>
+		<div class="classification"><a target="_blank" href="https://supportgowhere.life.gov.sg/budget/support-calculator">https://supportgowhere.life.gov.sg/budget/support-calculator</a></div>
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/gov_toteboard.png"></div>
