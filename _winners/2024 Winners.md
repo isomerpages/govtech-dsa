@@ -131,7 +131,7 @@ a.backtotop:hover {
     <p><strong>Honourable Mention</strong></p>
   </div>
   <div class="col is-5">
-    <div class="winner has-text-left">SupportGoWhere Website</div>
+    <div class="winner has-text-left">Support For You Calculator</div>
     <p class="margin--top--none"><a target="_blank" href="https://supportgowhere.life.gov.sg">https://supportgowhere.life.gov.sg</a></p>
   </div>
   <div class="col is-4">
