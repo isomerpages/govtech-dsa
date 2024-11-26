@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-.content h4 , ul.jekyllcodex_accordion>li>label[for="acc-agenda"]{
+.content h4 , ul.jekyllcodex_accordion>li>label[for="acc-agenda"], ul.jekyllcodex_accordion>li>label[for="acc-links"]{
     color: #B41E8E;
     font-weight: 700;
     font-size:1.25rem;
