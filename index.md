@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
-      button: Register Now
-      url: https://go.gov.sg/dsa24-home-registration
+      button: Watch Now
+      url: /livestream
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,12 +22,12 @@ sections:
           description: View our finalists this year
           url: best-usability
       variant: floating
-      title: Celebrate the best in Digital Services!
+      title: Digital Services Awards 2024 – Live Now!
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: Register before 27 November to learn from experts, vote for the Most
-        Popular Informational Website, and win exciting prizes through quizzes!
+      subtitle: Tune in to the livestream happening now until 1pm to discover the
+        winners!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
