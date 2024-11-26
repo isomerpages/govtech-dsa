@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <style type="text/css">
-.content h4 {
+.content h4 , label[for="acc-agenda"]{
     color: #B41E8E;
     font-weight: 700;
 }
@@ -58,13 +58,13 @@ table#award_cat th {
 </div>
 <div class="row has-text-left">
   <div class="col is-12">
-      <h4>Celebrate digital excellence alongside government agencies, private organisations, and citizens!</h4>
-    <p>In its 3rd iteration, GovTech’s Digital Services Awards now opens its doors to the private sector and citizens who have elevated digital service standards across Singapore, with the theme “Empathy at the Heart of Tech”.</p>
-    <p>In addition to the award presentations, this event will also highlight keynote speeches from distinguished individuals, including the Guest of Honour Senior Minister of State Dr. Janil Puthucheary, winners, and a member of the judging panel.</p>
-    <p>Vote for the Most Popular Informational Website here: <a target="_blank" title="Link to vote for most popular website" href="https://go.gov.sg/dsa2023-vote">https://go.gov.sg/dsa2023-vote</a><br>
-      Join the quiz and stand a chance to win e-vouchers here: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa2023-quiz">https://go.gov.sg/dsa2023-quiz</a> <br>
-      Let us know how you felt about today and stand a chance to win e-vouchers here: <a target="_blank" title="Link to let us know how you felt about today" href="https://go.gov.sg/dsa2023-feedback">https://go.gov.sg/dsa2023-feedback</a></p>
-    <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Link to Youtube" href="https://go.gov.sg/dsa2023-publiclivestreamyt">YouTube</a>.</p>
+    <h4>Join us as we celebrate outstanding digital services!</h4>
+    <p>In its 4th edition, GovTech’s Digital Services Awards, themed Sparking Co-creation, Igniting Innovation, celebrates the power of collaboration in enhancing digital services. This year, we introduced two new award categories: Most Mobile Optimised Website and Most User-Centric Website, recognising exceptional websites that prioritise seamless mobile experiences and leverage citizen feedback to continually enhance usability and user satisfaction.</p>
+    <p>In addition to the award presentations, the event will feature an insightful panel discussion with industry experts from Google, GovTech, GrackleDocs, and the Ministry of Education (MOE). Attendees will also hear a keynote address from a past award winner, alongside remarks from our Guest of Honour, Senior Minister of State Dr. Janil Puthucheary.</p>
+    <p>Vote for the Most Popular Informational Website: <a target="_blank" title="Link to vote" href="go.gov.sg/dsa24-vote">go.gov.sg/dsa24-vote</a><br>
+      Join the quiz and stand a chance to win e-vouchers: <a target="_blank" title="Link to join quiz" href="go.gov.sg/dsa24-quiz">go.gov.sg/dsa24-quiz</a><br>
+      Let us know how you felt about today and stand a chance to win a voucher here: <a target="_blank" title="Feedback and win voucher" href="go.gov.sg/dsa2024-fb">go.gov.sg/dsa2024-fb</a></p>
+    <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Watch on Youtube" href="https://go.gov.sg/dsa24-youtube">YouTube</a>.</p>
     <p>If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
     <ul class="jekyllcodex_accordion">
       <li>
