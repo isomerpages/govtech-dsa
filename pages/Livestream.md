@@ -62,9 +62,9 @@ table#award_cat th {
     <h4>Join us as we celebrate outstanding digital services!</h4>
     <p>In its 4th edition, GovTech’s Digital Services Awards, themed Sparking Co-creation, Igniting Innovation, celebrates the power of collaboration in enhancing digital services. This year, we introduced two new award categories: Most Mobile Optimised Website and Most User-Centric Website, recognising exceptional websites that prioritise seamless mobile experiences and leverage citizen feedback to continually enhance usability and user satisfaction.</p>
     <p>In addition to the award presentations, the event will feature an insightful panel discussion with industry experts from Google, GovTech, GrackleDocs, and the Ministry of Education (MOE). Attendees will also hear a keynote address from a past award winner, alongside remarks from our Guest of Honour, Senior Minister of State Dr. Janil Puthucheary.</p>
-    <p>Vote for the Most Popular Informational Website: <a target="_blank" title="Link to vote" href="go.gov.sg/dsa24-vote">go.gov.sg/dsa24-vote</a><br>
-      Join the quiz and stand a chance to win e-vouchers: <a target="_blank" title="Link to join quiz" href="go.gov.sg/dsa24-quiz">go.gov.sg/dsa24-quiz</a><br>
-      Let us know how you felt about today and stand a chance to win a voucher here: <a target="_blank" title="Feedback and win voucher" href="go.gov.sg/dsa2024-fb">go.gov.sg/dsa2024-fb</a></p>
+    <p>Vote for the Most Popular Informational Website: <a target="_blank" title="Link to vote" href="https://go.gov.sg/dsa24-vote">go.gov.sg/dsa24-vote</a><br>
+      Join the quiz and stand a chance to win e-vouchers: <a target="_blank" title="Link to join quiz" href="https://go.gov.sg/dsa24-quiz">go.gov.sg/dsa24-quiz</a><br>
+      Let us know how you felt about today and stand a chance to win a voucher here: <a target="_blank" title="Feedback and win voucher" href="https://go.gov.sg/dsa2024-fb">go.gov.sg/dsa2024-fb</a></p>
     <p>If you are encountering problems viewing the livestream player on this page, you can try viewing the livestream directly on <a target="_blank" title="Watch on Youtube" href="https://go.gov.sg/dsa24-youtube">YouTube</a>.</p>
     <p>If you have any questions, email <a target="_blank" href="mailto:support@digitalservicesawards.gov.sg"><u>support@digitalservicesawards.gov.sg</u></a>.</p>
     <ul class="jekyllcodex_accordion">
@@ -135,7 +135,7 @@ table#award_cat th {
         <input id="acc-links" type="checkbox">
         <label for="acc-links">Links and Resources</label>
         <div>
-          <p>Event booth guide: XXXXX</p>
+            <p><strong>Exhibition Booth Overview:</strong> <a target="_blank" title="Link to Exhibition Booth" href="https://go.gov.sg/dsa24-boothoverview">go.gov.sg/dsa24-boothoverview</a></p>
         </div>
       </li>
     </ul>
