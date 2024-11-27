@@ -132,7 +132,7 @@ a.backtotop:hover {
   </div>
   <div class="col is-5">
     <div class="winner has-text-left">Support For You Calculator</div>
-    <p class="margin--top--none"><a target="_blank" href="https://supportgowhere.life.gov.sg">https://supportgowhere.life.gov.sg</a></p>
+    <p class="margin--top--none"><a target="_blank" href="https://supportgowhere.life.gov.sg/budget/support-calculator">https://supportgowhere.life.gov.sg/budget/support-calculator</a></p>
   </div>
   <div class="col is-4">
     <div class="winner has-text-left">MOE Corporate Website</div>
