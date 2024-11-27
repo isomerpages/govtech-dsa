@@ -55,7 +55,7 @@ table#award_cat th {
 }
 </style>
 <div class="video-wrapper">
-  <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/jfKfPfyJRdk?si=J5BcppFxGX9ak15V" class="responsive-iframe"></iframe>
+  <iframe allowfullscreen="true" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Ty1en3lO-5o?si=8mAcjToCPXE7HUNP" class="responsive-iframe"></iframe>
 </div>
 <div class="row has-text-left">
   <div class="col is-12">
