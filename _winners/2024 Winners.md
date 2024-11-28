@@ -206,7 +206,7 @@ a.backtotop:hover {
   </div>
 </div>
 <hr>
-<h4 id="mmow" class="has-text-centered">Most Mobile Optimisesd Website (Government)</h4>
+<h4 id="mmow" class="has-text-centered">Most Mobile Optimised Website (Government)</h4>
 <div class="row is-multiline">
   <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G.png"></figure>
@@ -358,7 +358,7 @@ a.backtotop:hover {
     <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
     <div class="media-content">
       <div class="content">
-        <div class="winner">Glendon Tan</div>
+        <div class="winner">Tan Yang Hwee</div>
       </div>
     </div>
   </article>
