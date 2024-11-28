@@ -130,13 +130,13 @@ a.backtotop:hover {
   <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
   </div>
+    <div class="col is-4">
+    <div class="winner has-text-left">MOE Corporate Website</div>
+    <p class="margin--top--none"><a target="_blank" href="https://www.moe.gov.sg">https://www.moe.gov.sg</a></p>
+  </div>
   <div class="col is-5">
     <div class="winner has-text-left">Support For You Calculator</div>
     <p class="margin--top--none"><a target="_blank" href="https://supportgowhere.life.gov.sg/budget/support-calculator">https://supportgowhere.life.gov.sg/budget/support-calculator</a></p>
-  </div>
-  <div class="col is-4">
-    <div class="winner has-text-left">MOE Corporate Website</div>
-    <p class="margin--top--none"><a target="_blank" href="https://www.moe.gov.sg">https://www.moe.gov.sg</a></p>
   </div>
 </div>
 <h4 class="has-text-centered">Best Usability (Industry)</h4>
@@ -336,7 +336,7 @@ a.backtotop:hover {
   </article>
 </div>
 <h4 id="occ-ctsg" class="has-text-centered">Outstanding Citizen Contributor (CrowdTaskSG)</h4>
-<p>CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2023 were selected as winners. </p>
+<p>CrowdTaskSG is a gamified crowdsourcing portal that allows citizens to collaborate with government agencies through surveys. The top 3 most active CrowdTaskSG users during the period of Jan to Sep 2024 were selected as winners. </p>
 <div class="grid-container g-col-3">
   <article class="media">
     <figure class="media-left"><img alt="" src="/images/trophy1_2023.svg"></figure>
