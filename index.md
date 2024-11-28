@@ -9,8 +9,8 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
-      button: Watch Now
-      url: /livestream
+      button: 2024 Winners
+      url: /2024-winners/
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
@@ -22,12 +22,13 @@ sections:
           description: View our finalists this year
           url: best-usability
       variant: floating
-      title: Digital Services Awards 2024 Ceremony
+      title: Congratulations to the Winners of DSA 2024!
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: Tune in to the livestream starting on 28 Nov, 9am to discover the
-        winners!
+      subtitle: A big thank you to everyone who participated and showcased outstanding
+        achievements this year, as well as to all who tuned in to our
+        livestream!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
