@@ -1,5 +1,4 @@
 collections:
   2024-finalists:
     output: true
-    order:
-      - Most User Centric Website.md
+    order: []
