@@ -2,6 +2,11 @@ collections:
   winners:
     output: true
     order:
+      - 2024 Winners.md
+      - 2024 Finalists/.keep
+      - 2024 Finalists/Best Usability.md
+      - 2024 Finalists/Most Mobile Optimised Website.md
+      - 2024 Finalists/Most User Centric Website.md
       - 2023 Winners.md
       - 2023 Finalists.md
       - 2022 Winners.md
