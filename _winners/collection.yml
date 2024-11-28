@@ -2,6 +2,7 @@ collections:
   winners:
     output: true
     order:
+      - 2024 Winners.md
       - 2024 Finalists/.keep
       - 2023 Winners.md
       - 2023 Finalists.md
