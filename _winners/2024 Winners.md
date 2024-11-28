@@ -402,7 +402,7 @@ a.backtotop:hover {
     <div class="media-content">
       <div class="content">
         <div class="classification">Category C</div>
-        <div class="winner">National Environment Agency (NEA)</div>
+        <div class="winner">National Environment Agency</div>
       </div>
     </div>
   </article>
