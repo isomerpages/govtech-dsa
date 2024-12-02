@@ -16,6 +16,6 @@ variant: markdown
   <div class="col is-12 has-text-centered">
         <div><img style="max-width:40%" alt="2024 DSA logo" src="/images/DSA2024_logo.svg"></div>
     <h4><strong>The livestream has ended.</strong></h4>
-      <p>Stay tuned for more updates on the Digital Services Award 2025. See you next year!</p>
+      <p>Stay tuned for more updates on the Digital Services Awards 2025. See you next year!<br>In the meantime, check out our 2024 winners!</p>
     <a class="bp-button is-primary is-uppercase" href="/winners/2024/">Check out our 2024 winners</a> </div>
 </div>
