@@ -190,7 +190,7 @@ a.backtotop:hover {
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
-    <div class="winner has-text-left">UOB Business Website</div>
+    <div class="winner has-text-left">UOB Group Wholesale Banking Website</div>
     <p class="margin--top--none"><a href="https://www.uob.com.sg/business/index.page" target="_blank">https://www.uob.com.sg/business/index.page</a></p>
   </div>
     <div class="col is-3">
