@@ -1,6 +1,6 @@
 ---
 title: 2024 Winners
-permalink: /2024-winners/
+permalink: /winners/2024/
 variant: markdown
 description: ""
 ---
