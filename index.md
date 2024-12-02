@@ -10,7 +10,7 @@ sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
       button: 2024 Winners
-      url: /2024-winners/
+      url: /winner/2024
       key_highlights:
         - title: Stay Updated
           description: Get the latest DSA news
