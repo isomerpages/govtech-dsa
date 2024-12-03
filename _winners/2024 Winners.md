@@ -147,7 +147,7 @@ a.backtotop:hover {
   <div class="col is-9">
       <div class="classification">Winner</div>
     <div class="winner has-text-left">Autism Resource Centre Singapore Website</div>
-    <p class="margin--top--none"><a target="_blank" href="https://gardensbythebay.com.sg">https://www.autism.org.sg</a></p>
+    <p class="margin--top--none"><a target="_blank" href="https://www.autism.org.sg">https://www.autism.org.sg</a></p>
   </div>
   <div class="col is-3">
     <p><strong>Honourable Mention</strong></p>
@@ -190,7 +190,7 @@ a.backtotop:hover {
   </div>
   <div class="col is-9">
       <div class="classification">Winner</div>
-    <div class="winner has-text-left">UOB Business Website</div>
+    <div class="winner has-text-left">UOB Group Wholesale Banking Website</div>
     <p class="margin--top--none"><a href="https://www.uob.com.sg/business/index.page" target="_blank">https://www.uob.com.sg/business/index.page</a></p>
   </div>
     <div class="col is-3">
@@ -251,7 +251,7 @@ a.backtotop:hover {
   </div>
 </div>
 <hr>
-<h4 id="mucw" class="has-text-centered">Most User Centric Website</h4>
+<h4 id="mucw" class="has-text-centered">Most User-Centric Website</h4>
 <div class="row is-multiline">
  <div class="col is-3">
     <figure class="image is-5by4 margin--none"><img alt="" src="/images/2024%20Finalists/MMOW_G.png"></figure>
