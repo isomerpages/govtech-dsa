@@ -146,7 +146,7 @@ third_nav_title: 2024 Finalists
 	</div>
 	<div class="content">
 		<div><img alt="" src="/images/2024%20Finalists/industry_uob.png"></div>
-		<div class="winner">UOB Group Wholesale Banking Website</div>
+		<div class="winner">UOB Business Website</div>
 		<div class="classification"><a target="_blank" href="https://www.uob.com.sg/business/index.page">https://www.uob.com.sg/business/index.page</a></div>
 	</div>
 </div>
