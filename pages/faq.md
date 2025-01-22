@@ -49,7 +49,7 @@ table#award_cat th {
   <li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4">When will the event be held?</label>
-    <div><p>The event will be held in November 2024. Stay tuned!</p>
+    <div><p>The event was held on 28 November 2024. Stay tuned for more info on DSA 2025!</p>
     </div>
   </li>
 </ul>
