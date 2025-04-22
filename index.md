@@ -9,7 +9,7 @@ notification: ""
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
-      button: 2024 Winners
+      button: In the meantime, check out the 2024 Winners
       url: /winners/2024
       key_highlights:
         - title: Stay Updated
@@ -22,13 +22,12 @@ sections:
           description: View our finalists this year
           url: best-usability
       variant: floating
-      title: Congratulations to the Winners of DSA 2024!
+      title: DSA 2025 is coming soon!
       backgroundColor: gray
       alignment: right
       size: md
-      subtitle: A big thank you to everyone who participated and showcased outstanding
-        achievements this year, as well as to all who tuned in to our
-        livestream!
+      subtitle: Thank you to everyone who participated last year. Stay tuned — more
+        information about Digital Services Awards 2025 will be released in May!
   - infobar:
       title: What is the Digital Services Awards (DSA)?
       description: The awards recognise outstanding achievements and excellence in
