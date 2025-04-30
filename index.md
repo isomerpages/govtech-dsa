@@ -5,7 +5,8 @@ description: Digital Services Awards 2024 organised by Whole-of-Government
   Application Analytics (WOGAA)
 image: /images/DSA2024_KV.jpg
 permalink: /
-notification: ""
+notification: Please note that our website will be going under maintenance on 5
+  May 2025 from 4:30pm-5:30pm.
 sections:
   - hero:
       background: /images/DSA2024_RegistrationBanner_2000x507__4_Nov_.jpg
